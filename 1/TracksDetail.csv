@@ -1,0 +1,961 @@
+,trackName,artistName,albumName,populartySong,genres,populartyArtist
+0,Linus Hasselberg,"Granada, Granada",Lila grusvägen vid Río Genil,35,[],26
+1,Matisyahu,Youth,Jerusalem,49,['reggae fusion'],56
+2,Lord Huron,Strange Trails,Fool for Love,83,"['indie folk', 'stomp and holler']",71
+3,Charlie Cunningham,Minimum,Minimum,64,"['british singer-songwriter', 'indie folk']",53
+4,Birdy,Live in London,The a Team - Live at the Tabernacle,71,['pop'],67
+5,Peter LeMarc,LeMarc - Klassiker,Little Willie John,50,"['classic swedish pop', 'swedish pop', 'swedish singer-songwriter', 'swedish soul']",45
+6,Robyn,Body Talk,Dancing On My Own,56,"['art pop', 'dance pop', 'electropop', 'europop', 'pop', 'scandipop', 'swedish electropop', 'swedish pop']",61
+7,Damien Rice,My Favourite Faded Fantasy,Colour Me In,60,"['acoustic pop', 'irish rock', 'irish singer-songwriter', 'neo mellow', 'singer-songwriter']",58
+8,Lars Winnerbäck,Utanför album 1,Så länge skutan kan gå,59,"['classic swedish pop', 'swedish pop', 'swedish singer-songwriter']",56
+9,Panic! At The Disco,Pray for the Wicked,High Hopes,89,['modern rock'],78
+10,Säkert!,Snooza,Snooza,43,"['swedish hip hop', 'swedish pop', 'swedish pop rap']",55
+11,Hampus Nessvold,Soundtrack of My Life,Soundtrack of My Life,44,[],26
+12,James Gillespie,Don't Let Me Get Me,Don't Let Me Get Me,67,"['edm', 'pop', 'pop dance', 'tropical house']",79
+13,Matisyahu,Akeda,Akeda,49,['reggae fusion'],56
+14,Kygo,Firestone,Firestone,82,"['edm', 'pop', 'pop dance', 'tropical house']",79
+15,Jack Vallier,Rebekah,Rebekah,46,[],33
+16,Hozier,Take Me To Church,Take Me To Church,78,"['edm', 'pop', 'pop dance', 'pop house', 'tropical house']",72
+17,Florence + The Machine,Between Two Lungs,You've Got The Love,76,"['baroque pop', 'pop', 'uk alternative pop']",75
+18,Calvin Harris,One Kiss (with Dua Lipa),One Kiss (with Dua Lipa),89,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",84
+19,The Ronettes,Presenting the Fabulous Ronettes Featuring Veronica,Be My Baby,69,"['brill building pop', 'classic girl group', 'soul']",55
+20,Miss Li,Dancing the Whole Way Home,Dancing the Whole Way Home,74,"['classic swedish pop', 'swedish pop']",62
+21,The Rasmus,Dead Letters,In the Shadows,67,"['finnish alternative rock', 'funk metal']",58
+22,Bayside,Bayside,Devotion and Desire,65,['irish electronic'],50
+23,Dagny,Ultraviolet EP,Too Young,39,"['classic swedish pop', 'danspunk', 'swedish rock-and-roll', 'vintage swedish pop']",31
+24,The Goo Goo Dolls,Greatest Hits Volume One - The Singles,Sympathy,75,"['neo mellow', 'permanent wave', 'pop rock']",70
+25,Imagine Dragons,Night Visions,Bleeding Out,88,"['modern rock', 'rock']",86
+26,Veronica Maggio,Den första är alltid gratis,Svart sommar,67,['swedish pop'],65
+27,Thomas Stenström,Rör inte min kompis!,Kostym,69,['swedish pop'],61
+28,Peter Sarstedt,The Lost Album,Where Do You Go To (My Lovely) [Re-Recorded],54,['british folk'],42
+29,1900,Tekno,Melodier med krökta ryggar,41,[],28
+30,Lady Gaga,Revamp: The Songs Of Elton John & Bernie Taupin,Your Song,85,"['art pop', 'dance pop', 'pop']",83
+31,Bastille,Bad Blood,Oblivion,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+32,Imagine Dragons,Night Visions,Selene,88,"['modern rock', 'rock']",86
+33,Bright Eyes,"I'm Wide Awake, It's Morning",First Day Of My Life,61,"['adult standards', 'brill building pop', 'country rock', 'folk', 'folk rock', 'mellow gold', 'soft rock']",50
+34,Anna Ternheim,The Winter Tapes,To Be Gone - Live,50,"['classic swedish pop', 'swedish pop', 'swedish singer-songwriter']",44
+35,Bo Kaspers Orkester,Så mycket bättre säsong 4 - Lills dag,Jag tycker inte om dig,51,"['classic swedish pop', 'swedish jazz', 'swedish pop', 'swedish soul']",49
+36,Ison & Fille,Resumé,Genom allt 2,48,"['swedish hip hop', 'swedish pop', 'swedish trap pop']",42
+37,Lukas Graham,Lukas Graham (Blue Album),Take The World By Storm,58,"['danish pop', 'pop', 'scandipop']",69
+38,Fitz and The Tantrums,More Than Just a Dream,The Walker,73,"['la indie', 'modern alternative rock', 'modern rock', 'pop rock', 'rock']",66
+39,The Rolling Stones,Let It Bleed,You Can't Always Get What You Want,80,"['album rock', 'british invasion', 'classic rock', 'rock']",77
+40,America,Hearts,Sister Golden Hair,79,"['permanent wave', 'punk']",78
+41,The Goo Goo Dolls,Greatest Hits Volume One - The Singles,Broadway,75,"['neo mellow', 'permanent wave', 'pop rock']",70
+42,Imagine Dragons,Night Visions,Cha-Ching (Till We Grow Older),88,"['modern rock', 'rock']",86
+43,Avicii,AVĪCI,Friend Of Mine (feat. Vargas & Lagola),86,"['dance pop', 'edm', 'pop', 'pop dance', 'pop rap']",79
+44,Bastille,Bad Blood,Bad Blood,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+45,Thomas Stenström,Rör inte min kompis!,Sthlm Blvd,69,['swedish pop'],61
+46,Weyes Blood,Seven Words,Seven Words,64,"['art pop', 'experimental folk', 'indie pop']",54
+47,Moddi,Set The House On Fire,House By The Sea,48,"['nordnorsk musikk', 'norske viser', 'norwegian indie', 'norwegian pop', 'norwegian rock', 'norwegian singer-songwriter']",36
+48,Macklemore & Ryan Lewis,The Heist,Thin Line (feat. Buffalo Madonna),83,"['dance pop', 'pop', 'pop rap', 'seattle hip hop']",71
+49,Albin Johnsén,Hjärtan Av Guld,Hjärtan Av Guld,56,"['swedish idol pop', 'swedish pop', 'swedish pop rap']",47
+50,Danna Richards,Pumped Up Kicks (Cover),Pumped Up Kicks (Cover),18,[],7
+51,Donavon Frankenreiter,Donavon Frankenreiter,Free,65,"['neo mellow', 'pop rock']",57
+52,Loreen,Så mycket bättre 2020 - Tolkningarna,Jag är en vampyr - Så mycket bättre 2020,65,"['electropop', 'europop', 'eurovision', 'swedish pop']",52
+53,MARINA,I'm a Ruin,I'm a Ruin,61,"['balkan trap', 'turbo folk']",56
+54,Macklemore & Ryan Lewis,The Heist,Wing$,83,"['dance pop', 'pop', 'pop rap', 'seattle hip hop']",71
+55,Maggie Rogers,Heard It In A Past Life,Light On,69,"['indie pop', 'pop']",64
+56,Daniel Adams-Ray,Thinking Of Sunshine,Thinking Of Sunshine,60,['swedish pop'],52
+57,Low Roar,"Once in a Long, Long While...",Give Me an Answer,34,['icelandic indie'],51
+58,Frida Hyvönen,Kvinnor och barn,Min stad,35,['swedish country'],36
+59,Lisa Ekdahl,Så mycket bättre 2016 - Ted Gärdestads dag,Sol vind och vatten,50,"['classic swedish pop', 'swedish jazz', 'swedish pop']",48
+60,Alex Cornell,Youtube Sessions,Boston,51,[],33
+61,Band of Gold,Where's the Magic,I Wanna Dance with You Again,53,"['classic soul', 'motown']",39
+62,Tones And I,Dance Monkey,Dance Monkey,80,"['australian pop', 'pop']",71
+63,Anna Ternheim,Live In Stockholm,Only Those Who Love - Live,50,"['classic swedish pop', 'swedish pop', 'swedish singer-songwriter']",44
+64,Calvin Harris,My Way,My Way,89,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",84
+65,Jimmy Jansson från Poets,Disney Rariteter,"Jag finns kvar - Från ""Skattkammarplaneten""",33,['disney svenska'],14
+66,jeremy messersmith,The Reluctant Graveyard,"A Girl, a Boy, and a Graveyard",46,['minneapolis indie'],35
+67,Shelley FKA DRAM,Gahdamn!,$ (feat. Donnie Trumpet),63,"['pop rap', 'virginia hip hop']",61
+68,Johnossi,Johnossi,Summerbreeze,52,"['swedish alternative rock', 'swedish indie rock']",43
+69,Bastille,Bad Blood,"Weight Of Living, Pt. II",76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+70,JUNG,Dreamers,Follow Your Heart,55,"['swedish drill', 'swedish hip hop', 'swedish trap pop']",62
+71,Mac Miller,The Divine Feminine,Dang! (feat. Anderson .Paak),83,"['hip hop', 'pittsburgh rap', 'rap']",82
+72,De Montevert,Vänner & Ovänner / Friends & Enemies,Rebel yell,24,"['avant-garde jazz', 'free improvisation', 'free jazz']",24
+73,Boney M.,Daddy Cool,Rasputin,82,"['house', 'pop dance', 'uk dance']",65
+74,Avicii,TIM,Ain't A Thing (feat. Bonn),86,"['dance pop', 'edm', 'pop', 'pop dance', 'pop rap']",79
+75,Miss Li,Wolves,1:a gången,74,"['classic swedish pop', 'swedish pop']",62
+76,kent,Tigerdrottningen,Godhet,50,['norwegian pop'],43
+77,Johan Alander,Punkt,Punkt,33,"['norrlandsk hip hop', 'swedish hip hop', 'swedish pop rap']",26
+78,Tom Waits,Mule Variations,Hold On,61,"['folk', 'folk rock', 'roots rock', 'singer-songwriter']",58
+79,Ida Redig,Everywhere,Everywhere,46,['swedish pop'],37
+80,The Paper Kites,Woodland - EP,Bloom - Bonus Track,74,"['australian indie folk', 'indie folk', 'stomp and holler']",63
+81,Hov1,Vindar på Mars,Fri,65,"['fotbollslatar', 'swedish idol pop', 'swedish pop', 'swedish pop rap']",64
+82,Kodaline,Sometimes,Sometimes,79,"['irish pop', 'modern rock', 'pop', 'pop rock']",70
+83,Tokio Hotel,Scream,Monsoon,63,"['dance pop', 'edm', 'german dance', 'pop dance', 'slap house', 'tropical house']",70
+84,Bastille,Bad Blood,Get Home,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+85,Mattias Alkberg,Jag ska bli en bättre vän,Ragnar,44,"['swedish alternative rock', 'swedish indie pop', 'swedish jazz', 'swedish pop']",37
+86,David Bowie,Hunky Dory,Life on Mars? - 2015 Remaster,79,"['classic rock', 'glam rock', 'rock']",83
+87,Tom Odell,Magnetised,Magnetised - Acoustic,90,"['chill pop', 'pop']",73
+88,Low Roar,Low Roar,Friends Make Garbage (Good Friends Take It Out),34,['icelandic indie'],51
+89,Avicii,TIM,Never Leave Me (feat. Joe Janiak),86,"['dance pop', 'edm', 'pop', 'pop dance', 'pop rap']",79
+90,Newkid,MOUNT JHUN,Kanske var vi rätt bra ändå,68,['swedish pop'],55
+91,Fountains Of Wayne,Welcome Interstate Managers,Stacy's Mom,76,"['alternative rock', 'pop rock', 'power pop']",58
+92,Feist,The Reminder,1234,62,"['canadian indie', 'canadian pop', 'chamber pop', 'indie pop']",59
+93,Sugarplum Fairy,First Round First Minute,She,42,['swedish indie rock'],27
+94,Avicii,AVĪCI,Without You (feat. Sandro Cavazza),86,"['dance pop', 'edm', 'pop', 'pop dance', 'pop rap']",79
+95,Lars Winnerbäck,Singel,Elden,59,"['classic swedish pop', 'swedish pop', 'swedish singer-songwriter']",56
+96,Machine Gun Kelly,General Admission,All Night Long,71,['ohio hip hop'],81
+97,Tom Odell,Long Way Down (Deluxe),Another Love,90,"['chill pop', 'pop']",73
+98,Martin Berglund & Stödorkestern,Din ungdom ska aldrig dö,Din ungdom ska aldrig dö,22,['kalmar indie'],15
+99,Ison & Fille,Jag Skrattar Idag,Jag Skrattar Idag,48,"['swedish hip hop', 'swedish pop', 'swedish trap pop']",42
+100,Petter,Början på allt,Alla vet,63,"['swedish hip hop', 'swedish pop', 'swedish pop rap']",55
+101,Macklemore & Ryan Lewis,The Heist,Same Love (feat. Mary Lambert),83,"['dance pop', 'pop', 'pop rap', 'seattle hip hop']",71
+102,Eighty Ninety,Three Thirty,Three Thirty,47,['brooklyn indie'],34
+103,Wings,Wings At The Speed Of Sound,Silly Love Songs - Remastered 1993,41,"['deep pop edm', 'swedish tropical house']",34
+104,The Rolling Stones,The Rolling Stones Singles Collection: The London Years,Sympathy For The Devil,80,"['album rock', 'british invasion', 'classic rock', 'rock']",77
+105,Akon,Freedom,Beautiful,77,"['big room', 'dance pop', 'edm', 'pop', 'pop dance', 'pop rap']",85
+106,Ellie Goulding,Still Falling For You,"Still Falling For You - From ""Bridget Jones's Baby""",79,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",84
+107,Thomas Stenström,Rör inte min kompis!,Eldorado,69,['swedish pop'],61
+108,Iron & Wine,Around The Well,The Trapeze Swinger,63,"['chamber pop', 'indie folk', 'stomp and holler']",60
+109,Magnus Carlson,Den långa vägen hem,Eternal Love,45,['classic swedish pop'],37
+110,Anna Ternheim,Live In Stockholm,The Longer The Waiting (The Sweeter The Kiss) - Live,50,"['classic swedish pop', 'swedish pop', 'swedish singer-songwriter']",44
+111,Iron & Wine,Our Endless Numbered Days,Naked As We Came,63,"['chamber pop', 'indie folk', 'stomp and holler']",60
+112,Dustin Tebbutt,Bones EP,Bones,58,"['australian indie', 'indie folk']",51
+113,Melody Club,Face the Music,Baby (Stand Up),45,"['swedish alternative rock', 'swedish indie pop', 'swedish pop', 'swedish synthpop']",35
+114,Coldplay,Christmas Lights,Christmas Lights,82,"['permanent wave', 'pop']",86
+115,Macklemore & Ryan Lewis,The Heist,Gold (feat. Eighty4 Fly),83,"['dance pop', 'pop', 'pop rap', 'seattle hip hop']",71
+116,One Week Gone,New Year's Resolution,New Year's Resolution,54,"['hip hop', 'rap', 'underground hip hop']",78
+117,mansionz,Mansionz,Wicked,64,['pop rap'],54
+118,Love Antell,Gatorna tillhör oss,Du växer upp,21,[],16
+119,N.W.A.,N.W.A. Greatest Hits,Straight Outta Compton - Extended Mix / Edit,59,"['conscious hip hop', 'gangster rap', 'golden age hip hop', 'hardcore hip hop', 'hip hop', 'old school hip hop', 'rap', 'west coast rap']",64
+120,Radical Face,Sunn,Sunn,70,"['indie folk', 'jacksonville indie', 'stomp and holler']",57
+121,The Goo Goo Dolls,Greatest Hits Volume One - The Singles,Big Machine,75,"['neo mellow', 'permanent wave', 'pop rock']",70
+122,Per Gessle,Gammal kärlek rostar aldrig,Ömhet,57,"['classic swedish pop', 'swedish pop']",48
+123,Deportees,Islands & Shores,When Buildings Sleep,45,"['classic swedish pop', 'swedish alternative rock', 'swedish americana', 'swedish indie rock', 'swedish pop']",37
+124,Mighty Oaks,Howl,Back To You,49,"['folk-pop', 'german indie', 'german indie folk']",52
+125,in pages.,White,Missteps,20,"['classic soundtrack', 'italian soundtrack', 'orchestral soundtrack', 'soundtrack', 'vintage italian soundtrack']",63
+126,First Aid Kit,The Lion's Roar,This Old Routine,52,"['swedish idol pop', 'swedish pop']",56
+127,Allison Weiss,Remember When,Call Your Girlfriend (Robyn Cover),43,['electropowerpop'],26
+128,Klara Keller,Höjdrädd,Höjdrädd,35,['swedish indie pop'],22
+129,Macklemore & Ryan Lewis,The Heist,Make The Money,83,"['dance pop', 'pop', 'pop rap', 'seattle hip hop']",71
+130,Tomas Andersson Wij,"Splitter, Vol. 1",Stunder som den här,48,"['classic swedish pop', 'swedish alternative rock', 'swedish pop', 'swedish singer-songwriter']",41
+131,Moto Boy,Everybody's running from something,Everybody's running from something,35,['swedish synthpop'],26
+132,Petter,Mitt folk,Mitt folk,63,"['swedish hip hop', 'swedish pop', 'swedish pop rap']",55
+133,Shawn Mendes,MTV Unplugged,Never Be Alone - MTV Unplugged,86,"['canadian pop', 'pop', 'viral pop']",83
+134,En drös poeter,Förbli en vinnare,Förbli en vinnare,14,['swedish indie pop'],4
+135,MAJOR.,Honest,Honest,36,"['gothenburg hip hop', 'swedish reggae']",29
+136,Imagine Dragons,Night Visions,Tiptoe,88,"['modern rock', 'rock']",86
+137,Kanye West,808s & Heartbreak,Heartless,84,"['chicago rap', 'rap']",89
+138,Orup,Händerna mot himlen,Händerna mot himlen,51,"['classic swedish pop', 'swedish pop', 'swedish soul']",44
+139,Ida Redig,Allting som vi sa,Allting som vi sa,46,['swedish pop'],37
+140,Moa Lignell,Different Path,When I Held Ya,48,['swedish pop'],39
+141,The Outlaws,Best Of...Green Grass & High Tides,Green Grass & High Tides - Remastered,58,"['album rock', 'blues rock', 'classic rock', 'country rock', 'hard rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock', 'southern rock']",46
+142,Bastille,All This Bad Blood,What Would You Do,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+143,Bo Kaspers Orkester,Så mycket Bo Kaspers Orkester,Världens ände,51,"['classic swedish pop', 'swedish jazz', 'swedish pop', 'swedish soul']",49
+144,Billy Joel,Turnstiles,New York State of Mind,80,"['classic rock', 'folk rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",75
+145,Thomas Stenström,Rör inte min kompis!,Tårar torkar långsamt,69,['swedish pop'],61
+146,Ken Ring,Akustiken,Du och jag,48,"['swedish gangsta rap', 'swedish hip hop', 'swedish trap pop']",42
+147,Benny Andersson,Kristina från Duvemåla,Guldet blev till sand,51,"['classic swedish pop', 'folkmusik', 'swedish jazz', 'swedish pop']",42
+148,Thomas Stenström,Dreamer,Blåjeans,69,['swedish pop'],61
+149,Lukas Graham,Share That Love (feat. G-Eazy),Share That Love (feat. G-Eazy),58,"['danish pop', 'pop', 'scandipop']",69
+150,The Shins,Wincing The Night Away,Australia,70,"['albuquerque indie', 'alternative rock', 'chamber pop', 'indie folk', 'indie pop', 'indie rock', 'modern rock', 'portland indie', 'stomp and holler']",60
+151,Thomas Rusiak,Hiphopper,Hiphopper (feat. Teddybears Sthlm) - Single Edit,44,['swedish hip hop'],31
+152,Miriam Bryant,Black Car (feat. ALMA),Black Car (feat. ALMA) - Acoustic,61,"['swedish idol pop', 'swedish pop', 'swedish pop rap']",59
+153,Bo Kaspers Orkester,Hund,En man du tyckte om,51,"['classic swedish pop', 'swedish jazz', 'swedish pop', 'swedish soul']",49
+154,Édith Piaf,Eternelle,"Non, je ne regrette rien",65,"['chanson', 'torch song', 'vintage schlager']",58
+155,STOR,Så mycket bättre 2018 - Tolkningarna,Gamla o grå,83,"['boy band', 'pop', 'post-teen pop', 'talent show']",83
+156,Daniel Adams-Ray,Där regnbågen tar slut,Där regnbågen tar slut - BABA Remix,60,['swedish pop'],52
+157,Tommy Körberg,Tommy Körberg - Judy min vän,En som du,54,['classic swedish pop'],45
+158,Markus Krunegård,"I huvet på en idiot, i en bar, på en ö, i ett hav, på en ö, i en bar, i huvet på en idiot",O A O A E vi förlorade,51,"['classic swedish pop', 'swedish pop', 'swedish singer-songwriter']",46
+159,Maia Hirasawa,"Though, I'm Just Me",Gothenburg,36,['swedish indie pop'],28
+160,MisterWives,Never Give Up On Me,Never Give Up On Me,71,"['electropop', 'indie pop', 'indie poptimism', 'modern rock', 'nyc pop', 'pop rock']",60
+161,Matoma,Old Thing Back (feat. Ja Rule and Ralph Tresvant),Old Thing Back (feat. Ja Rule and Ralph Tresvant),0,"['permanent wave', 'pop']",86
+162,Ellen Sundberg,Du sålde min biljett - Ellen Sundberg sjunger Kjell Höglund,De fördömdas ö,40,['swedish americana'],30
+163,Nationalteatern,Barn av vår tid,Men bara om min älskade väntar,52,"['classic swedish pop', 'danspunk', 'skansk musik', 'svensk progg', 'swedish prog']",44
+164,I Am Nova,Strangers,Strangers,42,['deep pop edm'],36
+165,Four Tops,The Definitive Collection,"I Can't Help Myself (Sugar Pie, Honey Bunch)",74,"['brill building pop', 'classic soul', 'disco', 'funk', 'mellow gold', 'motown', 'quiet storm', 'soul']",61
+166,Robin Lukovic,Snälla bli min - Single,Snälla bli min,39,[],27
+167,Wet,Wet,You're the Best - EP Version,83,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",84
+168,Sam & Dave,"Hold On, I'm Comin'","Hold On, I'm Comin'",68,"['brill building pop', 'classic soul', 'funk', 'memphis soul', 'soul', 'southern soul']",56
+169,Canyon City,Midnight Waves,Firework,55,"['acoustic pop', 'indie folk', 'indiecoustica', 'neo mellow', 'pop rock', 'viral pop']",51
+170,Sugarplum Fairy,Young & Armed,Sweet Jackie,42,['swedish indie rock'],27
+171,Lady Sovereign,Jigsaw,So Human,47,[],34
+172,Bastille,All This Bad Blood,Things We Lost In The Fire,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+173,Anna Graceman,Words,Words,38,['channel pop'],29
+174,HONNE,Good Together,Good Together,1,"['pop', 'uk pop']",65
+175,Max Jury,Numb,Numb,51,['new americana'],40
+176,Bastille,All This Bad Blood,Pompeii,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+177,Lil Dicky,Professional Rapper,Pillow Talking (feat. Brain),71,"['comedy rap', 'pop rap', 'rap']",61
+178,Zackarias,För Alla Nollor,För Alla Nollor,35,"['swedish hip hop', 'swedish pop', 'swedish pop rap']",55
+179,The Killers,Wonderful Wonderful,The Man,85,"['alternative rock', 'dance rock', 'modern rock', 'permanent wave', 'rock']",76
+180,Eddie Vedder,Music For The Motion Picture Into The Wild,No Ceiling,67,"['acoustic rock', 'permanent wave', 'rock']",60
+181,Massive Attack,Collected,Safe From Harm - 2006 Digital Remaster,70,"['big beat', 'downtempo', 'electronica', 'trip hop']",61
+182,Ella Henderson,Chapter One,Ghost,84,"['dance pop', 'house', 'pop dance', 'tropical house', 'uk dance']",67
+183,The Goo Goo Dolls,Greatest Hits Volume One - The Singles,Stay with You,75,"['neo mellow', 'permanent wave', 'pop rock']",70
+184,a-ha,Take on Me,Take on Me - Kygo Remix,95,['pop'],93
+185,David Torstensson,27,The Way She Moves,0,[],0
+186,KALEO,All the Pretty Girls,All the Pretty Girls,78,"['icelandic indie', 'icelandic rock', 'modern alternative rock', 'modern rock']",66
+187,Macklemore & Ryan Lewis,The Heist,Victory Lap,83,"['dance pop', 'pop', 'pop rap', 'seattle hip hop']",71
+188,Stereophonics,You Gotta Go There To Come Back,Since I Told You It's Over,71,"['britpop', 'modern rock', 'pop rock', 'rock', 'welsh rock']",63
+189,Gnarly Gibbs,Follow the Sun,Follow the Sun,48,['chill beats'],35
+190,Pink Floyd,A Momentary Lapse Of Reason,Learning To Fly - 2011 Remastered Version,71,"['album rock', 'art rock', 'classic rock', 'progressive rock', 'psychedelic rock', 'rock', 'symphonic rock']",77
+191,Anna Kajander,Sabla fin,Sabla fin,31,"['nordnorsk musikk', 'norske viser', 'norwegian indie']",19
+192,Hov1,Gudarna på Västerbron,Auf wiedersehen,65,"['fotbollslatar', 'swedish idol pop', 'swedish pop', 'swedish pop rap']",64
+193,Thomas Stenström,Rör inte min kompis!,Det här är inte mitt land,69,['swedish pop'],61
+194,DJ Gollum,I'm a Passenger,I'm a Passenger - Radio Edit,68,"['eurodance', 'german dance', 'hands up', 'partyschlager']",60
+195,Proleter,Feeding the Lions EP,Can't Stop Me,54,"['electro swing', 'nu jazz']",44
+196,Loney Dear,Citadel Band,"Ignorant Boy, Beautiful Girl",33,['swedish indie pop'],29
+197,Did,What I did,But we,52,"['classic swedish pop', 'dansband', 'danspunk']",45
+198,Israel Kamakawiwo'ole,Unforgettable,Over the Rainbow / What a Wonderful World,72,['hawaiian'],60
+199,Urban Cone,Our Youth,Urban Photograph,47,['swedish indie pop'],43
+200,Wahlberg,En positivare värld,En sista dans,45,['swedish reggae'],37
+201,Miriam Bryant,Dragon,Dragon,61,"['swedish idol pop', 'swedish pop', 'swedish pop rap']",59
+202,Matisyahu,Light,We Will Walk,49,['reggae fusion'],56
+203,Jack Moy,Hummingbird Says Drink,Hummingbird,30,[],28
+204,Foo Fighters,The Colour And The Shape,Everlong,81,"['alternative metal', 'alternative rock', 'modern rock', 'permanent wave', 'post-grunge', 'rock']",75
+205,Fronda,Tolkningar (Akustisk),Ända tills hjärtat slutar slå - Akustisk,54,"['danspunk', 'swedish hip hop']",44
+206,Jon Bellion,The Definition,Luxury,71,['pop rap'],67
+207,Roxette,Look Sharp!,Paint,69,"['europop', 'new wave pop', 'soft rock', 'swedish pop']",69
+208,Newton Faulkner,Hand Built By Robots,Dream Catch Me,62,"['folk-pop', 'neo mellow']",49
+209,Flipsyde,We The People,Someday,54,['oakland hip hop'],46
+210,Avicii,The Days / Nights,The Nights,86,"['dance pop', 'edm', 'pop', 'pop dance', 'pop rap']",79
+211,Witt Lowry,I Could Not Plan This,Phone (feat. Gjan),78,['pop rap'],62
+212,Electric Light Orchestra,The Essential Electric Light Orchestra,Evil Woman,81,"['album rock', 'art rock', 'beatlesque', 'classic rock', 'glam rock', 'mellow gold', 'rock', 'soft rock', 'symphonic rock']",70
+213,DC Grimsta,Mitt eviga krig,Om jag stannar,37,['swedish hip hop'],31
+214,The Killers,Wonderful Wonderful,Some Kind Of Love,85,"['alternative rock', 'dance rock', 'modern rock', 'permanent wave', 'rock']",76
+215,Bastille,All This Bad Blood,Of The Night,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+216,Phil Collins,Testify,You Touch My Heart,77,"['mellow gold', 'rock drums', 'soft rock']",74
+217,Kodaline,Politics of Living,Head Held High,79,"['irish pop', 'modern rock', 'pop', 'pop rock']",70
+218,Thåström,Kärlek är för dom,Men bara om min älskade väntar,46,"['classic swedish pop', 'swedish americana', 'swedish punk']",45
+219,Johnossi,Blood Jungle,War / Rain,52,"['swedish alternative rock', 'swedish indie rock']",43
+220,Hollow Coves,The Woods,The Woods,73,['indie folk'],61
+221,Bräkne Hoby,Bräkne-Hoby,Allting på en gång,7,[],4
+222,Ulrik Munther,Daughter,Daughter,55,"['swedish idol pop', 'swedish pop']",44
+223,Vanessa Carlton,Willows,Willows,77,"['lilith', 'neo mellow', 'piano rock', 'pop rock', 'post-teen pop']",61
+224,Other People's Heartache,Other People’s Heartache,Flowers,46,['uk pop'],33
+225,Klara Keller,Drömmen har sagt sitt - Single,Drömmen har sagt sitt,35,['swedish indie pop'],22
+226,Eldkvarn,De berömdas aveny,På andra sidan regnet,49,"['classic swedish pop', 'svensk progg', 'swedish alternative rock', 'swedish pop']",43
+227,Thomas Stenström,Rör inte min kompis!,Kanske just idag,69,['swedish pop'],61
+228,La Bionda,The Collection,"One for You, One for Me",42,['italian disco'],33
+229,OMFG,Hello,Hello,66,"['emo rap', 'lgbtq+ hip hop']",80
+230,Wyclef Jean,CARNIVAL VOL. II...Memoirs of an Immigrant,"Touch Your Button Carnival Jam (feat. will.i.am & Melissa Jimenez, feat. Machel Montano, Daniela Mercury, Black Alex & Djakout Mizik)",85,"['colombian pop', 'dance pop', 'latin', 'latin pop', 'pop']",84
+231,MGMT,Oracular Spectacular,Time to Pretend,82,"['alternative rock', 'indie rock', 'indietronica', 'modern rock', 'rock']",73
+232,Maggie Lindemann,Pretty Girl,Pretty Girl - Cheat Codes X CADE Remix,72,"['alt z', 'dark pop', 'pop', 'post-teen pop']",64
+233,The Soundtrack Of Our Lives,Welcome To The Infant Freebase,Instant Repeater '99,43,"['gothenburg indie', 'swedish alternative rock', 'swedish hard rock', 'swedish psychedelic rock']",35
+234,Did,What I did,Ohh,52,"['classic swedish pop', 'dansband', 'danspunk']",45
+235,Hov1,Vindar på Mars,Smokebreak,65,"['fotbollslatar', 'swedish idol pop', 'swedish pop', 'swedish pop rap']",64
+236,Macklemore & Ryan Lewis,The Heist,Starting Over (feat. Ben Bridwell),83,"['dance pop', 'pop', 'pop rap', 'seattle hip hop']",71
+237,Kristian Anttila,Svenska tjejer,Josefine,35,['swedish indie pop'],25
+238,Miriam Bryant,Last Soul on Earth,Push Play - Acoustic Version,61,"['swedish idol pop', 'swedish pop', 'swedish pop rap']",59
+239,Håkan Hellström,Det kommer aldrig va över för mig,Du kan gå din egen väg,63,"['classic swedish pop', 'gothenburg indie', 'swedish indie rock', 'swedish pop']",60
+240,Norah Jones,Spotify Singles,Flipside - Recorded At Spotify Studios NYC,72,"['contemporary vocal jazz', 'jazz pop', 'neo mellow']",69
+241,Bastille,Wild World,Send Them Off!,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+242,Eagle-Eye Cherry,Desireless,Save Tonight,54,['pop rock'],58
+243,Film Musical Orchestra,Flashdance,Maniac,41,"['classic soundtrack', 'italian soundtrack', 'orchestral soundtrack', 'soundtrack', 'vintage italian soundtrack']",63
+244,Nano,Hold On,Hold On - D&B Version,39,[],35
+245,Imagine Dragons,Night Visions,Every Night,88,"['modern rock', 'rock']",86
+246,Little Jinder,Allting suger,Super 8,43,"['electropop', 'swedish electropop', 'swedish pop', 'swedish synthpop']",42
+247,The Smiths,The Sound of the Smiths,This Charming Man - Single Version; 2008 Remaster,76,"['madchester', 'new wave', 'permanent wave', 'rock', 'uk post-punk']",72
+248,Beck,Beck,Blue Moon - Live From KCRW / 2014,87,"['big room', 'dance pop', 'edm', 'pop', 'pop dance', 'pop rap']",85
+249,Benjamin Francis Leftwich,When You Were Young,When You Were Young,54,"['indie folk', 'neo mellow', 'stomp and holler', 'york indie']",52
+250,Benjamin Francis Leftwich,Last Smoke Before the Snowstorm,Atlas Hands,54,"['indie folk', 'neo mellow', 'stomp and holler', 'york indie']",52
+251,Daryl Braithwaite,The Essential,One Summer - 2007 Remastered,55,"['australian pop', 'australian rock', 'australian talent show']",49
+252,Håkan Hellström,Illusioner,I dina armar,63,"['classic swedish pop', 'gothenburg indie', 'swedish indie rock', 'swedish pop']",60
+253,LÉON,Think About You,Think About You,65,"['metropopolis', 'pop']",63
+254,Blitzen Trapper,Furr,Furr,58,"['deep new americana', 'indie folk', 'modern folk rock', 'new americana', 'portland indie', 'roots rock', 'stomp and holler']",45
+255,The Goo Goo Dolls,Greatest Hits Volume One - The Singles,Better Days,75,"['neo mellow', 'permanent wave', 'pop rock']",70
+256,Macklemore & Ryan Lewis,The Heist,Ten Thousand Hours,83,"['dance pop', 'pop', 'pop rap', 'seattle hip hop']",71
+257,Bo Kaspers Orkester,Redo att gå sönder,Att vara ung,51,"['classic swedish pop', 'swedish jazz', 'swedish pop', 'swedish soul']",49
+258,Bastille,Bad Blood,Overjoyed,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+259,MisterWives,Machine,Machine,71,"['electropop', 'indie pop', 'indie poptimism', 'modern rock', 'nyc pop', 'pop rock']",60
+260,Anna Ternheim,The Night Visitor,All Shadows,50,"['classic swedish pop', 'swedish pop', 'swedish singer-songwriter']",44
+261,Betty Who,The Valley,I Love You Always Forever,61,"['electropop', 'pop', 'tropical house']",62
+262,Dotter,Dive,Dive - Acoustic Version,49,"['europop', 'eurovision', 'swedish pop']",43
+263,The Goo Goo Dolls,Greatest Hits Volume One - The Singles,Let Love In,75,"['neo mellow', 'permanent wave', 'pop rock']",70
+264,Panicland,Rome Falls,Rome Falls,56,['manitoba indie'],44
+265,Regina Spektor,Far,Eet,73,"['indie pop', 'lilith', 'piano rock']",61
+266,Hov1,Vindar på Mars,Älskling,65,"['fotbollslatar', 'swedish idol pop', 'swedish pop', 'swedish pop rap']",64
+267,Thomas Stenström,Västerbron,Västerbron,69,['swedish pop'],61
+268,Petter,Lev nu,Va mig själv,63,"['swedish hip hop', 'swedish pop', 'swedish pop rap']",55
+269,Anna Ternheim,Live In Stockholm,Calling Love - Live,50,"['classic swedish pop', 'swedish pop', 'swedish singer-songwriter']",44
+270,The Shins,Port Of Morrow,Simple Song,70,"['albuquerque indie', 'alternative rock', 'chamber pop', 'indie folk', 'indie pop', 'indie rock', 'modern rock', 'portland indie', 'stomp and holler']",60
+271,Macklemore & Ryan Lewis,The Heist,BomBom (feat. The Teaching),83,"['dance pop', 'pop', 'pop rap', 'seattle hip hop']",71
+272,BANKS,Goddess,Beggin For Thread,51,"['fotbollslatar', 'swedish idol pop', 'swedish pop', 'swedish pop rap']",64
+273,The Smashing Pumpkins,Mellon Collie And The Infinite Sadness,"Tonight, Tonight - Remastered 2012",77,"['alternative metal', 'alternative rock', 'grunge', 'permanent wave', 'pop rock', 'rock', 'spacegrunge']",69
+274,Kidz Bop Kids,KIDZ BOP 27,Shake It Off,2,"[""children's music""]",66
+275,Birdy,Let It All Go,Let It All Go,71,['pop'],67
+276,Phil Collins,No Jacket Required,We Said Hello Goodbye,77,"['mellow gold', 'rock drums', 'soft rock']",74
+277,Frida Hyvönen,Silence Is Wild,Oh Shanghai,35,['swedish country'],36
+278,Leigh Nash,Ultimate Hymns For Today,"Saviour, Like a Shepherd Lead Us (Blessed Jesus)",32,['candy pop'],29
+279,Hobo Johnson,The Rise of Hobo Johnson,Sex in the City,59,"['emo rap', 'sacramento hip hop']",54
+280,Phosphorescent,Spotify Sessions,Song For Zula - Live From Spotify London,63,"['alternative americana', 'chamber pop', 'indie folk', 'indie pop', 'indie rock', 'new americana', 'stomp and holler', 'swedish americana']",50
+281,Grouplove,Big Mess,Good Morning,81,"['indie rock', 'indietronica', 'la indie', 'modern alternative rock', 'modern rock', 'pop rock', 'rock', 'stomp and holler']",64
+282,Daði Freyr,Söngvakeppnin 2020,Think About Things,68,"['icelandic pop', 'sunnlensk tonlist']",53
+283,Drake,Nice For What,Nice For What,0,"['latin', 'reggaeton', 'trap latino']",100
+284,Florence + The Machine,Ceremonials,Shake It Out,76,"['baroque pop', 'pop', 'uk alternative pop']",75
+285,Eminem,Curtain Call: The Hits,Stan,88,"['detroit hip hop', 'hip hop', 'rap']",89
+286,Shawn Mendes,Shawn Mendes,Lost In Japan,86,"['canadian pop', 'pop', 'viral pop']",83
+287,Bastille,"VS. (Other People’s Heartache, Pt. III)",The Driver,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+288,Crying Day Care Choir,Join the Joyful Revolution,Flowers Upon Flowers,55,"['swedish folk pop', 'swedish pop']",42
+289,Bastille,Bad Blood,Things We Lost In The Fire,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+290,Melody Club,Face the Music,Winterland,45,"['swedish alternative rock', 'swedish indie pop', 'swedish pop', 'swedish synthpop']",35
+291,Jack's Mannequin,People And Things,Restless Dream,46,"['emo', 'neo mellow', 'neon pop punk', 'piano rock', 'pop emo', 'pop punk', 'pop rock']",45
+292,Vance Joy,Nation of Two,Like Gold,82,"['folk-pop', 'modern rock', 'pop', 'pop rock']",75
+293,Jasmine Thompson,Another Bundle of Tantrums,Sweet Child O' Mine,74,"['dance pop', 'edm', 'electro house', 'german dance', 'pop', 'pop dance', 'pop rap', 'tropical house']",73
+294,The Apples In Stereo,New Magnetic Wonder,Energy,45,"['alternative rock', 'denver indie', 'elephant 6', 'gbvfi', 'indie rock', 'lo-fi']",37
+295,Kristoffer Kar,Raging Storm,Raging Storm,17,[],14
+296,Kygo,Nothing Left (feat. Will Heard),Nothing Left (feat. Will Heard),82,"['edm', 'pop', 'pop dance', 'tropical house']",79
+297,Hurts,Love Songs 2012 - 55 sange du altid har elsket,Stay,73,"['alt z', 'dance pop', 'electropop', 'norwegian pop', 'pop', 'post-teen pop', 'tropical house']",66
+298,Friska Viljor,My Name Is Friska Viljor,Sitting on My Dream,39,"['german indie', 'swedish indie rock']",34
+299,Dua Lipa,Hotter Than Hell,Hotter Than Hell,85,"['deep underground hip hop', 'kentucky hip hop', 'rap']",86
+300,Tommy Körberg,Förgiftat blod,Förgiftat blod,54,['classic swedish pop'],45
+301,Guns N' Roses,Appetite For Destruction,Rocket Queen,79,"['glam metal', 'hard rock', 'rock']",78
+302,Säkert!,Arktiska oceanen - EP,Arktiska oceanen,43,"['swedish hip hop', 'swedish pop', 'swedish pop rap']",55
+303,Bastille,All This Bad Blood,Previously On Other People's Heartache...,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+304,Veronica Maggio,Den första är alltid gratis,Vi mot världen,67,['swedish pop'],65
+305,Lady Sovereign,Public Warning,9 to 5,47,[],34
+306,Sarah Klang,Love in the Milky Way,Left Me on Fire,51,"['swedish americana', 'swedish indie pop', 'swedish pop']",46
+307,Matisyahu,Youth,What I'm Fighting For,49,['reggae fusion'],56
+308,Georg Wadenius,Reconnection,Brothers In Arms,38,[],24
+309,Flatbush Zombies,Vacation In Hell,The Goddess (feat. Dave B.),58,"['escape room', 'hip hop', 'psychedelic hip hop', 'rap', 'underground hip hop']",57
+310,Sylvia Vrethammar,Så mycket bättre - säsong 3,Små lätta moln,38,"['classic swedish pop', 'swedish pop', 'vintage swedish pop']",30
+311,Everlast,White Trash Beautiful,Lonely Road,59,"['eurodance', 'europop', 'italian disco', 'new romantic', 'new wave pop', 'synthpop']",55
+312,Ensamhushåll,Demos 2007-2010,VinterNoll2,14,['lund indie'],4
+313,HONNE,Someone That Loves You (Late Night Version),Someone That Loves You - Late Night Version,1,"['pop', 'uk pop']",65
+314,Amy Winehouse,Back To Black,Tears Dry On Their Own,79,"['british soul', 'indie r&b', 'neo soul']",73
+315,Bear's Den,Islands,The Love We Stole,62,"['folk-pop', 'indie folk', 'stomp and flutter', 'stomp and holler', 'uk americana']",57
+316,Monica Heldal,Boy From The North,Scarlet,35,"['bergen indie', 'new americana', 'norwegian americana', 'norwegian singer-songwriter']",31
+317,Andreas Moe,Before the Rumble Comes,Ocean,43,"['swedish indie pop', 'swedish pop', 'swedish singer-songwriter']",44
+318,Oddnesse,I Used To,I Used To,46,['la indie'],27
+319,NEEDTOBREATHE,HAPPINESS,HAPPINESS,63,"['ccm', 'christian alternative rock', 'christian indie', 'christian music', 'folk-pop', 'indiecoustica', 'neo mellow', 'worship']",63
+320,2Pac,All Eyez On Me,I Ain't Mad At Cha,81,"['g funk', 'gangster rap', 'hip hop', 'rap', 'west coast rap']",78
+321,Snoop Dogg,Doggystyle,"Ain't No Fun (If the Homies Cant Have None) (feat. Nate Dogg, Warren G & Kurupt)",77,"['detroit hip hop', 'hip hop', 'rap']",89
+322,Spin Doctors,Pocket Full Of Kryptonite,Two Princes,71,"['alternative rock', 'pop rock', 'rock']",58
+323,Moneybrother,Så Mycket Bättre - Tolkningarna,Tro på varann,41,"['classic swedish pop', 'swedish alternative rock', 'swedish indie rock', 'swedish pop']",36
+324,John De Sohn,Standing When It All Falls Down (feat. Roshi),Standing When It All Falls Down (feat. Roshi) - Piano Version,67,"['dance pop', 'edm', 'pop dance', 'pop edm', 'swedish tropical house', 'tropical house']",60
+325,Peter Jöback,Sing Me Out,Sing Me Out,48,"['classic swedish pop', 'europop', 'swedish pop']",44
+326,Electric Guest,Plural,Oh Devil,60,"['alternative dance', 'indie rock', 'indietronica', 'la indie', 'modern rock', 'shimmer pop', 'vapor soul']",55
+327,Electric Guest,This Head I Hold,This Head I Hold,60,"['alternative dance', 'indie rock', 'indietronica', 'la indie', 'modern rock', 'shimmer pop', 'vapor soul']",55
+328,Jon Bellion,The Human Condition,Overwhelming,71,['pop rap'],67
+329,Tom Odell,Wrong Crowd,Here I Am,90,"['chill pop', 'pop']",73
+330,SeLest,Hösten,Fariséerna,56,['scandipop'],58
+331,Marc E. Bassy,"Only The Poets Mixtape, Vol. 1",Sister Interlude,64,"['pop', 'pop rap', 'r&b']",63
+332,Gavin DeGraw,Chariot - Stripped,Chariot,59,"['acoustic pop', 'neo mellow', 'pop', 'pop rock']",62
+333,Imagine Dragons,Night Visions,Cover Up,88,"['modern rock', 'rock']",86
+334,Ison & Fille,Länge leve vi,Länge leve vi,48,"['swedish hip hop', 'swedish pop', 'swedish trap pop']",42
+335,Bo Kaspers Orkester,Så mycket Bo Kaspers Orkester,Ett tag till,51,"['classic swedish pop', 'swedish jazz', 'swedish pop', 'swedish soul']",49
+336,Lars Winnerbäck,Vatten under broarna,Det är visst nån som är tillbaka,59,"['classic swedish pop', 'swedish pop', 'swedish singer-songwriter']",56
+337,Imagine Dragons,Night Visions,On Top Of The World,88,"['modern rock', 'rock']",86
+338,Stevie Wonder,Songs In The Key Of Life,Sir Duke,76,"['funk', 'indie r&b', 'motown', 'quiet storm', 'soul']",73
+339,Jonas Blue,Mama,Mama,70,"['dance pop', 'edm', 'pop', 'pop dance', 'tropical house', 'uk dance']",74
+340,Andrew McMahon in the Wilderness,Zombies On Broadway,Don't Speak For Me (True),63,"['hopebeat', 'indie poptimism', 'modern alternative rock', 'modern rock', 'neo mellow', 'piano rock', 'pop rock', 'stomp and holler']",50
+341,Nano,Perfect Melody,Perfect Melody,39,[],35
+342,Thirty Seconds To Mars,This Is War,This Is War,75,"['modern rock', 'post-grunge', 'rock']",65
+343,Avicii,Stories,Waiting For Love,86,"['dance pop', 'edm', 'pop', 'pop dance', 'pop rap']",79
+344,Melissa Horn,Jag går nu,En helt vanlig dag,61,"['classic swedish pop', 'swedish pop']",54
+345,2Pac,Resurrection,Runnin' (Dying To Live),81,"['g funk', 'gangster rap', 'hip hop', 'rap', 'west coast rap']",78
+346,Saint Motel,My Type EP,Cold Cold Man,69,"['la indie', 'modern alternative rock', 'modern rock', 'pop rock']",62
+347,Beyoncé,4,Best Thing I Never Had,89,"['dance pop', 'pop', 'r&b']",83
+348,Imagine Dragons,Night Visions,Amsterdam,88,"['modern rock', 'rock']",86
+349,Rise Against,"Broken Dreams, Inc.","Broken Dreams, Inc.",75,"['chicago hardcore', 'chicago punk', 'hardcore punk', 'punk']",69
+350,Boufa Boufa,Canadian brother,Canadian brother,6,[],0
+351,blink-182,California,She's Out Of Her Mind,81,"['pop punk', 'punk', 'rock', 'socal pop punk']",75
+352,Lars Eriksson,Dictions and Contradictions,"Hey Ho, the Road Is Long",32,['swedish singer-songwriter'],23
+353,Bear's Den,Islands,Above The Clouds Of Pompeii,62,"['folk-pop', 'indie folk', 'stomp and flutter', 'stomp and holler', 'uk americana']",57
+354,Silvana Imam,Helig Moder,Ta Hand Om Dig,49,['swedish pop'],66
+355,Muse,Black Holes and Revelations,Starlight,13,"['baroque', 'classical', 'early music', 'german baroque']",74
+356,Mohlavyr,Krympta drömmar,Nico,2,['orebro indie'],1
+357,Anna Ternheim,Somebody Outside,Troubled Mind - Naked Version,50,"['classic swedish pop', 'swedish pop', 'swedish singer-songwriter']",44
+358,Lovisa Negga,Mihá Ja Gievrra,Mihá Ja Gievrra,15,['gauze pop'],5
+359,Sia,Elastic Heart (The Remixes),Elastic Heart - Clams Casino Remix,80,"['big room', 'dance pop', 'edm', 'pop', 'pop dance', 'pop rap']",85
+360,Miss Li,Wolves,No One Sleeps When I'm Awake,74,"['classic swedish pop', 'swedish pop']",62
+361,Flipsyde,We The People,Happy Birthday,54,['oakland hip hop'],46
+362,Casting Crowns,Peace On Earth,While You Were Sleeping,67,"['ccm', 'christian alternative rock', 'christian music', 'worship']",62
+363,The Goo Goo Dolls,Greatest Hits Volume One - The Singles,Dizzy,75,"['neo mellow', 'permanent wave', 'pop rock']",70
+364,Disturbed,Evolution,Hold on to Memories,72,"['alternative metal', 'nu metal', 'rap metal']",71
+365,Thomas Rusiak,Ride,Taking Monday Off,44,['swedish hip hop'],31
+366,The Score,Oh My Love,Oh My Love,74,"['modern alternative rock', 'modern rock', 'rock']",69
+367,Jason Mraz,Spotify Sessions,I'm Yours - Live on HSN Live,81,"['acoustic pop', 'neo mellow', 'pop', 'pop rock']",72
+368,Lill Lindfors,Så mycket bättre säsong 4 - Ebbots dag,Pass Through Fear,44,"['classic swedish pop', 'folkmusik', 'swedish jazz', 'vintage swedish pop']",38
+369,Akon,Konvicted,"Sorry, Blame It On Me",77,"['big room', 'dance pop', 'edm', 'pop', 'pop dance', 'pop rap']",85
+370,Red Hot Chili Peppers,Californication,Road Trippin',82,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave']",81
+371,Johnossi,Transitions,For A Little While,52,"['swedish alternative rock', 'swedish indie rock']",43
+372,Johnossi,Torch // Flame,Heavens (Then We Begin),52,"['swedish alternative rock', 'swedish indie rock']",43
+373,Adam Olenius,Looking Forward to the New Me,Wednesdays,3,[],11
+374,Bo Kaspers Orkester,Så mycket Bo Kaspers Orkester,Dansa på min grav,51,"['classic swedish pop', 'swedish jazz', 'swedish pop', 'swedish soul']",49
+375,Albin Johnsén,Din soldat,Din soldat - Akustisk version,56,"['swedish idol pop', 'swedish pop', 'swedish pop rap']",47
+376,Dermot Kennedy,Dermot Kennedy,For Island Fires and Family,80,"['edm', 'pop', 'pop dance', 'pop house', 'tropical house']",72
+377,Joshua Radin,Wax Wings,Beautiful Day,58,"['acoustic pop', 'indie folk', 'indiecoustica', 'neo mellow', 'pop rock', 'viral pop']",55
+378,Steget,Till slut,Såna som du,44,"['gothenburg indie', 'swedish indie pop']",28
+379,Kenta,August & Kenta,Urarva,53,['classic swedish pop'],38
+380,Low Roar,Low Roar,Just a Habit,34,['icelandic indie'],51
+381,Erika Jayne,Crazy (feat. Maino) [Remixes],Crazy (feat. Maino) - Pop Radio,42,"['deep vocal house', 'strut']",32
+382,LVNDSCAPE,Dive With Me EP,Dive With Me,49,"['deep house', 'deep tropical house', 'edm', 'electro house', 'pop dance', 'pop edm', 'tropical house']",54
+383,Erika Jayne,XXPEN$IVE,XXPEN$IVE,42,"['deep vocal house', 'strut']",32
+384,The Goo Goo Dolls,Greatest Hits Volume One - The Singles,Black Balloon,75,"['neo mellow', 'permanent wave', 'pop rock']",70
+385,Atmosphere,"To All My Friends, Blood Makes The Blade Holy: the Atmosphere ep's",The Best Day,65,[],46
+386,Anouk,Together Alone,Nobody's Wife,60,"['dutch pop', 'dutch rock']",54
+387,Helen Sjöholm,Korallreven & Vintergatan,Korallreven & Vintergatan - Så mycket bättre 2020,52,"['classic swedish pop', 'swedish pop']",46
+388,J. Cole,2014 Forest Hills Drive,Hello,88,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",84
+389,Alicia Keys,The Element Of Freedom,Try Sleeping with a Broken Heart,83,"['east coast hip hop', 'hip hop', 'rap']",82
+390,Thomas Stenström,Rör inte min kompis!,Allt jag har,69,['swedish pop'],61
+391,Low Roar,"Once in a Long, Long While...",St. Eriksplan,34,['icelandic indie'],51
+392,Chris de Burgh,Missing You - The Collection,A Spaceman Came Travelling,76,"['mellow gold', 'new wave pop', 'soft rock']",60
+393,Felix Jaehn,Book Of Love,Book Of Love,79,['dance pop'],64
+394,Nomy,Song Or Suicide,You Better Die Young,58,['swedish alternative rock'],53
+395,David Torstensson,27,Northern Wind,0,[],0
+396,Marit Bergman,Baby Dry Your Eye,Adios Amigos,35,['swedish indie pop'],28
+397,Afasi & Filthy,Fläcken,Jobb,40,['swedish hip hop'],29
+398,Imagine Dragons,Night Visions,America,88,"['modern rock', 'rock']",86
+399,The Kooks,Inside In / Inside Out,Naive,74,"['brighton indie', 'modern rock', 'rock']",66
+400,Felicia Takman,Dunka dumma hjärta dunka,Dunka dumma hjärta dunka,50,['swedish pop'],43
+401,Hurricane Love,EP,Only Human,36,"['edm', 'finnish edm', 'pop dance', 'progressive house', 'progressive trance', 'trance', 'uplifting trance']",46
+402,Bastille,All This Bad Blood,Get Home,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+403,Passenger,Young as the Morning Old as the Sea (Deluxe Edition),Young as the Morning Old as the Sea,74,"['folk-pop', 'neo mellow', 'pop', 'pop rock']",69
+404,NEEDTOBREATHE,The Outsiders,Won't Turn Back,63,"['ccm', 'christian alternative rock', 'christian indie', 'christian music', 'folk-pop', 'indiecoustica', 'neo mellow', 'worship']",63
+405,Amanda Jenssen,Hymns For The Haunted,Illusionist,43,['swedish pop'],61
+406,Red Hot Chili Peppers,The Getaway,Dark Necessities,82,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave']",81
+407,Hov1,Vindar på Mars,Vindar på Mars,65,"['fotbollslatar', 'swedish idol pop', 'swedish pop', 'swedish pop rap']",64
+408,Gabrielle Aplin,English Rain EP,Please Don't Say You Love Me,64,"['acoustic pop', 'neo mellow', 'neo-singer-songwriter', 'pop', 'pop rock', 'uk pop', 'viral pop']",59
+409,Ryan Adams,My Wrecking Ball,My Wrecking Ball,61,"['alternative country', 'folk', 'indie rock', 'neo mellow', 'new americana', 'pop rock', 'roots rock', 'singer-songwriter', 'stomp and holler']",57
+410,Grits,The Art of Translation,Ooh Ahh (My Life Be Like) (feat. Toby Mac),73,['christian hip hop'],54
+411,Kid Cudi,Man On The Moon: The End Of Day,Soundtrack 2 My Life,78,"['big room', 'dance pop', 'edm', 'pop', 'pop dance', 'pop rap']",85
+412,G-Eazy,When It's Dark Out,"Me, Myself & I",79,"['indie pop rap', 'oakland hip hop', 'pop', 'pop rap', 'rap']",75
+413,Tomas Ledin,Tillfälligheternas spel,Hon gör allt för att göra mig lycklig,62,"['classic swedish pop', 'europop', 'swedish pop']",54
+414,Moneybrother,Stannar om du ber mig,Stannar om du ber mig,41,"['classic swedish pop', 'swedish alternative rock', 'swedish indie rock', 'swedish pop']",36
+415,Chris Call,Cool Kids,Cool Kids - Unplugged Version,69,"['dance pop', 'pop', 'pop rap', 'r&b', 'rap']",85
+416,Glasvegas,Glasvegas,Geraldine,50,['scottish indie'],36
+417,Marvin Gaye,Sexual Healing,Sexual Healing - Kygo Remix,82,"['classic soul', 'funk', 'indie r&b', 'motown', 'northern soul', 'quiet storm', 'soul']",71
+418,Ane Brun,Leave Me Breathless,I Want To Know What Love Is,55,"['melancholia', 'norwegian singer-songwriter']",56
+419,Hov1,Gudarna på Västerbron,Förlåt - Bonus Track,65,"['fotbollslatar', 'swedish idol pop', 'swedish pop', 'swedish pop rap']",64
+420,Hanna Järver,c'mon,c'mon,33,['swedish electropop'],27
+421,Jamie Lawson,Wasn't Expecting That,Wasn't Expecting That,63,"['devon indie', 'neo mellow']",51
+422,kent,Du & jag döden,Mannen i den vita hatten (16 år senare),50,['norwegian pop'],43
+423,Train,Drops Of Jupiter,Drops of Jupiter (Tell Me),80,"['pop', 'talent show', 'uk pop']",77
+424,Seal,Do You Ever,Do You Ever,1,"['atl hip hop', 'atl trap', 'rap', 'trap']",87
+425,Franz Ferdinand,Franz Ferdinand,Take Me Out,79,"['alternative rock', 'dance rock', 'indie rock', 'modern rock', 'rock', 'scottish rock']",64
+426,Elliott Smith,Either/Or,Angeles,64,"['alternative rock', 'indie pop', 'indie rock', 'melancholia', 'rock', 'singer-songwriter']",61
+427,Eldkvarn,Stans Bästa Band - 1971-2011,Konfettiregn,49,"['classic swedish pop', 'svensk progg', 'swedish alternative rock', 'swedish pop']",43
+428,Ebbot Lundberg,Så mycket bättre säsong 4 - Agnes dag,Release Me,28,['swedish alternative rock'],21
+429,Christina Aguilera,Stripped,Beautiful,79,['pop'],84
+430,Lukas Graham,Lukas Graham (Blue Album),7 Years,58,"['danish pop', 'pop', 'scandipop']",69
+431,The Script,No Sound Without Silence,No Good in Goodbye,80,"['celtic rock', 'dance pop', 'neo mellow', 'pop', 'pop rock']",72
+432,The Waterboys,This Is The Sea,The Whole Of The Moon - 2004 Remastered Version,67,"['art rock', 'celtic rock', 'new wave pop', 'rock', 'scottish new wave', 'scottish rock']",55
+433,Led Zeppelin,Physical Graffiti,Kashmir - 1990 Remaster,80,"['album rock', 'classic rock', 'hard rock', 'rock']",75
+434,Kid Cudi,Man On The Moon: The End Of Day,Pursuit Of Happiness (Nightmare),78,"['big room', 'dance pop', 'edm', 'pop', 'pop dance', 'pop rap']",85
+435,Bastille,All This Bad Blood,Laura Palmer,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+436,Thomas Stenström,Rör inte min kompis!,Så så så säg,69,['swedish pop'],61
+437,Cold War Kids,Robbers & Cowards,We Used to Vacation,55,"['alternative rock', 'indie rock', 'modern alternative rock', 'modern blues rock', 'modern rock', 'piano rock', 'pop rock', 'rock', 'stomp and holler']",60
+438,Teddybears,"Young, Handsome & Fast","Young, Handsome & Fast",59,"['electronic rock', 'swedish electropop']",46
+439,Meghan Trainor,All About That Bass,All About That Bass,75,"['dance pop', 'hip pop', 'pop', 'post-teen pop']",73
+440,Hov1,Vindar på Mars,Neon,65,"['fotbollslatar', 'swedish idol pop', 'swedish pop', 'swedish pop rap']",64
+441,Guns N' Roses,Use Your Illusion I,November Rain,79,"['glam metal', 'hard rock', 'rock']",78
+442,Pulp,Different Class,Disco 2000,71,"['alternative rock', 'britpop', 'new wave', 'permanent wave', 'pop rock', 'rock', 'sheffield indie']",60
+443,Alice Babs,Alice Babs - 20 originalinspelningar från åren 1951-1954,Lille prins sol (Alice Babs med dottern Lilleba),41,"['barnmusik', 'swedish jazz', 'vintage swedish pop']",34
+444,Bastille,Wild World,Glory,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+445,Johnossi,Mavericks,Dead End,52,"['swedish alternative rock', 'swedish indie rock']",43
+446,The Rusty Pipes,Cantavimus,For the Widows in Paradise,38,"['adult standards', 'dixieland', 'harlem renaissance', 'jazz trumpet', 'new orleans jazz', 'swing', 'vocal jazz']",67
+447,George Ezra,Wanted on Voyage,Blame It on Me,79,"['folk-pop', 'neo-singer-songwriter', 'pop', 'pop rock']",74
+448,Tokio Myers,Angel,Angel,45,['uk alternative pop'],35
+449,Lars Eriksson,Rust & Golden Dust,Rejected love,32,['swedish singer-songwriter'],23
+450,estraden,Bra för dig,Bra för dig,68,['swedish pop'],55
+451,Tom Petty,Wildflowers,Crawling Back To You,79,"['album rock', 'classic rock', 'folk rock', 'heartland rock', 'mellow gold', 'pop rock', 'rock', 'singer-songwriter', 'soft rock']",68
+452,Huanastone,Bad Blood,Bad Blood,9,['swedish stoner rock'],3
+453,Johnossi,Mavericks,Roscoe,52,"['swedish alternative rock', 'swedish indie rock']",43
+454,Petter,Astronaut (feat. Maja Francis),Astronaut (feat. Maja Francis) - Varholmsgatan version,63,"['swedish hip hop', 'swedish pop', 'swedish pop rap']",55
+455,Muse,The Resistance,Undisclosed Desires,13,"['baroque', 'classical', 'early music', 'german baroque']",74
+456,José González,Stay Alive,Stay Alive,65,"['gothenburg indie', 'indie folk', 'swedish indie folk', 'swedish indie pop', 'swedish singer-songwriter']",62
+457,NOOX,Scars,Scars,62,"['classic swedish pop', 'gothenburg indie', 'swedish indie rock', 'swedish pop']",60
+458,Noel Gallagher's High Flying Birds,The Death Of You And Me,The Death Of You And Me,55,"['britpop', 'modern rock', 'rock']",57
+459,Ron Pope,Bone Structure,She's Good,69,"['acoustic pop', 'neo mellow', 'piano rock', 'pop rock', 'viral pop']",56
+460,Albin Lee Meldau,Så mycket bättre 2018 - Tolkningarna,Spela min favoritvals,63,"['swedish pop', 'swedish singer-songwriter']",53
+461,Imagine Dragons,Night Visions,Radioactive,88,"['modern rock', 'rock']",86
+462,Obadiah Parker,Hey Ya,Hey Ya - live,53,"['acoustic cover', 'viral pop']",38
+463,Bastille,All This Bad Blood,Daniel In The Den,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+464,Lars Winnerbäck,Dans med svåra steg,Kom änglar,59,"['classic swedish pop', 'swedish pop', 'swedish singer-songwriter']",56
+465,Low Roar,The Sky Is Falling (B-Side),I Won't Be Long,34,['icelandic indie'],51
+466,Llojd,Skisser II,V.22,33,"['kalmar indie', 'swedish soul']",27
+467,Jakob Karlberg,Fan va bra,Fan va bra,59,"['swedish idol pop', 'swedish pop']",43
+468,Roger Pontare,Kalla mig hem,Kalla mig hem,50,"['classic swedish pop', 'europop']",37
+469,Lasse Berghagen,Så mycket bättre - musiken från TV-programmet,Because I Love You,58,"['classic swedish pop', 'swedish pop']",46
+470,Smile,Bohemian Rhapsody,Doing All Right - ...Revisited,65,['swedish pop'],66
+471,Dire Straits,Brothers In Arms,Brothers In Arms,81,"['album rock', 'classic rock', 'mellow gold', 'rock', 'soft rock']",73
+472,kent,Jag är inte rädd för mörkret,Färger På Natten,50,['norwegian pop'],43
+473,Nadja Evelina,Ni två,Ni två,38,"['swedish idol pop', 'swedish pop']",32
+474,Kid Cudi,Man On The Moon: The End Of Day,Day 'N' Nite (Nightmare),78,"['big room', 'dance pop', 'edm', 'pop', 'pop dance', 'pop rap']",85
+475,Rage Against The Machine,Rage Against The Machine - XX (20th Anniversary Special Edition),Bombtrack,80,"['alternative metal', 'alternative rock', 'conscious hip hop', 'funk metal', 'nu metal', 'political hip hop', 'rap metal', 'rap rock', 'rock']",70
+476,Olly Murs,Right Place Right Time (Special Edition),Dear Darlin' (feat. Alizée),76,"['dance pop', 'neo mellow', 'pop', 'pop dance', 'post-teen pop', 'talent show', 'tropical house', 'uk pop']",65
+477,Florence + The Machine,Lungs,You've Got The Love,76,"['baroque pop', 'pop', 'uk alternative pop']",75
+478,Daryl Hall & John Oates,The Very Best of Daryl Hall / John Oates,You Make My Dreams (Come True),78,"['album rock', 'classic rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",69
+479,Sabaton,Carolus Rex,Konungens likfärd,68,"['metal', 'power metal', 'swedish metal', 'swedish power metal']",70
+480,Did,What I did,Born to run,52,"['classic swedish pop', 'dansband', 'danspunk']",45
+481,Orchestral Manoeuvres In The Dark,Organisation,Enola Gay - Remastered,57,"['new romantic', 'new wave', 'new wave pop', 'permanent wave', 'synthpop']",60
+482,Rhye,Woman,Open,65,"['downtempo', 'indie soul', 'indietronica', 'shimmer pop']",60
+483,Peter LeMarc,LeMarc - Klassiker,Tess,50,"['classic swedish pop', 'swedish pop', 'swedish singer-songwriter', 'swedish soul']",45
+484,MARINA,The Family Jewels,I Am Not a Robot,61,"['balkan trap', 'turbo folk']",56
+485,Bo Kaspers Orkester,Så mycket Bo Kaspers Orkester,Sjungande sig till sömns,51,"['classic swedish pop', 'swedish jazz', 'swedish pop', 'swedish soul']",49
+486,Milky Chance,Sadnecessary,Stolen Dance,79,['german pop'],71
+487,Imagine Dragons,Night Visions,Nothing Left To Say / Rocks - Medley,88,"['modern rock', 'rock']",86
+488,Silvana Imam,Naturkraft,Väck Mig När Ni Vaknat,49,['swedish pop'],66
+489,The Features,Good Old Days,Good Old Days,51,[],38
+490,O.A.R.,The Rockville LP,Peace,61,"['neo mellow', 'pop rock']",56
+491,MisterWives,Our Own House,Not Your Way,71,"['electropop', 'indie pop', 'indie poptimism', 'modern rock', 'nyc pop', 'pop rock']",60
+492,Veronica Maggio,20 Questions,"20 Questions - From ""Bergman’s Reliquary""",67,['swedish pop'],65
+493,Jessie Reyez,Figures,Figures,0,"['melodic rap', 'rap', 'trap']",80
+494,Bastille,All This Bad Blood,Sleepsong,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+495,Hov1,Gudarna på Västerbron,Hon dansar vidare i livet,65,"['fotbollslatar', 'swedish idol pop', 'swedish pop', 'swedish pop rap']",64
+496,The Animals,Most of the Animals,House of the Rising Sun,75,"['album rock', 'blues rock', 'british invasion', 'classic rock', 'folk rock', 'protopunk', 'psychedelic rock', 'rock']",63
+497,Lill-Babs,Så mycket bättre - musiken från TV-programmet,Huvudet högt,45,"['classic swedish pop', 'vintage swedish pop']",39
+498,Tove Styrke,Så mycket bättre 2020 - Tolkningarna,Varje sår söker ett sår,51,"['electropop', 'swedish electropop', 'swedish pop', 'swedish synthpop']",55
+499,Sivert Høyem,Endless Love,Handsome Savior,45,"['norwegian indie', 'norwegian pop', 'norwegian rock']",38
+500,Bastille,Spotify Live,"Good Grief - Live From Spotify, London",76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+501,Sahara Hotnights,What If Leaving Is a Loving Thing,Cheek to Cheek,50,"['power-pop punk', 'swedish alternative rock', 'swedish indie rock', 'swedish pop']",40
+502,Moonica Mac,Stark & Sårbar,Till slutet av augusti,57,['swedish pop'],66
+503,Anna Ternheim,Shoreline,Shoreline - Radio Version,50,"['classic swedish pop', 'swedish pop', 'swedish singer-songwriter']",44
+504,Amy Macdonald,Under Stars,Down By The Water - Acoustic,75,['scottish singer-songwriter'],59
+505,Biffy Clyro,Only Revolutions,Many of Horror,49,"['modern alternative rock', 'modern rock', 'rock', 'scottish rock']",59
+506,Avicii,TIM,Excuse Me Mr Sir (feat. Vargas & Lagola),86,"['dance pop', 'edm', 'pop', 'pop dance', 'pop rap']",79
+507,Sherlock Holmes Investigation,Investigation No. 1,Think it Over,5,[],1
+508,Lil Dicky,Professional Rapper,Molly (feat. Brendon Urie of Panic at the Disco),71,"['comedy rap', 'pop rap', 'rap']",61
+509,Bastille,All This Bad Blood,Haunt - Demo,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+510,Action Bronson,Blue Chips 7000,TANK (feat. Big Body Bes),69,"['conscious hip hop', 'dmv rap', 'hip hop', 'pop rap', 'rap']",78
+511,Jackson,Love Love Love,Love Love Love - Radio Edit,43,"['classic swedish pop', 'dansband', 'danspunk']",45
+512,Emil Jensen,Allt jag gillar upphör,Allt jag gillar upphör,38,"['skansk musik', 'swedish singer-songwriter']",28
+513,Us The Duo,Shake It Off,Shake It Off,65,"['folk-pop', 'indiecoustica', 'neo mellow', 'pop rock', 'viral pop']",54
+514,MARINA,Electra Heart,Living Dead,61,"['balkan trap', 'turbo folk']",56
+515,Bastille,All This Bad Blood,Bad Blood,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+516,Iyaz,Replay,Replay,77,"['dance pop', 'pop rap']",63
+517,MARINA,Happy,Happy,61,"['balkan trap', 'turbo folk']",56
+518,Lil Baby,Drip Harder,Drip Too Hard (Lil Baby & Gunna),8,"['pop', 'uk pop']",90
+519,The Killers,Wonderful Wonderful,Tyson vs Douglas,85,"['alternative rock', 'dance rock', 'modern rock', 'permanent wave', 'rock']",76
+520,Miike Snow,Miike Snow,Black & Blue,55,"['alternative dance', 'electropop', 'indie rock', 'indietronica', 'modern rock', 'new rave', 'swedish electropop', 'swedish indie pop', 'swedish synthpop']",55
+521,Imagine Dragons,Night Visions,Round And Round,88,"['modern rock', 'rock']",86
+522,The Goo Goo Dolls,Greatest Hits Volume One - The Singles,Name - New Version,75,"['neo mellow', 'permanent wave', 'pop rock']",70
+523,Blå Tåget,Brustna hjärtans hotell,I Hagalund,37,"['svensk progg', 'swedish prog']",23
+524,Lisa Nilsson,Innan vi faller,Innan vi faller,52,"['classic swedish pop', 'swedish jazz', 'swedish pop', 'swedish soul']",46
+525,Robin Schulz,OK,OK,79,"['dutch hip hop', 'tropical house']",64
+526,Hov1,Vindar på Mars,Ensammast i världen,65,"['fotbollslatar', 'swedish idol pop', 'swedish pop', 'swedish pop rap']",64
+527,Jill Scott,The Light of the Sun,Rolling Hills,0,"['gangster rap', 'hip hop', 'rap', 'southern hip hop', 'trap', 'virginia hip hop']",74
+528,Albin Lee Meldau,På riktigt,På riktigt,63,"['swedish pop', 'swedish singer-songwriter']",53
+529,Tomas Andersson Wij,Så Mycket Bättre 2017 - Tolkningarna,All Night,48,"['classic swedish pop', 'swedish alternative rock', 'swedish pop', 'swedish singer-songwriter']",41
+530,Kendrick Lamar,To Pimp A Butterfly,King Kunta,86,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",90
+531,Mark Ronson,Nothing Breaks Like a Heart (feat. Miley Cyrus),Nothing Breaks Like a Heart (feat. Miley Cyrus),84,"['dance pop', 'pop']",74
+532,Razorlight,Up All Night,Golden Touch - Full Length,69,"['britpop', 'modern rock', 'pop rock', 'rock']",58
+533,Johnossi,Blood Jungle,Hey Kiddo,52,"['swedish alternative rock', 'swedish indie rock']",43
+534,Maja Ivarsson,Så mycket bättre - säsong 3,Want Ya!,45,[],30
+535,Counting Crows,Somewhere Under Wonderland,Possibility Days,78,"['alternative rock', 'neo mellow', 'pop rock', 'rock']",66
+536,Llojd,Om vi faller,Om vi faller,33,"['kalmar indie', 'swedish soul']",27
+537,mansionz,Mansionz,Gorgeous,64,['pop rap'],54
+538,Brett Dennen,August: Osage County (Original Motion Picture Soundtrack),Can't Keep It Inside,54,"['acoustic pop', 'indie folk', 'neo mellow', 'new americana', 'pop rock', 'stomp and holler']",52
+539,The Boxer Rebellion,Promises,New York,54,['indie rock'],43
+540,Jessie Ware,Tough Love,Tough Love,65,"['art pop', 'british soul', 'dance pop', 'electropop', 'neo soul', 'pop', 'pop soul', 'tropical house']",60
+541,Macklemore & Ryan Lewis,The Heist,My Oh My,83,"['dance pop', 'pop', 'pop rap', 'seattle hip hop']",71
+542,Daryl Hall & John Oates,The Essential Daryl Hall & John Oates,Rich Girl,78,"['album rock', 'classic rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",69
+543,Les Big Byrd,Iran Iraq IKEA,Eon,38,"['neo-kraut', 'stockholm indie', 'swedish indie rock', 'swedish psychedelic rock']",27
+544,Bastille,All This Bad Blood,Durban Skies,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+545,Max Frost,White Lies,White Lies - EP Version,1,"['dance pop', 'edm', 'electronic trap', 'pop', 'pop dance', 'pop rap']",77
+546,Amason,Galaxy I,Marry Me Just for Fun,47,['swedish pop'],44
+547,Norlie & KKV,Alla våra låtar,Västerbron,60,"['swedish idol pop', 'swedish pop']",53
+548,Ebbot Lundberg,Så mycket bättre säsong 4 - Lills dag,Fri som en vind,28,['swedish alternative rock'],21
+549,ALVA,Let Her Go,Let Her Go,51,"['swedish gangsta rap', 'swedish hip hop']",48
+550,Christopher Cross,Christopher Cross,Ride Like the Wind,67,"['adult standards', 'album rock', 'disco', 'folk rock', 'mellow gold', 'new wave pop', 'quiet storm', 'soft rock', 'yacht rock']",61
+551,Matthew And The Atlas,Palace EP,Palace,50,"['indie anthem-folk', 'indie folk', 'stomp and holler', 'uk americana']",44
+552,Bo Kaspers Orkester,Kaos,Innan klockan slagit tolv,51,"['classic swedish pop', 'swedish jazz', 'swedish pop', 'swedish soul']",49
+553,Imagine Dragons,Night Visions,My Fault,88,"['modern rock', 'rock']",86
+554,The National,Trouble Will Find Me,I Need My Girl,64,"['indie rock', 'modern rock']",63
+555,Lukas Graham,Lukas Graham (Blue Album),Mama Said,58,"['danish pop', 'pop', 'scandipop']",69
+556,MARINA,Froot,Can't Pin Me Down,61,"['balkan trap', 'turbo folk']",56
+557,Dagny,Backbeat,Backbeat,39,"['classic swedish pop', 'danspunk', 'swedish rock-and-roll', 'vintage swedish pop']",31
+558,Per Gessle,Name You Beautiful (Official Song - World Table Tennis Championship 2018),Name You Beautiful,57,"['classic swedish pop', 'swedish pop']",48
+559,Lars Winnerbäck,Vi var där,Snö och marschaller - Live,59,"['classic swedish pop', 'swedish pop', 'swedish singer-songwriter']",56
+560,Big Sean,Dark Sky Paradise,One Man Can Change The World,68,"['detroit hip hop', 'hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap']",78
+561,Albin Johnsén,Tack För Idag,Tack För Idag,56,"['swedish idol pop', 'swedish pop', 'swedish pop rap']",47
+562,Bastille,All This Bad Blood,"Weight Of Living, Pt. I",76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+563,Billy Joel,Streetlife Serenade,The Entertainer,80,"['classic rock', 'folk rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",75
+564,Anna Ternheim,Separation Road,No Subtle Men,50,"['classic swedish pop', 'swedish pop', 'swedish singer-songwriter']",44
+565,Bishop Briggs,Modern Rock,White Flag,75,"['electropop', 'modern alternative rock', 'modern rock', 'pop']",62
+566,Imagine Dragons,Night Visions,The River,88,"['modern rock', 'rock']",86
+567,The High Kings,Irish Pub Song,Irish Pub Song,57,"['celtic', 'celtic rock', 'irish folk', 'irish pub song']",51
+568,Linn Brikell,Without You,Without You - Acoustic,41,"['acoustic cover', 'channel pop', 'viral pop']",44
+569,Little May,Little May,Boardwalks,57,"['indie folk', 'stomp and holler']",42
+570,Anderson,Forever Young,Forever Young,85,"['dance pop', 'pop']",86
+571,Lady Sovereign,Public Warning,Love Me Or Hate Me,47,[],34
+572,Jack Johnson,Brushfire Fairytales (Bonus Version),Flake,75,['neo mellow'],74
+573,Perssons Pack,Äkta Hjärtan,Tusen dagar härifrån,42,['classic swedish pop'],31
+574,Electric Light Orchestra,Jeff Lynne's ELO - Alone in the Universe,Dirty to the Bone,81,"['album rock', 'art rock', 'beatlesque', 'classic rock', 'glam rock', 'mellow gold', 'rock', 'soft rock', 'symphonic rock']",70
+575,Miriam Bryant,Så mycket bättre - Sven-Bertil Taubes dag,Ett sista glas,61,"['swedish idol pop', 'swedish pop', 'swedish pop rap']",59
+576,A Great Big World,Is There Anybody Out There?,I Really Want It,75,"['modern rock', 'neo mellow', 'piano rock', 'pop', 'pop rock', 'viral pop']",62
+577,Lars Winnerbäck,Söndermarken,Åt samma håll,59,"['classic swedish pop', 'swedish pop', 'swedish singer-songwriter']",56
+578,Hjalmer,Folk Som Os,Folk Som Os,46,['danish pop'],44
+579,Imagine Dragons,Night Visions,It's Time,88,"['modern rock', 'rock']",86
+580,Hogland,The Night,The Night - Janji Edit,63,"['deep house', 'deep pop edm', 'deep tropical house', 'edm', 'pop dance', 'pop edm', 'swedish tropical house', 'tropical house']",53
+581,Bruno Mars,Finesse (Remix) [feat. Cardi B],Finesse - Remix; feat. Cardi B,78,"['dance pop', 'pop']",86
+582,Gregory Alan Isakov,The Weatherman,Amsterdam,70,"['indie folk', 'pop folk', 'stomp and flutter', 'stomp and holler']",62
+583,Olle Nyman,Venture,Heart & Soul,32,"['norrbotten indie', 'swedish americana', 'swedish indie folk', 'swedish singer-songwriter']",38
+584,Enya,A Day Without Rain,Only Time,71,"['celtic', 'middle earth']",69
+585,The Goo Goo Dolls,Over and Over,Over and Over - RedOne and T.I. Jakke Remix,75,"['neo mellow', 'permanent wave', 'pop rock']",70
+586,Coldplay,Everglow,Everglow,82,"['permanent wave', 'pop']",86
+587,In This Moment,In the Air Tonight,In the Air Tonight,65,"['alternative metal', 'melodic metalcore', 'nu metal']",60
+588,Hov1,Vindar på Mars,Dö ung,65,"['fotbollslatar', 'swedish idol pop', 'swedish pop', 'swedish pop rap']",64
+589,Rhye,Taste,Taste,65,"['downtempo', 'indie soul', 'indietronica', 'shimmer pop']",60
+590,Black Eyed Peas,THE E.N.D. (THE ENERGY NEVER DIES),Meet Me Halfway,82,"['dance pop', 'pop', 'pop rap']",79
+591,Ison & Fille,Så mycket bättre - Niklas Strömstedts dag,Tänd ett ljus,48,"['swedish hip hop', 'swedish pop', 'swedish trap pop']",42
+592,Fleetwood Mac,Fleetwood Mac,Landslide,84,"['album rock', 'classic rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",78
+593,LÉON,Surround Me - EP,I Believe in Us,65,"['metropopolis', 'pop']",63
+594,Avicii,TIM,SOS (feat. Aloe Blacc),86,"['dance pop', 'edm', 'pop', 'pop dance', 'pop rap']",79
+595,Andrew McMahon in the Wilderness,Andrew McMahon In The Wilderness,Cecilia And The Satellite,63,"['hopebeat', 'indie poptimism', 'modern alternative rock', 'modern rock', 'neo mellow', 'piano rock', 'pop rock', 'stomp and holler']",50
+596,Plàsi,Who Are We,Who Are We,54,"['indie anthem-folk', 'indie folk', 'modern indie folk', 'swedish folk pop', 'swedish indie folk']",44
+597,Paul Simon,Still Crazy After All These Years,50 Ways to Leave Your Lover,76,"['classic rock', 'folk', 'folk rock', 'mellow gold', 'permanent wave', 'rock', 'roots rock', 'singer-songwriter', 'soft rock']",67
+598,Kina Grannis,Crazy Rich Asians (Original Motion Picture Soundtrack),Can’t Help Falling in Love,71,"['acoustic pop', 'neo mellow', 'viral pop']",62
+599,Sara Sangfelt,Tattoo,Neverland,38,"['edm', 'electro house', 'pop dance', 'pop edm', 'tropical house']",53
+600,Daniel Adams-Ray,Innan vi suddas ut,Precis som jag,60,['swedish pop'],52
+601,Jess Glynne,All I Am,All I Am,74,"['dance pop', 'edm', 'house', 'pop', 'pop dance', 'tropical house', 'uk dance', 'uk funky']",67
+602,Thomas Stenström,Fulkultur,"Elvis, Einstein och jag",69,['swedish pop'],61
+603,Vargas & Lagola,More Than You Know,More Than You Know - Acoustic,52,['swedish pop'],53
+604,Sarah Klang,It's Been Heaven Knowing You,It's Been Heaven Knowing You,51,"['swedish americana', 'swedish indie pop', 'swedish pop']",46
+605,Klara & Jag,Du & jag,Du & jag,40,['swedish pop'],34
+606,Carl Olander,Lions,Lions,12,[],2
+607,Dua Lipa,Dua Lipa,IDGAF,85,"['deep underground hip hop', 'kentucky hip hop', 'rap']",86
+608,Blanco White,The Wind Rose EP,Chalk,66,"['british singer-songwriter', 'indie folk']",53
+609,Woodkid,Iron,Baltimore’s Fireflies,71,['chamber pop'],59
+610,Macklemore & Ryan Lewis,The Heist,Jimmy Iovine (feat. Ab-Soul),83,"['dance pop', 'pop', 'pop rap', 'seattle hip hop']",71
+611,Christian Kjellvander,I saw her from here/I saw here from her,Poppies and Peonies,37,"['classic swedish pop', 'swedish americana', 'swedish singer-songwriter']",31
+612,Jon Bellion,The Separation,Eyes To The Sky,71,['pop rap'],67
+613,Hov1,Hov1,Gråzon,65,"['fotbollslatar', 'swedish idol pop', 'swedish pop', 'swedish pop rap']",64
+614,SG Lewis,Time (feat. Rhye),Time (feat. Rhye),71,"['disco', 'mellow gold', 'soft rock']",74
+615,Imperiet,Synd,Märk hur vår skugga,39,"['fotbollslatar', 'russelater']",60
+616,Jonathan Johansson,Aldrig ensam,Aldrig ensam,44,"['swedish electropop', 'swedish indie pop', 'swedish pop']",40
+617,Linnea Henriksson,"Du söker bråk, jag kräver dans",Min stad,58,['swedish pop'],50
+618,The Lemon Pipers,The Best of the Lemon Pipers,Rice Is Nice - Single Mix,46,"['bubblegum pop', 'classic garage rock', 'folk rock', 'freakbeat', 'psychedelic rock']",32
+619,Emeli Sandé,Our Version Of Events,Clown,66,"['dance pop', 'neo soul', 'pop', 'r&b', 'uk pop']",63
+620,Emil Jensen,Om du inte står för något faller du för allt (Samlade låtar),Sländornas dag,38,"['skansk musik', 'swedish singer-songwriter']",28
+621,Avicii,TIM,Heart Upon My Sleeve (feat. Imagine Dragons),86,"['dance pop', 'edm', 'pop', 'pop dance', 'pop rap']",79
+622,Hemliga Klubben,Gå Rå,Gå Rå,39,['swedish pop'],30
+623,Michael Kiwanuka,Home Again,Home Again,70,"['british soul', 'neo soul', 'psychedelic soul', 'soul']",62
+624,Tommy Körberg,Är,Stad i ljus,54,['classic swedish pop'],45
+625,Matt Corby,Into The Flame,Brother,62,"['australian indie', 'australian pop']",55
+626,Avicii,TIM,Peace Of Mind (feat. Vargas & Lagola),86,"['dance pop', 'edm', 'pop', 'pop dance', 'pop rap']",79
+627,Robyn,Body Talk Pt. 2,Indestructible - Acoustic Version,56,"['art pop', 'dance pop', 'electropop', 'europop', 'pop', 'scandipop', 'swedish electropop', 'swedish pop']",61
+628,Moneybrother,Så Mycket Bättre - Tolkningarna,Tommy och hans mamma,41,"['classic swedish pop', 'swedish alternative rock', 'swedish indie rock', 'swedish pop']",36
+629,Hanna Järver,So Long,Bara få va enkelt,33,['swedish electropop'],27
+630,Coldplay,Ghost Stories,A Sky Full of Stars,82,"['permanent wave', 'pop']",86
+631,Bastille,Bad Blood,Pompeii,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+632,LÉON,Tired of Talking,Tired of Talking,65,"['metropopolis', 'pop']",63
+633,The Goo Goo Dolls,Greatest Hits Volume One - The Singles,Feel the Silence - Remix,75,"['neo mellow', 'permanent wave', 'pop rock']",70
+634,Kings of Leon,Come Around Sundown,Pyro,82,"['modern rock', 'rock']",73
+635,Machine Gun Kelly,Bad Things,Bad Things - With Camila Cabello,71,['ohio hip hop'],81
+636,Chance Thomas,The Lord of the Rings Online: Mordor (Original Music Soundtrack),Ever On,34,"['middle earth', 'video game music']",27
+637,Shinedown,Leave a Whisper,Simple Man - Acoustic,63,"['alternative metal', 'nu metal', 'post-grunge']",69
+638,Marit Bergman,Molnfabriken,Ibland gråter jag bara för att tiden går,35,['swedish indie pop'],28
+639,Billie The Vision & The Dancers,What's the Matter With You Boy?,"Lily Says, 'Let's Fuck the Pain Away'",35,['swedish indie pop'],38
+640,Titiyo,Så mycket bättre säsong 4 - Kens dag,Själen av en vän,43,"['classic swedish pop', 'swedish americana', 'swedish punk']",45
+641,Bobby Hebb,Total 60s,Sunny,67,['northern soul'],48
+642,Ellen Krauss,The One I Love,The One I Love,49,['swedish pop'],43
+643,Ava Max,Sweet but Psycho,Sweet but Psycho,90,"['big room', 'brostep', 'dance pop', 'dutch edm', 'edm', 'house', 'pop', 'pop dance', 'slap house', 'trance', 'tropical house']",81
+644,Sebastian Krantz,Värdelösa människa,Värdelösa människa,43,['swedish idol pop'],28
+645,Ron Pope,"Goodbye, Goodnight",I'm Yours,69,"['acoustic pop', 'neo mellow', 'piano rock', 'pop rock', 'viral pop']",56
+646,Ellie Goulding,Close To Me (feat. Swae Lee),Close To Me (with Diplo) (feat. Swae Lee),79,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",84
+647,Lily Allen,"It's Not Me, It's You",Fuck You,63,"['dance pop', 'pop']",67
+648,Bo Kaspers Orkester,Så mycket Bo Kaspers Orkester,Jag är vacker ikväll,51,"['classic swedish pop', 'swedish jazz', 'swedish pop', 'swedish soul']",49
+649,John ME,I Am John,Skin & Bones,75,"['album rock', 'classic rock', 'country rock', 'folk rock', 'heartland rock', 'mellow gold', 'pop rock', 'rock', 'singer-songwriter', 'soft rock']",65
+650,Ted Gärdestad,Äntligen på väg,Tid faller hårt,68,"['classic swedish pop', 'swedish pop']",59
+651,Roy Orbison,The Essential Roy Orbison,I Drove All Night,43,"['finnish dance pop', 'finnish hip hop', 'finnish pop', 'suomi rock']",47
+652,The Strongest Man Who Ever Lived,This Is The Way,This Is The Way,24,['swedish pop'],37
+653,Moonica Mac,Alaska/All aska,Alaska/All aska,57,['swedish pop'],66
+654,Watsky,Cardboard Castles,Strong As An Oak,54,"['abstract hip hop', 'comic', 'modern rock', 'pop rap']",51
+655,Alan Walker,Faded,Faded,76,['electro house'],80
+656,Nationalteatern,Rövarkungens ö,Vi fortsätter spela rock´n roll men vi håller på att dö,52,"['classic swedish pop', 'danspunk', 'skansk musik', 'svensk progg', 'swedish prog']",44
+657,Tomas Andersson Wij,Mörkrets hastighet,Nu dör en sjöman,48,"['classic swedish pop', 'swedish alternative rock', 'swedish pop', 'swedish singer-songwriter']",41
+658,Solen,Känslor säljer / Miljonär,Miljonär,56,['swedish pop'],65
+659,Mel Tormé,Comin' Home Baby,Comin' Home Baby,57,"['adult standards', 'contemporary vocal jazz', 'easy listening', 'lounge', 'swing', 'vocal jazz']",47
+660,Jens Lekman,Night Falls Over Kortedala,Your Arms Around Me,27,"['chamber pop', 'gothenburg indie', 'indie pop', 'swedish indie pop', 'swedish singer-songwriter']",38
+661,Dean Lewis,Be Alright,Be Alright,77,"['australian pop', 'pop']",72
+662,Mauro Scocco,Mauro & Pluras tågluff,Waiting On A Friend,52,"['classic swedish pop', 'swedish pop', 'swedish singer-songwriter', 'swedish soul']",41
+663,Devlin,Rewind,Rewind,53,"['dance pop', 'electropop', 'pop', 'post-teen pop', 'uk pop']",75
+664,Arja Saijonmaa,Högt över havet,Högt över havet,44,['classic swedish pop'],30
+665,Nordman,Bästa,Det sista du ser,51,"['classic swedish pop', 'danspunk', 'folkmusik', 'swedish alternative rock', 'swedish pop']",43
+666,Adele,25,Water Under The Bridge,84,"['british soul', 'pop', 'pop soul', 'uk pop']",83
+667,The Killers,Sam's Town,For Reasons Unknown,85,"['alternative rock', 'dance rock', 'modern rock', 'permanent wave', 'rock']",76
+668,Lily Allen,"It's Not Me, It's You",Not Fair,63,"['dance pop', 'pop']",67
+669,Billie The Vision & The Dancers,Allt jag gillar upphör,"You’d Better Watch Out, ‘Cause I Like You",35,['swedish indie pop'],38
+670,Emma Bale,Fortune Cookie (feat. Milow),Fortune Cookie (feat. Milow) - Gostan Remix,56,['belgian pop'],43
+671,Niklas Lind,Höst,"Samma, samma",29,['swedish jazz'],16
+672,Moonica Mac,Stark & Sårbar,Deala inte - Acoustic Version,57,['swedish pop'],66
+673,Macklemore & Ryan Lewis,The Heist,Cowboy Boots,83,"['dance pop', 'pop', 'pop rap', 'seattle hip hop']",71
+674,Tommy Körberg,Tom - Nature Boy,"Mercy, Mercy, Mercy",54,['classic swedish pop'],45
+675,Tjuvjakt,okokokokokokok,G-Unit & Canada Goose,62,"['swedish hip hop', 'swedish pop', 'swedish pop rap']",55
+676,The Head And The Heart,Signs of Light,All We Ever Knew,56,"['folk-pop', 'indie folk', 'modern rock', 'pop rock', 'seattle indie', 'stomp and holler']",62
+677,Gorillaz,Humility (feat. George Benson),Humility (feat. George Benson),84,['alternative hip hop'],78
+678,Ed Sheeran,x,Afire Love,91,"['pop', 'uk pop']",90
+679,Kodaline,One Day,Take Control,79,"['irish pop', 'modern rock', 'pop', 'pop rock']",70
+680,Dolly Dolores,På måndag börjar jag igen,På måndag börjar jag igen,23,[],16
+681,Bastille,Bad Blood,"Weight Of Living, Pt. I",76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+682,Markus Krunegård,Mänsklig värme,Vår sista dans,51,"['classic swedish pop', 'swedish pop', 'swedish singer-songwriter']",46
+683,Jimmy Eat World,Bleed American,My Sundown,80,"['alternative rock', 'emo', 'modern power pop', 'modern rock', 'pop punk', 'pop rock', 'rock']",65
+684,Sons Of The East,Already Gone,Head For Home,61,"['australian indie folk', 'folk-pop', 'indie folk', 'stomp and holler']",57
+685,John Farnham,Collections,Listen to the Wind,63,"['australian pop', 'australian rock']",55
+686,David Torstensson,27,Earth and Sky,0,[],0
+687,A$AP Rocky,AT.LONG.LAST.A$AP,West Side Highway (feat. James Fauntleroy),82,"['east coast hip hop', 'hip hop', 'rap', 'trap']",80
+688,Bastille,All This Bad Blood,Laughter Lines,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+689,Thomas Stenström,Dreamer,Nån annan,69,['swedish pop'],61
+690,The Revivalists,Men Amongst Mountains,Wish I Knew You,68,"['indie folk', 'modern alternative rock', 'modern rock', 'rock', 'stomp and holler']",57
+691,Family Four,Guldkorn,Härliga sommardag,34,"['classic swedish pop', 'vintage swedish pop']",26
+692,VIC MENSA,The Autobiography,Coffee & Cigarettes,71,"['chicago rap', 'conscious hip hop', 'hip hop', 'pop rap', 'rap']",75
+693,George Harrison,All Things Must Pass,What Is Life,73,"['album rock', 'beatlesque', 'classic rock', 'folk rock', 'mellow gold', 'rock', 'soft rock']",65
+694,Mark Knopfler,Sailing To Philadelphia,What It Is,60,"['classic rock', 'folk rock', 'mellow gold']",60
+695,Erik Hassle,Hassle,Wanna Be Loved,42,['swedish pop'],37
+696,Nico & Vinz,That's How You Know (feat. Kid Ink & Bebe Rexha),That's How You Know (feat. Kid Ink & Bebe Rexha),79,['pop rap'],62
+697,Ana Diaz,100,100,51,['swedish pop'],44
+698,Bastille,All This Bad Blood,Oblivion,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+699,Bastille,All This Bad Blood,Poet,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+700,Bastille,Bad Blood,Icarus,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+701,kent,Jag är inte rädd för mörkret,999,50,['norwegian pop'],43
+702,Family of the Year,Through the Trees,Hero (Demo Version),69,['stomp and holler'],51
+703,The White Stripes,Elephant,Black Math,84,"['alternative rock', 'blues rock', 'detroit rock', 'garage rock', 'modern blues rock', 'modern rock', 'permanent wave', 'punk blues', 'rock']",69
+704,Imagine Dragons,Night Visions,Demons,88,"['modern rock', 'rock']",86
+705,Ron Pope,"Goodbye, Goodnight",Beautiful and Lost,69,"['acoustic pop', 'neo mellow', 'piano rock', 'pop rock', 'viral pop']",56
+706,Matisyahu,Akeda,Watch the Walls Melt Down,49,['reggae fusion'],56
+707,Åsa Jinder,En Samling Med Åsa Jinder,Av längtan till dig,50,"['classic swedish pop', 'folkmusik', 'nyckelharpa', 'swedish fiddle', 'swedish jazz']",36
+708,Charlotte Perrelli,Kommer du tro på mig,Kommer du tro på mig,48,"['classic swedish pop', 'europop', 'eurovision', 'swedish pop']",40
+709,Dorothy,DOROTHY,Wicked Ones,59,"['dark disco', 'electro-pop francais', 'french indietronica', 'new french touch']",62
+710,Anna Ternheim,For The Young,Keep Me In The Dark,50,"['classic swedish pop', 'swedish pop', 'swedish singer-songwriter']",44
+711,Imagine Dragons,Night Visions,Working Man,88,"['modern rock', 'rock']",86
+712,Avicii,TIM,Heaven,86,"['dance pop', 'edm', 'pop', 'pop dance', 'pop rap']",79
+713,Mike Posner,The Truth,Be As You Are,79,"['dance pop', 'edm', 'pop', 'pop rap']",69
+714,Mausi,Move,Move,92,['pop'],93
+715,Brett Dennen,Loverboy,Comeback Kid (That's My Dog),54,"['acoustic pop', 'indie folk', 'neo mellow', 'new americana', 'pop rock', 'stomp and holler']",52
+716,Lars Winnerbäck,Granit och morän,Visst har vi glömt,59,"['classic swedish pop', 'swedish pop', 'swedish singer-songwriter']",56
+717,Jackie Wilson,The Ultimate Jackie Wilson,(Your Love Keeps Lifting Me) Higher & Higher,72,"['adult standards', 'brill building pop', 'chicago soul', 'classic soul', 'disco', 'funk', 'quiet storm', 'rhythm and blues', 'rock-and-roll', 'rockabilly', 'soul']",58
+718,The Strumbellas,Spirits,Spirits,73,"['canadian indie', 'folk-pop', 'pop rock', 'stomp and holler']",57
+719,Sharon Van Etten,Every Time the Sun Comes Up,Every Time the Sun Comes Up,62,"['art pop', 'chamber pop', 'dream pop', 'indie folk', 'indie pop', 'indie rock', 'melancholia', 'new jersey indie', 'stomp and holler']",57
+720,Elton John,Blue Wonderful,Blue Wonderful,90,"['glam rock', 'mellow gold', 'piano rock']",82
+721,Alf Robertson,Soldaten och kortleken (2 CD),Hon steg på finlandsbåten,42,"['classic swedish pop', 'dansband', 'danspunk', 'swedish country', 'vintage swedish pop']",35
+722,Matisyahu,Youth,Time Of Your Song,49,['reggae fusion'],56
+723,Håkan Hellström,Illusioner,Tro på livet,63,"['classic swedish pop', 'gothenburg indie', 'swedish indie rock', 'swedish pop']",60
+724,Bastille,Basket Case,Basket Case - From ‘The Tick’ TV Series,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+725,Ison & Fille,Länge leve vi,Ambition,48,"['swedish hip hop', 'swedish pop', 'swedish trap pop']",42
+726,Violet Skies,Is She Gonna Be There?,Is She Gonna Be There?,47,"['alternative r&b', 'r&b', 'scandinavian r&b', 'swedish soul']",65
+727,Kodaline,Live and Ready - EP,Unclear - Live,79,"['irish pop', 'modern rock', 'pop', 'pop rock']",70
+728,Shotgun Crackers,Shotgun Crackers,Different City,10,['svensk indie'],5
+729,Fink,Hard Believer,Looking Too Closely,64,"['indie folk', 'ninja']",53
+730,Moneybrother,Blood Panic,It's Been Hurting All The Way With You Joanna,41,"['classic swedish pop', 'swedish alternative rock', 'swedish indie rock', 'swedish pop']",36
+731,Petter,Lev nu,Lev nu dö sen (feat. Vargas & Lagola),63,"['swedish hip hop', 'swedish pop', 'swedish pop rap']",55
+732,Lorentz,Lycka till,När allt det här är över,43,['swedish pop rap'],32
+733,Ulf Lundell,Utanför murarna,Kärleken förde oss samman,55,"['classic swedish pop', 'swedish pop']",49
+734,WILD,Silver & Gold,Silver & Gold,80,['pop'],92
+735,Faråker,Början på slutet,Lycklig död,32,['swedish indie pop'],23
+736,Ison & Fille,Resumé,Hela dan varje dag,48,"['swedish hip hop', 'swedish pop', 'swedish trap pop']",42
+737,Morrissey,Ringleader of the Tormentors,You Have Killed Me,62,"['britpop', 'madchester', 'new wave', 'permanent wave', 'pop rock', 'rock', 'solo wave']",58
+738,Petter,Mitt folk,Vi är,63,"['swedish hip hop', 'swedish pop', 'swedish pop rap']",55
+739,Den svenska björnstammen,Förlorare utan chans,Förlorare utan chans,63,"['swedish electropop', 'swedish pop']",51
+740,Cold War Kids,Hold My Home,First,55,"['alternative rock', 'indie rock', 'modern alternative rock', 'modern blues rock', 'modern rock', 'piano rock', 'pop rock', 'rock', 'stomp and holler']",60
+741,James Bay,Move Together,Move Together,73,"['neo mellow', 'pop', 'pop rock']",71
+742,Bastille,Bad Blood,Daniel In The Den,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+743,Johnny Cash,American IV: The Man Comes Around,Danny Boy,40,"['classic swedish pop', 'swedish jazz', 'swedish pop']",37
+744,Olle Nyman,Venture,A String Of Hope,32,"['norrbotten indie', 'swedish americana', 'swedish indie folk', 'swedish singer-songwriter']",38
+745,Anna Ternheim,Keep Me In The Dark,Keep Me In The Dark - Rig 45 Remix,50,"['classic swedish pop', 'swedish pop', 'swedish singer-songwriter']",44
+746,Emilíana Torrini,The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack),Gollum's Song,57,"['electronica', 'icelandic indie', 'icelandic pop', 'icelandic singer-songwriter', 'trip hop']",47
+747,John Farnham,Collections,Pressure Down,63,"['australian pop', 'australian rock']",55
+748,The Fratellis,Costello Music,Chelsea Dagger,70,"['alternative rock', 'garage rock', 'modern rock', 'rock', 'scottish rock']",60
+749,The Goo Goo Dolls,Greatest Hits Volume One - The Singles,Slide,75,"['neo mellow', 'permanent wave', 'pop rock']",70
+750,Cub Sport,when the party's over,when the party's over - triple j Like A Version,58,"['australian indie', 'australian indie rock', 'australian pop', 'brisbane indie']",52
+751,Weeping Willows,Fear & Love,The Burden,47,"['classic swedish pop', 'swedish alternative rock', 'swedish country', 'swedish pop']",41
+752,Capital Cities,In A Tidal Wave Of Mystery,Safe And Sound,84,['metropopolis'],65
+753,Lars Winnerbäck,Rusningstrafik,Balladen om konsekvenser,59,"['classic swedish pop', 'swedish pop', 'swedish singer-songwriter']",56
+754,Alanis Morissette,Jagged Little Pill,Ironic,72,"['canadian pop', 'canadian singer-songwriter', 'pop rock', 'singer-songwriter']",66
+755,Foy Vance,Hope,If Only You Could See Yourself Like I See You,57,"['acoustic pop', 'british singer-songwriter', 'indie folk', 'irish singer-songwriter', 'neo mellow', 'new americana', 'stomp and holler', 'uk americana']",53
+756,Avicii,TIM,Hold The Line (feat. A R I Z O N A),86,"['dance pop', 'edm', 'pop', 'pop dance', 'pop rap']",79
+757,Ben Howard,Every Kingdom,Gracious,70,"['british singer-songwriter', 'folk-pop', 'indie folk', 'neo mellow', 'stomp and holler']",63
+758,Karin Park,Ashes To Gold,Out Of The Cage,22,['australian dance'],54
+759,Courtney Barnett,The Double Ep: A Sea of Split Peas,History Eraser,53,"['australian indie', 'indie pop', 'indie rock', 'melbourne indie']",54
+760,Mohlavyr,Ingen typisk militär,Krympta drömmar,2,['orebro indie'],1
+761,Glen Hansard,Rhythm And Repose,Come Away to the Water,65,"['irish rock', 'irish singer-songwriter', 'melancholia']",53
+762,Macklemore & Ryan Lewis,The Heist,Thrift Shop (feat. Wanz),83,"['dance pop', 'pop', 'pop rap', 'seattle hip hop']",71
+763,Tokio Myers,Bloodstream,Bloodstream,45,['uk alternative pop'],35
+764,Imagine Dragons,Night Visions,Hear Me,88,"['modern rock', 'rock']",86
+765,Fitz and The Tantrums,More Than Just a Dream,Out of My League,73,"['la indie', 'modern alternative rock', 'modern rock', 'pop rock', 'rock']",66
+766,Amy Macdonald,Life In A Beautiful Light,Slow It Down,75,['scottish singer-songwriter'],59
+767,Seinabo Sey,Younger,Younger - Acoustic Version,51,"['swedish electropop', 'swedish pop', 'swedish soul']",55
+768,MisterWives,Drummer Boy,Drummer Boy,71,"['electropop', 'indie pop', 'indie poptimism', 'modern rock', 'nyc pop', 'pop rock']",60
+769,Crying Day Care Choir,July,July,55,"['swedish folk pop', 'swedish pop']",42
+770,Akon,Freedom,Freedom,77,"['big room', 'dance pop', 'edm', 'pop', 'pop dance', 'pop rap']",85
+771,The Crystals,Da Doo Ron Ron: The Very Best of The Crystals,Da Doo Ron Ron (When He Walked Me Home),54,"['brill building pop', 'bubblegum pop', 'classic girl group', 'rock-and-roll', 'rockabilly', 'soul']",47
+772,The Magnolia,First Time,White as snow,39,"['neo r&b', 'swedish soul']",24
+773,Håkan Hellström,Det kommer aldrig va över för mig,Det kommer aldrig va över för mig,63,"['classic swedish pop', 'gothenburg indie', 'swedish indie rock', 'swedish pop']",60
+774,Martin Berglund & Stödorkestern,Din ungdom ska aldrig dö,Det slutar aldrig så,22,['kalmar indie'],15
+775,Charlie Puth,Nine Track Mind,We Don't Talk Anymore (feat. Selena Gomez),82,"['dance pop', 'hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",81
+776,Jonathan Johansson,Love & Devotion,Bull City,44,"['swedish electropop', 'swedish indie pop', 'swedish pop']",40
+777,Avicii,TIM,Freak (feat. Bonn),86,"['dance pop', 'edm', 'pop', 'pop dance', 'pop rap']",79
+778,Amy Macdonald,This Is The Life,Let's Start A Band,75,['scottish singer-songwriter'],59
+779,Simon Norrsveden,OK baby det är dags att vi ska vinna allt,Utan ett ord,13,[],6
+780,Alpis,53,Bättre utan mig,47,['swedish pop'],38
+781,Anna Bergendahl,Vice,Vice,53,"['europop', 'eurovision', 'swedish pop']",43
+782,Frida Andersson,Hela vägen till Tokyo,Hela vägen till Tokyo,32,"['finlandssvenska musik', 'swedish folk pop']",18
+783,MisterWives,Same Drugs,Same Drugs - Chance The Rapper Cover,71,"['electropop', 'indie pop', 'indie poptimism', 'modern rock', 'nyc pop', 'pop rock']",60
+784,Bastille,All This Bad Blood,Flaws,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+785,Crying Day Care Choir,Join the Joyful Revolution,Join the Joyful Revolution,55,"['swedish folk pop', 'swedish pop']",42
+786,Sarah Klang,Creamy Blue,New Day Coming,51,"['swedish americana', 'swedish indie pop', 'swedish pop']",46
+787,Grouplove,Spreading Rumours,Ways to Go,81,"['indie rock', 'indietronica', 'la indie', 'modern alternative rock', 'modern rock', 'pop rock', 'rock', 'stomp and holler']",64
+788,Tom Walker,Heartland,Heartland,66,"['indie anthem-folk', 'modern rock', 'pop', 'uk pop']",65
+789,Erik Hassle,Taken EP,Standing Where You Left Me,42,['swedish pop'],37
+790,Thomas Stenström,Rör inte min kompis!,På en vacker dag,69,['swedish pop'],61
+791,Lars Winnerbäck,Vatten under broarna,Stackars,59,"['classic swedish pop', 'swedish pop', 'swedish singer-songwriter']",56
+792,First Aid Kit,Stay Gold,Shattered & Hollow,52,"['swedish idol pop', 'swedish pop']",56
+793,Electric Light Orchestra,Out of the Blue,Turn to Stone,81,"['album rock', 'art rock', 'beatlesque', 'classic rock', 'glam rock', 'mellow gold', 'rock', 'soft rock', 'symphonic rock']",70
+794,Amy Macdonald,This Is The Life,Poison Prince,75,['scottish singer-songwriter'],59
+795,Zac Brown Band,Heavy Is The Head,Heavy Is the Head,79,"['contemporary country', 'country', 'country road', 'modern country rock']",72
+796,Madeleine Peyroux,Careless Love,Don't Wait Too Long,56,"['adult standards', 'contemporary vocal jazz', 'jazz pop', 'lounge', 'soul', 'vocal jazz']",59
+797,The Dandy Warhols,The Capitol Years: 1995-2007,Bohemian Like You,71,"['alternative dance', 'alternative rock', 'indie rock', 'modern rock', 'pop rock', 'rock']",57
+798,Alex Clare,Three Hearts,Three Hearts,61,['modern alternative rock'],53
+799,Grymlings,Där gullvivan blommar,Där gullvivan blommar,45,['classic swedish pop'],35
+800,David Torstensson,27,När man svävar fritt i rymden (Minns inte),0,[],0
+801,Train,Angel in Blue Jeans,Angel in Blue Jeans,80,"['pop', 'talent show', 'uk pop']",77
+802,David Guetta,Bang My Head (feat. Sia & Fetty Wap),Bang My Head (feat. Sia & Fetty Wap),87,"['big room', 'dance pop', 'edm', 'pop', 'pop dance', 'pop rap']",85
+803,Did,What I did,Hello goodbye,52,"['classic swedish pop', 'dansband', 'danspunk']",45
+804,The Strokes,Room On Fire,12:51,79,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",74
+805,Bad Cash Quartet,Outcast,Too Bored to Die,34,['gothenburg indie'],25
+806,Bastille,All This Bad Blood,Overjoyed,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+807,Avicii,TIM,Bad Reputation (feat. Joe Janiak),86,"['dance pop', 'edm', 'pop', 'pop dance', 'pop rap']",79
+808,Linnea Henriksson,Säga mig,Säga mig,58,['swedish pop'],50
+809,Macklemore & Ryan Lewis,The Heist,Castle,83,"['dance pop', 'pop', 'pop rap', 'seattle hip hop']",71
+810,Säkert!,Arktiska oceanen - EP,Skadat exemplar,43,"['swedish hip hop', 'swedish pop', 'swedish pop rap']",55
+811,The Soundtrack Of Our Lives,Rest In Piece 1994 - 2012,The Passover - 2014 Remaster,43,"['gothenburg indie', 'swedish alternative rock', 'swedish hard rock', 'swedish psychedelic rock']",35
+812,The National,Trouble Will Find Me,Slipped,64,"['indie rock', 'modern rock']",63
+813,Bastille,Bad Blood,Laura Palmer,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+814,Oasis,Heathen Chemistry,Songbird,78,"['beatlesque', 'britpop', 'madchester', 'permanent wave', 'rock']",74
+815,Clean Bandit,What Is Love?,Baby (feat. MARINA & Luis Fonsi),75,"['dance pop', 'pop', 'urban contemporary']",74
+816,Anna Ternheim,The Winter Tapes,I'll Follow You Tonight - Live,50,"['classic swedish pop', 'swedish pop', 'swedish singer-songwriter']",44
+817,Vintage Trouble,The Bomb Shelter Sessions,Not Alright By Me,44,['modern blues rock'],40
+818,Daniel Norgren,Buck,Whatever Turns You On,47,"['swedish americana', 'swedish singer-songwriter']",46
+819,The Shins,"Oh, Inverted World",New Slang,70,"['albuquerque indie', 'alternative rock', 'chamber pop', 'indie folk', 'indie pop', 'indie rock', 'modern rock', 'portland indie', 'stomp and holler']",60
+820,AJR,What Everyone's Thinking - EP,Weak,77,['modern rock'],75
+821,Mando Diao,Musiken från På Spåret,24 Hours from Tulsa,58,"['dalarna indie', 'swedish garage rock', 'swedish indie rock']",55
+822,Bastille,All This Bad Blood,These Streets,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+823,The Goo Goo Dolls,Greatest Hits Volume One - The Singles,Here Is Gone,75,"['neo mellow', 'permanent wave', 'pop rock']",70
+824,Yael Naim,Yael Naïm,New Soul,61,"['french indie pop', 'nouvelle chanson francaise']",50
+825,Sia,Bird Set Free,Bird Set Free,80,"['big room', 'dance pop', 'edm', 'pop', 'pop dance', 'pop rap']",85
+826,Tommy Körberg,Så Mycket Bättre 2020 - Tolkningarna,Morgonljuset,54,['classic swedish pop'],45
+827,Lars Winnerbäck,Kom,"Du gamla, fria nord",59,"['classic swedish pop', 'swedish pop', 'swedish singer-songwriter']",56
+828,Cold War Kids,LA DIVINE,No Reason To Run,55,"['alternative rock', 'indie rock', 'modern alternative rock', 'modern blues rock', 'modern rock', 'piano rock', 'pop rock', 'rock', 'stomp and holler']",60
+829,Macklemore & Ryan Lewis,The Heist,A Wake (feat. Evan Roman),83,"['dance pop', 'pop', 'pop rap', 'seattle hip hop']",71
+830,Thomas Stenström,Rör inte min kompis!,Luffareblod,69,['swedish pop'],61
+831,Thomas Stenström,Rör inte min kompis!,Mina polare,69,['swedish pop'],61
+832,The All-American Rejects,Move Along,Move Along,70,"['modern rock', 'pop punk', 'pop rock', 'rock']",65
+833,The Goo Goo Dolls,Greatest Hits Volume One - The Singles,Iris,75,"['neo mellow', 'permanent wave', 'pop rock']",70
+834,MGMT,Little Dark Age,She Works Out Too Much,82,"['alternative rock', 'indie rock', 'indietronica', 'modern rock', 'rock']",73
+835,Daniel Lemma,Morning Train,Haze,45,"['classic swedish pop', 'swedish soul']",33
+836,Macklemore,The Unplanned Mixtape,Fallin,83,"['dance pop', 'pop', 'pop rap', 'seattle hip hop']",71
+837,Skizzy Mars,Alone Together,Hit Me Harder (feat. Jaymes Young),57,"['indie pop rap', 'pop rap', 'underground hip hop']",53
+838,Bastille,"VS. (Other People’s Heartache, Pt. III)",Weapon (Bastille Vs. Angel Haze Vs. F*U*G*Z Vs. Braque),76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+839,Blanche,Moment,Moment,0,"['french hip hop', 'pop urbaine', 'rap francais']",67
+840,Annika Norlin,Rött & svart pumpar hjärtat,Rött & svart pumpar hjärtat - Single version,44,"['swedish alternative rock', 'swedish indie pop', 'swedish jazz', 'swedish pop']",37
+841,Anna Ternheim,Kärleken väntar,Kärleken väntar,50,"['classic swedish pop', 'swedish pop', 'swedish singer-songwriter']",44
+842,Sampha,(No One Knows Me) Like the Piano,(No One Knows Me) Like the Piano,78,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",90
+843,Sylvia Vrethammar,Så mycket bättre - säsong 3,Oh Boy,38,"['classic swedish pop', 'swedish pop', 'vintage swedish pop']",30
+844,Sting,"50,000","50,000 - Dave Audé Radio Remix",39,"['europop', 'swedish idol pop', 'swedish pop']",44
+845,Murray Gold,Doctor Who: Series 5,Amy In The TARDIS,43,"['british soundtrack', 'scorecore', 'soundtrack', 'theme']",47
+846,Wyclef Jean,What Happened To Love,What Happened to Love,85,"['colombian pop', 'dance pop', 'latin', 'latin pop', 'pop']",84
+847,James TW,When You Love Someone,When You Love Someone - Acoustic,75,"['neo mellow', 'pop', 'pop rock', 'uk pop']",65
+848,Phoenix,Wolfgang Amadeus Phoenix,1901,69,"['speedrun', 'video game music']",79
+849,David Guetta,Flames,Flames,87,"['big room', 'dance pop', 'edm', 'pop', 'pop dance', 'pop rap']",85
+850,Erik Hassle,No Words,No Words,42,['swedish pop'],37
+851,Silvana Imam,Jag Dör För Dig,Jag Dör För Dig,49,['swedish pop'],66
+852,Johnossi,Transitions,Seventeen - Bonus Track / Alternative Version,52,"['swedish alternative rock', 'swedish indie rock']",43
+853,Karl-Magnus Fredriksson,Det är något bortom bergen,Tema ur filmen Bröderna Lejonhjärta,26,[],14
+854,Atmosphere,"When Life Gives You Lemons, You Paint That Shit Gold [Standard Edition]",Yesterday,65,[],46
+855,Jedi Mind Tricks,"Servants In Heaven, Kings In Hell",Razorblade Salvation,55,"['conscious hip hop', 'gangster rap', 'hardcore hip hop', 'philly rap', 'political hip hop']",51
+856,Tomas Andersson Wij,Hälsingland,Hälsingland,48,"['classic swedish pop', 'swedish alternative rock', 'swedish pop', 'swedish singer-songwriter']",41
+857,Hov1,Vindar på Mars,Ma chérie,65,"['fotbollslatar', 'swedish idol pop', 'swedish pop', 'swedish pop rap']",64
+858,Bräkne Hoby,Bräkne-Hoby,Du Tände Mig,7,[],4
+859,Adele,21,Lovesong,84,"['british soul', 'pop', 'pop soul', 'uk pop']",83
+860,Thomas Stenström,Rör inte min kompis!,Luffareblod,69,['swedish pop'],61
+861,Nick Mulvey,First Mind,Fever To The Form,66,"['british singer-songwriter', 'cambridgeshire indie', 'indie folk']",59
+862,Silvana Imam,Naturkraft,Sett Henne,49,['swedish pop'],66
+863,Daft Punk,TRON: Legacy Reconfigured,Derezzed - Remixed by Avicii,84,"['electro', 'filter house']",78
+864,Crying Day Care Choir,Join the Joyful Revolution,Where Did John Lennon Go?,55,"['swedish folk pop', 'swedish pop']",42
+865,Alma Lindström,Wait,Wait,26,[],9
+866,Sarah Dawn Finer,Vinterland,Vinterland,52,"['classic swedish pop', 'europop', 'swedish pop']",43
+867,Go Ahead Now,Kill Them with Kindness,Kill Them with Kindness,56,[],58
+868,Radical Face,The Bastards,Sisters,70,"['indie folk', 'jacksonville indie', 'stomp and holler']",57
+869,David Torstensson,27,Roll,0,[],0
+870,The Smashing Pumpkins,Siamese Dream,Disarm - Remastered,77,"['alternative metal', 'alternative rock', 'grunge', 'permanent wave', 'pop rock', 'rock', 'spacegrunge']",69
+871,Logic,Everybody,1-800-273-8255,36,"['swedish gangsta rap', 'swedish hip hop', 'swedish trap pop']",46
+872,Ruth B.,Lost Boy,Lost Boy,91,"['alt z', 'canadian contemporary r&b', 'canadian pop', 'pop']",75
+873,Smith & Thell,Statue (The Pills Song),Statue (The Pills Song),53,['swedish pop'],59
+874,Sven-Bertil Taube,Så mycket bättre - Lisa Nilssons dag,Himlen runt hörnet,45,"['classic swedish pop', 'folkmusik', 'swedish jazz', 'vintage swedish pop', 'visor']",40
+875,The 1975,Medicine,Medicine,72,"['modern alternative rock', 'modern rock', 'pop', 'rock']",72
+876,Lukas Graham,Lukas Graham (Blue Album),What Happened To Perfect,58,"['danish pop', 'pop', 'scandipop']",69
+877,James Bay,Chaos And The Calm,Hold Back The River,73,"['neo mellow', 'pop', 'pop rock']",71
+878,Petter,Cityljus (feat. Yasin & Blen),Cityljus (feat. Yasin & Blen),63,"['swedish hip hop', 'swedish pop', 'swedish pop rap']",55
+879,Galantis,Pharmacy,Peanut Butter Jelly,69,"['europop', 'new wave pop', 'soft rock', 'swedish pop']",69
+880,Bastille,All This Bad Blood,"Weight Of Living, Pt. II",76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+881,Angus & Julia Stone,Down The Way,Draw Your Swords,64,"['australian indie folk', 'indie folk']",63
+882,Bastille,All This Bad Blood,Icarus,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+883,Macklemore,GEMINI,Over It (feat. Donna Missal),83,"['dance pop', 'pop', 'pop rap', 'seattle hip hop']",71
+884,Blanche,City Lights,City Lights,0,"['french hip hop', 'pop urbaine', 'rap francais']",67
+885,Lars Winnerbäck,Vatten under broarna,Elegi,59,"['classic swedish pop', 'swedish pop', 'swedish singer-songwriter']",56
+886,Bastille,All This Bad Blood,The Silence,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+887,Avicii,TIM,Fades Away (feat. Noonie Bao),86,"['dance pop', 'edm', 'pop', 'pop dance', 'pop rap']",79
+888,The National,Cherry Tree,About Today,64,"['indie rock', 'modern rock']",63
+889,Simple Minds,New Gold Dream (81/82/83/84),Glittering Prize - Remastered 2002,76,"['art rock', 'dance rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'rock', 'scottish new wave', 'soft rock', 'synthpop']",65
+890,Steget,Förändrar Allt,Magiskt,44,"['gothenburg indie', 'swedish indie pop']",28
+891,S.P.O.C.K,Assignment: Earth,E.T. Phone Home,20,"['ebm', 'futurepop', 'neo-synthpop', 'swedish synthpop']",17
+892,kent,En plats i solen,Skisser för sommaren,50,['norwegian pop'],43
+893,Chance the Rapper,Coloring Book,Summer Friends (feat. Jeremih & Francis & The Lights),5,"['canadian pop', 'pop']",90
+894,Matthew And The Atlas,Pyres,Pyres,50,"['indie anthem-folk', 'indie folk', 'stomp and holler', 'uk americana']",44
+895,Dawin,Dessert,Dessert,53,['nyc pop'],51
+896,Miike Snow,iii,Genghis Khan,55,"['alternative dance', 'electropop', 'indie rock', 'indietronica', 'modern rock', 'new rave', 'swedish electropop', 'swedish indie pop', 'swedish synthpop']",55
+897,Fergie,Music From Baz Luhrmann's Film The Great Gatsby,A Little Party Never Killed Nobody (All We Got),72,"['dance pop', 'pop', 'post-teen pop', 'urban contemporary']",69
+898,Billie The Vision & The Dancers,Someone Like You,Someone Like You,35,['swedish indie pop'],38
+899,Bastille,All This Bad Blood,Skulls,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+900,The Barr Brothers,Sleeping Operator,Love Ain't Enough,57,"['canadian americana', 'canadian indie', 'deep new americana', 'indie folk', 'new americana', 'stomp and holler']",45
+901,Machine Gun Kelly,"Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha) [From Bright: The Album]","Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha)",71,['ohio hip hop'],81
+902,Ben Howard,I Forget Where We Were,End Of The Affair,70,"['british singer-songwriter', 'folk-pop', 'indie folk', 'neo mellow', 'stomp and holler']",63
+903,Vance Joy,We're Going Home,We're Going Home,82,"['folk-pop', 'modern rock', 'pop', 'pop rock']",75
+904,Patsy Cline,Patsy Cline’s Greatest Hits,So Wrong - Single Version,66,"['adult standards', 'nashville sound']",58
+905,Macklemore & Ryan Lewis,The Heist,White Walls (feat. ScHoolboy Q & Hollis),83,"['dance pop', 'pop', 'pop rap', 'seattle hip hop']",71
+906,Rebecca & Fiona,Drugstore Lovin’,Drugstore Lovin’,45,"['electropop', 'swedish electropop', 'swedish pop']",40
+907,The Script,No Sound Without Silence,"Never Seen Anything ""Quite Like You""",80,"['celtic rock', 'dance pop', 'neo mellow', 'pop', 'pop rock']",72
+908,Dido,Safe Trip Home,Look No Further,85,"['detroit hip hop', 'hip hop', 'rap']",89
+909,Bastille,All This Bad Blood,The Draw,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+910,kent,Tillbaka Till Samtiden,Columbus,50,['norwegian pop'],43
+911,Lupe Fiasco,"Food & Liquor II: The Great American Rap Album, Pt. 1",Battle Scars,73,"['chicago rap', 'rap']",89
+912,The Royal Concept,Goldrushed,Cabin Down Below,36,"['pop rock', 'swedish alternative rock', 'swedish indie pop']",45
+913,Passenger,Beautiful Birds (Instrumental),Beautiful Birds - Instrumental,74,"['folk-pop', 'neo mellow', 'pop', 'pop rock']",69
+914,Bastille,All This Bad Blood,Tuning Out...,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+915,The Sweet Remains,Laurel & Sunset,Dance With Me,51,['indie folk'],33
+916,Ison & Fille,Så mycket bättre - Sven-Bertil Taubes dag,Nu har jag fått den jag vill ha,48,"['swedish hip hop', 'swedish pop', 'swedish trap pop']",42
+917,Roy Orbison,Mystery Girl,You Got It,43,"['finnish dance pop', 'finnish hip hop', 'finnish pop', 'suomi rock']",47
+918,Did,What I did,Fool,52,"['classic swedish pop', 'dansband', 'danspunk']",45
+919,Wild Child,Sinking Ship / Back & Forth,Sinking Ship,60,"['album rock', 'glam metal', 'hard rock', 'metal', 'rock']",55
+920,Ana Diaz,Lyssna del 1,Fyll upp mitt glas nu,51,['swedish pop'],44
+921,Avicii,TIM,"Tough Love (feat. Agnes, Vargas & Lagola)",86,"['dance pop', 'edm', 'pop', 'pop dance', 'pop rap']",79
+922,Jedi Mind Tricks,"Servants In Heaven, Kings In Hell",Uncommon Valor: A Vietnam Story,55,"['conscious hip hop', 'gangster rap', 'hardcore hip hop', 'philly rap', 'political hip hop']",51
+923,Bruce Springsteen,Born In The U.S.A.,Glory Days,79,"['classic rock', 'heartland rock', 'mellow gold', 'permanent wave', 'rock', 'singer-songwriter']",74
+924,Bastille,Bad Blood,Flaws,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+925,Noah And The Whale,"Peaceful, The World Lays Me Down",5 Years Time,61,"['indie folk', 'indie pop', 'indie rock', 'stomp and holler']",54
+926,From Kid,Favorite Storm,Walk in Company,28,['swiss indie'],20
+927,Ed Sheeran,Castle on the Hill,Castle on the Hill - Acoustic,91,"['pop', 'uk pop']",90
+928,Imagine Dragons,Night Visions,Underdog,88,"['modern rock', 'rock']",86
+929,Uno Svenningsson,Samling,Vågorna,52,"['classic swedish pop', 'swedish pop']",46
+930,Tones And I,Johnny Run Away,Johnny Run Away,80,"['australian pop', 'pop']",71
+931,Archive,Controlling Crowds,Bullets,37,[],33
+932,Machine Gun Kelly,Bad Things,Bad Things - With Camila Cabello,71,['ohio hip hop'],81
+933,Little Simz,Selfish,Selfish,66,"['escape room', 'trap queen']",60
+934,Hov1,Vindar på Mars,Hornstullsstrand,65,"['fotbollslatar', 'swedish idol pop', 'swedish pop', 'swedish pop rap']",64
+935,Marshmello,Happier,Happier,85,"['brostep', 'dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']",81
+936,First Aid Kit,The Big Black and the Blue,I Met Up With the King,52,"['swedish idol pop', 'swedish pop']",56
+937,Lill Lindfors,Så mycket bättre säsong 4 - Agnes dag,Just här just nu,44,"['classic swedish pop', 'folkmusik', 'swedish jazz', 'vintage swedish pop']",38
+938,Anna Ternheim,Minns det som igår,Minns det som igår,50,"['classic swedish pop', 'swedish pop', 'swedish singer-songwriter']",44
+939,The Lumineers,Ophelia,Ophelia,79,"['folk-pop', 'stomp and holler']",75
+940,Jetta,Feels Like Coming Home,Feels Like Coming Home,29,"['swedish drill', 'swedish hip hop', 'swedish pop', 'swedish reggae', 'swedish trap', 'swedish trap pop']",60
+941,Bon Iver,Blood Bank,Blood Bank,76,"['eau claire indie', 'indie folk', 'melancholia']",73
+942,Did,What I did,Indifference,52,"['classic swedish pop', 'dansband', 'danspunk']",45
+943,Billy Joel,Storm Front,We Didn't Start the Fire,80,"['classic rock', 'folk rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",75
+944,MAGIC!,Don't Kill the Magic,One Woman One Man,0,"['permanent wave', 'pop']",86
+945,Macklemore & Ryan Lewis,The Heist,Can't Hold Us (feat. Ray Dalton),83,"['dance pop', 'pop', 'pop rap', 'seattle hip hop']",71
+946,One Week Gone,Freaks And Geeks,Freaks And Geeks,54,"['hip hop', 'rap', 'underground hip hop']",78
+947,Ken Ring,XXV,Don Rene,48,"['swedish gangsta rap', 'swedish hip hop', 'swedish trap pop']",42
+948,MGMT,Oracular Spectacular,Kids,82,"['alternative rock', 'indie rock', 'indietronica', 'modern rock', 'rock']",73
+949,Håkan Hellström,2 steg från paradise,Jag vet vilken dy hon varit i,63,"['classic swedish pop', 'gothenburg indie', 'swedish indie rock', 'swedish pop']",60
+950,Pantera,Cowboys from Hell,Cowboys from Hell,74,"['alternative metal', 'groove metal', 'hard rock', 'metal', 'nu metal', 'old school thrash', 'rock', 'texas metal']",66
+951,Jenny Berggren,Så mycket bättre - Niklas Strömstedts dag,Come,25,['swedish pop'],13
+952,Imagine Dragons,Night Visions,I Don't Mind,88,"['modern rock', 'rock']",86
+953,The Goo Goo Dolls,Greatest Hits Volume One - The Singles,Before It's Too Late,75,"['neo mellow', 'permanent wave', 'pop rock']",70
+954,MisterWives,Our Own House,Reflections,71,"['electropop', 'indie pop', 'indie poptimism', 'modern rock', 'nyc pop', 'pop rock']",60
+955,LIAMOO,Broken Hearted,Broken Hearted,58,"['swedish idol pop', 'swedish pop']",52
+956,Bastille,Bad Blood,These Streets,76,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74
+957,Dan Caplen,Love Me the Same,Love Me the Same,74,"['dance pop', 'edm', 'house', 'pop', 'pop dance', 'tropical house', 'uk dance', 'uk funky']",67
+958,Mac Miller,Donald Trump - Single,Donald Trump,83,"['hip hop', 'pittsburgh rap', 'rap']",82
+959,Of Monsters and Men,My Head Is An Animal,Little Talks,81,"['folk-pop', 'metropopolis', 'modern alternative rock', 'modern rock', 'pop rock', 'stomp and holler']",67

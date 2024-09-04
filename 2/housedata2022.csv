@@ -1,100 +1,100 @@
-name, Size, Room, Fee, Endprice, KvMPrice, Saledate, City, District, TypeOfProperty
-Knutsgatan 10A,103,4,6160,3150000,0, 3 sep. 2024, Västerås kommun,Centralt,Lägenhet
-Stentorpsgatan 22B,26,1,2048,390000,0, 3 sep. 2024, Västerås kommun,Malmaberg,Lägenhet
+name,Size,Room,Fee,Endprice,KvMPrice,Saledate,City,District,TypeOfProperty
+Stadsträdgårdsgatan 12,109,5,5 373,4850000,0, 4 sep. 2024, Västerås kommun,Stadsträdgården / Framnäs,Lägenhet
+Knutsgatan 10A,103,4,6 160,3150000,0, 3 sep. 2024, Västerås kommun,Centralt,Lägenhet
+Stentorpsgatan 22B,26,1,2 048,390000,0, 3 sep. 2024, Västerås kommun,Malmaberg,Lägenhet
 Askholmsvägen 20A,133+97,5,,9800000,0, 3 sep. 2024, Västerås kommun,Tidö-Lindö,Villa
 Iduns väg 5,153+31,5,,3350000,0, 3 sep. 2024, Västerås kommun,Irsta,Villa
-Agnegatan 12C,43.6,1.5,1958,1200000,0, 3 sep. 2024, Västerås kommun,Blåsbo,Lägenhet
-Långängsvägen 21X,72,Slutpris 1185000k,,1185000,0, 2 sep. 2024, Västerås kommun,Skälby,Övrigt
+Agnegatan 12C,43.6,1.5,1 958,1200000,0, 3 sep. 2024, Västerås kommun,Blåsbo,Lägenhet
+Långängsvägen 21X,72,?,,1185000,0, 2 sep. 2024, Västerås kommun,Skälby,Övrigt
 Skälbygatan 159,119,5,,2700000,0, 2 sep. 2024, Västerås kommun,Skälby,Villa
-KASSELGATAN 1B,77,3,4593,2500000,0, 2 sep. 2024, Västerås kommun,Lillhamra,Lägenhet
-Neptungatan 4,77,3,4718,3100000,0, 2 sep. 2024, Västerås kommun,Öster Mälarstrand,Lägenhet
+KASSELGATAN 1B,77,3,4 593,2500000,0, 2 sep. 2024, Västerås kommun,Lillhamra,Lägenhet
+Neptungatan 4,77,3,4 718,3100000,0, 2 sep. 2024, Västerås kommun,Öster Mälarstrand,Lägenhet
 Annedalsgatan 3,212+115,6,,7300000,0, 31 aug. 2024, Västerås kommun,Annedal,Villa
-SVÄRDSLILJEGATAN 13A,68.5,3,4662,1000000,0, 31 aug. 2024, Västerås kommun,Gideonsberg,Lägenhet
+SVÄRDSLILJEGATAN 13A,68.5,3,4 662,1000000,0, 31 aug. 2024, Västerås kommun,Gideonsberg,Lägenhet
 Nybomsgatan 3AD,92+25,4,,3250000,0, 31 aug. 2024, Västerås kommun,Freja,Radhus
-Ägirgatan 8,84,3,5942,3170000,0, 31 aug. 2024, Västerås kommun,Öster Mälarstrand,Lägenhet
-Drottninggatan 32D,34.5,1,3384,730000,0, 31 aug. 2024, Västerås kommun,Lustigkulla,Lägenhet
-Lövhagsgatan 51,61,2,4408,526000,0, 30 aug. 2024, Västerås kommun,Råby,Lägenhet
-STENTORPSGATAN 15A,51,2,3045,915000,0, 30 aug. 2024, Västerås kommun,Malmaberg,Lägenhet
-REGEMENTSGATAN 24,77.9,3,2677,1790000,0, 30 aug. 2024, Västerås kommun,Viksäng,Lägenhet
-Källgatan 9B,62,2,2696,1995000,0, 30 aug. 2024, Västerås kommun,City,Lägenhet
+Ägirgatan 8,84,3,5 942,3170000,0, 31 aug. 2024, Västerås kommun,Öster Mälarstrand,Lägenhet
+Drottninggatan 32D,34.5,1,3 384,730000,0, 31 aug. 2024, Västerås kommun,Lustigkulla,Lägenhet
+Lövhagsgatan 51,61,2,4 408,526000,0, 30 aug. 2024, Västerås kommun,Råby,Lägenhet
+STENTORPSGATAN 15A,51,2,3 045,915000,0, 30 aug. 2024, Västerås kommun,Malmaberg,Lägenhet
+REGEMENTSGATAN 24,77.9,3,2 677,1790000,0, 30 aug. 2024, Västerås kommun,Viksäng,Lägenhet
+Källgatan 9B,62,2,2 696,1995000,0, 30 aug. 2024, Västerås kommun,City,Lägenhet
 Snorregatan 6,107+86,4,,2800000,0, 30 aug. 2024, Västerås kommun,Irsta,Villa
-Kristiansborgsallén 1A,48.5,2,3279,1395000,0, 30 aug. 2024, Västerås kommun,Centralt/Kristiansborg,Lägenhet
-Rekylgatan 2,36.5,1,2901,695000,0, 30 aug. 2024, Västerås kommun,Haga,Lägenhet
-GUNNILBOGATAN 22B,92.3,4,3672,1995000,0, 30 aug. 2024, Västerås kommun,Malmaberg,Lägenhet
-BENVÄGEN 54,86.7,4,5448,830000,0, 30 aug. 2024, Västerås kommun,Bjurhovda,Lägenhet
-Patentgatan 13,76,3,4768,2625000,0, 30 aug. 2024, Västerås kommun,Tegnérlunden,Lägenhet
+Kristiansborgsallén 1A,48.5,2,3 279,1395000,0, 30 aug. 2024, Västerås kommun,Centralt/Kristiansborg,Lägenhet
+Rekylgatan 2,36.5,1,2 901,695000,0, 30 aug. 2024, Västerås kommun,Haga,Lägenhet
+GUNNILBOGATAN 22B,92.3,4,3 672,1995000,0, 30 aug. 2024, Västerås kommun,Malmaberg,Lägenhet
+BENVÄGEN 54,86.7,4,5 448,830000,0, 30 aug. 2024, Västerås kommun,Bjurhovda,Lägenhet
+Patentgatan 13,76,3,4 768,2625000,0, 30 aug. 2024, Västerås kommun,Tegnérlunden,Lägenhet
 Regnmätargatan 26,122.5+20,4,,4695000,0, 30 aug. 2024, Västerås kommun,Talltorp,Radhus
-Knotavägen 33,88.5,4,6584,1450000,0, 30 aug. 2024, Västerås kommun,Västerås,Lägenhet
-Flisavägen 26,74.9,2,4489,1100000,0, 30 aug. 2024, Västerås kommun,Västerås,Lägenhet
+Knotavägen 33,88.5,4,6 584,1450000,0, 30 aug. 2024, Västerås kommun,Västerås,Lägenhet
+Flisavägen 26,74.9,2,4 489,1100000,0, 30 aug. 2024, Västerås kommun,Västerås,Lägenhet
 Härjedalsvägen 11,123,5,,3900000,0, 30 aug. 2024, Västerås kommun,Önsta Gryta,Radhus
-Släggkastargatan 5,77.8,3,5532,1850000,0, 30 aug. 2024, Västerås kommun,Rönnby,Lägenhet
-Adolf Zethelius gata 9,78,3,4957,660000,0, 30 aug. 2024, Västerås kommun,Bäckby,Lägenhet
-Tujagatan 9, 2-1002,54,2,3956,1195000,0, 29 aug. 2024, Västerås kommun,Skiljebo Äng,Lägenhet
+Släggkastargatan 5,77.8,3,5 532,1850000,0, 30 aug. 2024, Västerås kommun,Rönnby,Lägenhet
+Adolf Zethelius gata 9,78,3,4 957,660000,0, 30 aug. 2024, Västerås kommun,Bäckby,Lägenhet
+Tujagatan 9 2-1002,54,2,3 956,1195000,0, 29 aug. 2024, Västerås kommun,Skiljebo Äng,Lägenhet
 Nybynäsvägen 4,54+47,2,,3500000,0, 29 aug. 2024, Västerås kommun,Nybynäs,Villa
 KARLFELDTSGATAN 90,108,4,,3200000,0, 29 aug. 2024, Västerås kommun,Nordanby,Radhus
-Julrosvägen 3,90,3,5687,2000000,0, 29 aug. 2024, Västerås kommun,Gryta,Lägenhet
+Julrosvägen 3,90,3,5 687,2000000,0, 29 aug. 2024, Västerås kommun,Gryta,Lägenhet
 Åsgårdsgatan 18,102+102,5,,3150000,0, 29 aug. 2024, Västerås kommun,Irsta,Villa
 Älvkullevägen 38,152,6,,5900000,0, 29 aug. 2024, Västerås kommun,Älvkullen,Radhus
-Kaserngatan 85,75.5,3,3498,1800000,0, 29 aug. 2024, Västerås kommun,Viksäng,Lägenhet
-Södra Ringvägen 2E,76,3,5177,2900000,0, 29 aug. 2024, Västerås kommun,Centrum,Lägenhet
-Ekevägen 13B,72,3,4806,1695000,0, 29 aug. 2024, Västerås kommun,Skiljebo,Lägenhet
-Sjöjungfrugatan 4,110,4,6193,4650000,0, 29 aug. 2024, Västerås kommun,Öster Mälarstrand,Lägenhet
-SKYTTEGATAN 6A ,60.5,2,4303,1150000,0, 29 aug. 2024, Västerås kommun,Haga,Lägenhet
-Claréusgatan 14,78,3,5369,3950000,0, 29 aug. 2024, Västerås kommun,Stallhagen,Lägenhet
-Vegagatan 5A,41.5,2,3500,990000,0, 29 aug. 2024, Västerås kommun,Vega,Lägenhet
+Kaserngatan 85,75.5,3,3 498,1800000,0, 29 aug. 2024, Västerås kommun,Viksäng,Lägenhet
+Södra Ringvägen 2E,76,3,5 177,2900000,0, 29 aug. 2024, Västerås kommun,Centrum,Lägenhet
+Ekevägen 13B,72,3,4 806,1695000,0, 29 aug. 2024, Västerås kommun,Skiljebo,Lägenhet
+Sjöjungfrugatan 4,110,4,6 193,4650000,0, 29 aug. 2024, Västerås kommun,Öster Mälarstrand,Lägenhet
+SKYTTEGATAN 6A ,60.5,2,4 303,1150000,0, 29 aug. 2024, Västerås kommun,Haga,Lägenhet
+Claréusgatan 14,78,3,5 369,3950000,0, 29 aug. 2024, Västerås kommun,Stallhagen,Lägenhet
+Vegagatan 5A,41.5,2,3 500,990000,0, 29 aug. 2024, Västerås kommun,Vega,Lägenhet
 Snytenvägen 31,118+9,5,,4250000,0, 29 aug. 2024, Västerås kommun,Hagaberg,Villa
-Timmermansgatan 3,156,5,7081,5500000,0, 29 aug. 2024, Västerås kommun,Centrum,Lägenhet
-Källhagsgatan 4B,36,1,2705,725000,0, 29 aug. 2024, Västerås kommun,Haga,Lägenhet
-Klyvargatan 10,111,4,5713,4125000,0, 29 aug. 2024, Västerås kommun,Öster Mälarstrand,Lägenhet
-Vetterslundsgatan 70,97.5,4,7100,1000000,0, 29 aug. 2024, Västerås kommun,Vetterslund,Lägenhet
-Klockartorpsgatan 18F,126,4,5200,3895000,0, 29 aug. 2024, Västerås kommun,Klockartorpet,Radhus
-Narvavägen 45,71,3,5498,1395000,0, 29 aug. 2024, Västerås kommun,Hammarby,Lägenhet
+Timmermansgatan 3,156,5,7 081,5500000,0, 29 aug. 2024, Västerås kommun,Centrum,Lägenhet
+Källhagsgatan 4B,36,1,2 705,725000,0, 29 aug. 2024, Västerås kommun,Haga,Lägenhet
+Klyvargatan 10,111,4,5 713,4125000,0, 29 aug. 2024, Västerås kommun,Öster Mälarstrand,Lägenhet
+Vetterslundsgatan 70,97.5,4,7 100,1000000,0, 29 aug. 2024, Västerås kommun,Vetterslund,Lägenhet
+Klockartorpsgatan 18F,126,4,5 200,3895000,0, 29 aug. 2024, Västerås kommun,Klockartorpet,Radhus
 Åsgränd 3,111+96,5,,1050000,0, 2 sep. 2024, Hallstahammars kommun,Kolbäck,Villa
-Nibblegatan 13,72,2.5,5533,675000,0, 29 aug. 2024, Hallstahammars kommun,Hallstahammar,Lägenhet
-Västtunagatan 42A,58,2,3649,375000,0, 29 aug. 2024, Hallstahammars kommun,Hallstahammar,Lägenhet
-Snevringevägen 62,97,4,7542,600000,0, 26 aug. 2024, Hallstahammars kommun,Lövboås,Lägenhet
-Snevringevägen 64,59,2,4686,475000,0, 25 aug. 2024, Hallstahammars kommun,Hallstahammar,Lägenhet
-Snevringevägen 68,76.5,3,6015,450000,0, 21 aug. 2024, Hallstahammars kommun,Hallstahammar,Lägenhet
-Västtunagatan 42a,39.5,1,2651,385000,0, 15 aug. 2024, Hallstahammars kommun,Hallstahammar,Lägenhet
+Nibblegatan 13,72,2.5,5 533,675000,0, 29 aug. 2024, Hallstahammars kommun,Hallstahammar,Lägenhet
+Västtunagatan 42A,58,2,3 649,375000,0, 29 aug. 2024, Hallstahammars kommun,Hallstahammar,Lägenhet
+Snevringevägen 62,97,4,7 542,600000,0, 26 aug. 2024, Hallstahammars kommun,Lövboås,Lägenhet
+Snevringevägen 64,59,2,4 686,475000,0, 25 aug. 2024, Hallstahammars kommun,Hallstahammar,Lägenhet
+Snevringevägen 68,76.5,3,6 015,450000,0, 21 aug. 2024, Hallstahammars kommun,Hallstahammar,Lägenhet
+Västtunagatan 42a,39.5,1,2 651,385000,0, 15 aug. 2024, Hallstahammars kommun,Hallstahammar,Lägenhet
 Sjövägen 11,231.6+51.5,8,,5695000,0, 13 aug. 2024, Hallstahammars kommun,Gröndal,Villa
-Norra Kapellgatan 18A,62,2,4439,540000,0, 12 aug. 2024, Hallstahammars kommun,Hallstahammar,Lägenhet
-Långgatan 4A,38,1,4076,295000,0, 8 aug. 2024, Hallstahammars kommun,Barnängen,Lägenhet
+Norra Kapellgatan 18A,62,2,4 439,540000,0, 12 aug. 2024, Hallstahammars kommun,Hallstahammar,Lägenhet
+Långgatan 4A,38,1,4 076,295000,0, 8 aug. 2024, Hallstahammars kommun,Barnängen,Lägenhet
 Fågelvägen 15,102+102,6,,2450000,0, 6 aug. 2024, Hallstahammars kommun,Lövboås,Villa
 BALDERSVÄGEN 33,177+78,7,,3495000,0, 5 aug. 2024, Hallstahammars kommun,Hallstahammar,Villa
 Oxelbacksvägen 8E,116+58,4,,1300000,0, 1 aug. 2024, Hallstahammars kommun,Hallstahammar,Radhus
 Bergslagsvägen 242C,140+25,5,,4100000,0, 24 jul. 2024, Hallstahammars kommun,Näs,Villa
-Norra Kapellg 10c,55,2,3506,395000,0, 20 jul. 2024, Hallstahammars kommun,Hallstahammar,Lägenhet
+Norra Kapellg 10c,55,2,3 506,395000,0, 20 jul. 2024, Hallstahammars kommun,Hallstahammar,Lägenhet
 Vallaregatan 5D,100+98,4,,1995000,0, 18 jul. 2024, Hallstahammars kommun,Fredhem,Radhus
-Västtunagatan 44B,24.8,1,2134,200000,0, 15 jul. 2024, Hallstahammars kommun,Hallstahammar,Lägenhet
+Västtunagatan 44B,24.8,1,2 134,200000,0, 15 jul. 2024, Hallstahammars kommun,Hallstahammar,Lägenhet
 Usterstavägen 9,129+129,5,,2700000,0, 13 jul. 2024, Hallstahammars kommun,Näs,Villa
 Rotevägen 3B,125+59,4,,2100000,0, 13 jul. 2024, Hallstahammars kommun,Hallstahammar,Villa
-ELDSBODAVÄGEN 19A,55,2,2800,650000,0, 11 jul. 2024, Hallstahammars kommun,Hallstahammar,Lägenhet
+ELDSBODAVÄGEN 19A,55,2,2 800,650000,0, 11 jul. 2024, Hallstahammars kommun,Hallstahammar,Lägenhet
 Bergslagsvägen 236,88+8,4,,2100000,0, 10 jul. 2024, Hallstahammars kommun,Näs,Villa
 Oxelbacksvägen 6D,116+58,5,,1750000,0, 8 jul. 2024, Hallstahammars kommun,Hallstahammar,Radhus
-Lövboåsvägen 6,62,2,4407,590000,0, 5 jul. 2024, Hallstahammars kommun,Lövboås,Lägenhet
+Lövboåsvägen 6,62,2,4 407,590000,0, 5 jul. 2024, Hallstahammars kommun,Lövboås,Lägenhet
 Vallaregatan 17,112+66,4,,1950000,0, 5 jul. 2024, Hallstahammars kommun,Hallstahammar,Villa
-Höjdgatan 12,110,4,6401,1298000,0, 5 jul. 2024, Hallstahammars kommun,Kolbäck,Villa
+Höjdgatan 12,110,4,6 401,1298000,0, 5 jul. 2024, Hallstahammars kommun,Kolbäck,Villa
 Finntorpet 19,32,2,,850000,0, 4 jul. 2024, Hallstahammars kommun,Hallstahammar,Fritidshus
 BARNÄNGSGATAN 2,94+46,4,,1700000,0, 29 jun. 2024, Hallstahammars kommun,Hallstahammar,Villa
 Norra Idrottsvägen 3,112+53,5,,1500000,0, 29 jun. 2024, Hallstahammars kommun,Trollebo,Villa
 Diktäppevägen 3,92+40,5,,2295000,0, 27 jun. 2024, Hallstahammars kommun,Fredhem,Villa
 Mölntorpsvägen 12,195+117,8,,3525000,0, 26 jun. 2024, Hallstahammars kommun,Mölntorp,Villa
-Solvägen 7,5ru,908m²,Slutpris 3200000,3200000,0, 26 jun. 2024, Hallstahammars kommun,Kolbäck,Villa
+Solvägen 7,5 ru,?,Slutpris 3 200 000,3200000,0, 26 jun. 2024, Hallstahammars kommun,Kolbäck,Villa
 Tibble 13,121+33,5,,2150000,0, 24 jun. 2024, Hallstahammars kommun,Hallstahammar,Villa
-Östtunagatan 5,70,3,5450,505000,0, 21 jun. 2024, Hallstahammars kommun,Hallstahammar,Lägenhet
-Östtunagatan 7,54,2,4264,460000,0, 18 jun. 2024, Hallstahammars kommun,Hallstahammar,Lägenhet
-Skomakarevägen 2a,54.5,2,2422,875000,0, 18 jun. 2024, Hallstahammars kommun,Kolbäck,Lägenhet
+Östtunagatan 5,70,3,5 450,505000,0, 21 jun. 2024, Hallstahammars kommun,Hallstahammar,Lägenhet
+Östtunagatan 7,54,2,4 264,460000,0, 18 jun. 2024, Hallstahammars kommun,Hallstahammar,Lägenhet
+Skomakarevägen 2a,54.5,2,2 422,875000,0, 18 jun. 2024, Hallstahammars kommun,Kolbäck,Lägenhet
 Hallonvägen 11,81,3,,1325000,0, 15 jun. 2024, Hallstahammars kommun,Tuna,Radhus
-Västtunagatan 42B,39.5,1,2651,350000,0, 13 jun. 2024, Hallstahammars kommun,Hallstahammar,Lägenhet
+Västtunagatan 42B,39.5,1,2 651,350000,0, 13 jun. 2024, Hallstahammars kommun,Hallstahammar,Lägenhet
 VALLMOGATAN 17,118+32,4,,1875000,0, 5 jun. 2024, Hallstahammars kommun,Kolbäck,Radhus
 VÄSTMANNAVÄGEN 17,126,5,,3250000,0, 5 jun. 2024, Hallstahammars kommun,Hallstahammar,Villa
 Gärdesvägen 32,90+30,5,,2625000,0, 31 maj. 2024, Hallstahammars kommun,Lövboås,Villa
 Bärsta 1,140,6,,4800000,0, 31 maj. 2024, Hallstahammars kommun,Kolbäck,Gård/Skog
 Johan Forsells väg 34,99+97,4,,2100000,0, 30 maj. 2024, Hallstahammars kommun,Näs,Villa
-Usterstavägen 64,121+42,742m²,Slutpris 1920000,1920000,0, 24 maj. 2024, Hallstahammars kommun,Näs,Villa
+Usterstavägen 64,121+42,?,Slutpris 1 920 000,1920000,0, 24 maj. 2024, Hallstahammars kommun,Näs,Villa
 Norra Lyckovägen 6E,123+6,5,,2250000,0, 24 maj. 2024, Hallstahammars kommun,Fredhem,Radhus
-Surbrunnsvägen 5C,39.5,1,2153,440000,0, 24 maj. 2024, Hallstahammars kommun,Hallstahammar,Lägenhet
-Gjuterivägen 3A,122.5,5,6500,1450000,0, 23 maj. 2024, Hallstahammars kommun,Kolbäck,Lägenhet
+Surbrunnsvägen 5C,39.5,1,2 153,440000,0, 24 maj. 2024, Hallstahammars kommun,Hallstahammar,Lägenhet
+Gjuterivägen 3A,122.5,5,6 500,1450000,0, 23 maj. 2024, Hallstahammars kommun,Kolbäck,Lägenhet
 Köpingsvägen 41,69,4,,1595000,0, 22 maj. 2024, Hallstahammars kommun,Kolbäck,Villa
 Slånbärsvägen 6,94+17,4,,1725000,0, 21 maj. 2024, Hallstahammars kommun,Hallstahammar,Radhus
 Finntorpet 13,184.6+32.8,6,,3350000,0, 18 maj. 2024, Hallstahammars kommun,Hallstahammar,Villa
@@ -107,148 +107,148 @@ METALLGATAN 3,87+84,5,,1500000,0, 7 aug. 2024, Surahammars kommun,Surahammar,Vil
 Lisjövägen 48,140,4,,1745000,0, 1 aug. 2024, Surahammars kommun,Västsura Herrgård,Fritidshus
 Bergslagsvägen 180,38,2,,865000,0, 31 jul. 2024, Surahammars kommun,Ramnäs,Fritidshus
 VÄSTERSJÖVÄGEN 57,137+36,4,,2295000,0, 25 jul. 2024, Surahammars kommun,Surahammar,Villa
-Dammvägen 4A,60.3,2,3586,210000,0, 23 jul. 2024, Surahammars kommun,Ramnäs,Lägenhet
-Kapellgatan 1A,56,2,3770,395000,0, 18 jul. 2024, Surahammars kommun,Surahammar,Lägenhet
-Timmervägen 1,59.3,2,3987,395000,0, 18 jul. 2024, Surahammars kommun,Surahammar,Lägenhet
+Dammvägen 4A,60.3,2,3 586,210000,0, 23 jul. 2024, Surahammars kommun,Ramnäs,Lägenhet
+Kapellgatan 1A,56,2,3 770,395000,0, 18 jul. 2024, Surahammars kommun,Surahammar,Lägenhet
+Timmervägen 1,59.3,2,3 987,395000,0, 18 jul. 2024, Surahammars kommun,Surahammar,Lägenhet
 Parkvägen 6,103+44,4,,1000000,0, 16 jul. 2024, Surahammars kommun,Surahammar,Villa
-Norrgårdsgränd 4,81.5,3,3929,400000,0, 16 jul. 2024, Surahammars kommun,Virsbo,Lägenhet
-Getängsvägen 40,45,2,Slutpris 550000,550000,0, 16 jul. 2024, Surahammars kommun,Hallstahammar,Fritidshus
+Norrgårdsgränd 4,81.5,3,3 929,400000,0, 16 jul. 2024, Surahammars kommun,Virsbo,Lägenhet
+Getängsvägen 40,45,2,Slutpris 550 000,550000,0, 16 jul. 2024, Surahammars kommun,Hallstahammar,Fritidshus
 Skrivarvägen 4,118,4,,975000,0, 12 jul. 2024, Surahammars kommun,Virsbo,Villa
-Borevägen 15B,58,2,3800,290000,0, 12 jul. 2024, Surahammars kommun,Surahammar,Lägenhet
-Källbergsvägen 36,26.3,1,2324,240000,0, 9 jul. 2024, Surahammars kommun,Surahammar,Lägenhet
+Borevägen 15B,58,2,3 800,290000,0, 12 jul. 2024, Surahammars kommun,Surahammar,Lägenhet
+Källbergsvägen 36,26.3,1,2 324,240000,0, 9 jul. 2024, Surahammars kommun,Surahammar,Lägenhet
 Stenbovägen 15,146+90,5,,2800000,0, 4 jul. 2024, Surahammars kommun,Surahammar,Villa
 Skogsvägen 12,133+143,5,,3200000,0, 30 jun. 2024, Surahammars kommun,Ramnäs,Villa
 Stenbovägen 10,176+46,7,,2450000,0, 27 jun. 2024, Surahammars kommun,Surahammar,Villa
 STRÅKVÄGEN 1,145,5,,2500000,0, 26 jun. 2024, Surahammars kommun,Surahammar,Villa
-Åshammarvägen 58 C,54,2,3459,155000,0, 25 jun. 2024, Surahammars kommun,Ramnäs,Lägenhet
+Åshammarvägen 58 C,54,2,3 459,155000,0, 25 jun. 2024, Surahammars kommun,Ramnäs,Lägenhet
 SKOGSVÄGEN 3,113,4,,1600000,0, 19 jun. 2024, Surahammars kommun,Virsbo,Villa
 Gärdesvägen 14,118+57,5,,1395000,0, 18 jun. 2024, Surahammars kommun,Virsbo,Radhus
 Snickartorpsvägen 15,106,3,,2495000,0, 18 jun. 2024, Surahammars kommun,Surahammar,Villa
 ÅSVÄGEN 21,128+80,6,,870000,0, 18 jun. 2024, Surahammars kommun,Ramnäs,Villa
 Harmonivägen 6,119,5,,1580000,0, 15 jun. 2024, Surahammars kommun,Surahammar,Villa
 Svenskbyvägen 10,28,2,,630000,0, 4 jun. 2024, Surahammars kommun,Surahammar,Fritidshus
-Kapellgatan 5B,56,2,3630,380000,0, 4 jun. 2024, Surahammars kommun,Centralt,Lägenhet
+Kapellgatan 5B,56,2,3 630,380000,0, 4 jun. 2024, Surahammars kommun,Centralt,Lägenhet
 Svenskbyvägen 4,40,2,,900000,0, 30 maj. 2024, Surahammars kommun,Surahammar,Fritidshus
 Magsjöstigen 3,16,1,,895000,0, 29 maj. 2024, Surahammars kommun,Surahammar,Fritidshus
 Lötvägen 4,117+10,5,,1480000,0, 28 maj. 2024, Surahammars kommun,Ramnäs,Villa
-KAPELLGATAN 5C,56,2,3630,290000,0, 23 maj. 2024, Surahammars kommun,Surahammar,Lägenhet
-Borevägen 15 A,58,2,3800,430000,0, 20 maj. 2024, Surahammars kommun,Surahammar,Lägenhet
+KAPELLGATAN 5C,56,2,3 630,290000,0, 23 maj. 2024, Surahammars kommun,Surahammar,Lägenhet
+Borevägen 15 A,58,2,3 800,430000,0, 20 maj. 2024, Surahammars kommun,Surahammar,Lägenhet
 Annehillsvägen 3,109+121,5,,1625000,0, 17 maj. 2024, Surahammars kommun,Ramnäs,Villa
 Brytarvägen 3,133,6,,1595000,0, 14 maj. 2024, Surahammars kommun,Ramnäs,Villa
 Hopslagarvägen 21,148,6,,2550000,0, 11 maj. 2024, Surahammars kommun,Ramnäs,Villa
 Järnbärarvägen 4,106,4,,1945000,0, 30 apr. 2024, Surahammars kommun,Surahammar,Villa
-Östergatan 88A,56,2,4353,450000,0, 29 apr. 2024, Surahammars kommun,Surahammar,Lägenhet
+Östergatan 88A,56,2,4 353,450000,0, 29 apr. 2024, Surahammars kommun,Surahammar,Lägenhet
 Hjulmakarvägen 10,120+49,4,,1695000,0, 25 apr. 2024, Surahammars kommun,Surahammar,Villa
-Åshammarvägen 56B,70.5,3.5,4426,285000,0, 17 apr. 2024, Surahammars kommun,Ramnäs,Lägenhet
+Åshammarvägen 56B,70.5,3.5,4 426,285000,0, 17 apr. 2024, Surahammars kommun,Ramnäs,Lägenhet
 Östergatan 26,86+88,4,,825000,0, 12 apr. 2024, Surahammars kommun,Surahammar,Villa
-Kapellgatan 1B,56,2,3770,245000,0, 12 apr. 2024, Surahammars kommun,Surahammar,Lägenhet
-Hjulmakarvägen 40C,57.3,2,3861,400000,0, 12 apr. 2024, Surahammars kommun,Surahammar,Lägenhet
+Kapellgatan 1B,56,2,3 770,245000,0, 12 apr. 2024, Surahammars kommun,Surahammar,Lägenhet
+Hjulmakarvägen 40C,57.3,2,3 861,400000,0, 12 apr. 2024, Surahammars kommun,Surahammar,Lägenhet
 Borgtäppan 5,79+49,4,,1710000,0, 28 mar. 2024, Surahammars kommun,Surahammar,Villa
 Bergsgatan 12,160+60,5,,1750000,0, 27 mar. 2024, Surahammars kommun,Surahammar,Villa
 Murargatan 51,104+34,4,,1500000,0, 26 mar. 2024, Surahammars kommun,Surahammar,Villa
 Metallgatan 16,89+81,2,,1500000,0, 26 mar. 2024, Surahammars kommun,Surahammar,Villa
-Hjulmakarvägen 38C,57.3,2,3631,435000,0, 25 mar. 2024, Surahammars kommun,Surahammar,Lägenhet
+Hjulmakarvägen 38C,57.3,2,3 631,435000,0, 25 mar. 2024, Surahammars kommun,Surahammar,Lägenhet
 Näsvägen 1,114,4,,1400000,0, 22 mar. 2024, Surahammars kommun,Virsbo,Villa
 Odensvi prästgård 21,103+103,4,,1300000,0, 3 sep. 2024, Köpings kommun,Odensvi,Villa
-Ringvägen 51E,65,3,4652,925000,0, 2 sep. 2024, Köpings kommun,Johannisdal,Lägenhet
+Ringvägen 51E,65,3,4 652,925000,0, 2 sep. 2024, Köpings kommun,Johannisdal,Lägenhet
 Överberga Kilarna 5,120+18,4,,2295000,0, 2 sep. 2024, Köpings kommun,Kilarna,Villa
 Gamla vägen 11,70,2,,1250000,0, 31 aug. 2024, Köpings kommun,Stäudd,Fritidshus
-Violgatan 8B,72,3,4355,1650000,0, 30 aug. 2024, Köpings kommun,Ullvi Backar,Lägenhet
+Violgatan 8B,72,3,4 355,1650000,0, 30 aug. 2024, Köpings kommun,Ullvi Backar,Lägenhet
 Hisingsgatan 11,205+188,7,,3800000,0, 30 aug. 2024, Köpings kommun,Stigarna,Villa
 Svalvägen 12,142,6,,4850000,0, 29 aug. 2024, Köpings kommun,Elund,Villa
 Kulinge 15,30,1,,570000,0, 27 aug. 2024, Köpings kommun,Köping,Fritidshus
-Östanåsgatan 15 Lgh 1202 ,70,3,4412,975000,0, 27 aug. 2024, Köpings kommun,Östanås,Lägenhet
+Östanåsgatan 15 Lgh 1202 ,70,3,4 412,975000,0, 27 aug. 2024, Köpings kommun,Östanås,Lägenhet
 Kulinge 15,30,1,,570000,0, 27 aug. 2024, Köpings kommun,Köping,Fritidshus
-Bergslagsvägen 119 A,91,4,6100,220000,0, 26 aug. 2024, Köpings kommun,Kolsva,Lägenhet
-Hagavägen 34A,81.5,3,4689,820000,0, 25 aug. 2024, Köpings kommun,Johannisdal,Lägenhet
-Nyckelbergsvägen 52B,38,1,2243,285000,0, 24 aug. 2024, Köpings kommun,Nyckelberget,Lägenhet
-Torsgatan 21 a,54.5,2,3714,500000,0, 23 aug. 2024, Köpings kommun,Nyckelberget,Lägenhet
+Bergslagsvägen 119 A,91,4,6 100,220000,0, 26 aug. 2024, Köpings kommun,Kolsva,Lägenhet
+Hagavägen 34A,81.5,3,4 689,820000,0, 25 aug. 2024, Köpings kommun,Johannisdal,Lägenhet
+Nyckelbergsvägen 52B,38,1,2 243,285000,0, 24 aug. 2024, Köpings kommun,Nyckelberget,Lägenhet
+Torsgatan 21 a,54.5,2,3 714,500000,0, 23 aug. 2024, Köpings kommun,Nyckelberget,Lägenhet
 Ringensons väg 2D,123,5,,2150000,0, 23 aug. 2024, Köpings kommun,Köping,Radhus
 Sadelgatan 37,127+29,5,,1650000,0, 21 aug. 2024, Köpings kommun,Köping,Villa
 Kulinge Nissestigen 3,26+7,2,,465000,0, 17 aug. 2024, Köpings kommun,Köping,Fritidshus
-Kihlmansgatan 34D,82.5,3,4690,775000,0, 16 aug. 2024, Köpings kommun,Skogsbrynet,Lägenhet
+Kihlmansgatan 34D,82.5,3,4 690,775000,0, 16 aug. 2024, Köpings kommun,Skogsbrynet,Lägenhet
 Virgatan 14B,98,4,,1850000,0, 16 aug. 2024, Köpings kommun,Centralt,Radhus
 Gulsparvsvägen 16,98,4,,2195000,0, 16 aug. 2024, Köpings kommun,Elund,Villa
 Västeråsvägen 19,147+73,4,,1800000,0, 16 aug. 2024, Köpings kommun,Centrum,Villa
 Bodavägen 22,40,3,,700000,0, 15 aug. 2024, Köpings kommun,Sundänge,Fritidshus
 Rödhakestigen 2,40,3,,1125000,0, 15 aug. 2024, Köpings kommun,Sundänge,Fritidshus
-Mariebergsgatan 26C,54,2,4131,575000,0, 15 aug. 2024, Köpings kommun,Nyckelberget,Lägenhet
-Stekelgatan 7,80.5,3,6812,1600000,0, 15 aug. 2024, Köpings kommun,Ullvibackar,Radhus
-Kihlmansgatan 28D,62.5,2,3742,485000,0, 12 aug. 2024, Köpings kommun,Skogsbrynet,Lägenhet
-Stora gatan 19,79,3,3437,1055000,0, 11 aug. 2024, Köpings kommun,Centrum,Lägenhet
+Mariebergsgatan 26C,54,2,4 131,575000,0, 15 aug. 2024, Köpings kommun,Nyckelberget,Lägenhet
+Stekelgatan 7,80.5,3,6 812,1600000,0, 15 aug. 2024, Köpings kommun,Ullvibackar,Radhus
+Kihlmansgatan 28D,62.5,2,3 742,485000,0, 12 aug. 2024, Köpings kommun,Skogsbrynet,Lägenhet
+Stora gatan 19,79,3,3 437,1055000,0, 11 aug. 2024, Köpings kommun,Centrum,Lägenhet
 Julgranstigen 6,89,4,,1850000,0, 9 aug. 2024, Köpings kommun,Köping,Fritidshus
-Sveavägen 6A,71,3,4375,500000,0, 9 aug. 2024, Köpings kommun,Karlsdal,Lägenhet
-Prästgärdsgatan 22A,56,3,3475,295000,0, 9 aug. 2024, Köpings kommun,Centralt,Lägenhet
-Viktoriagatan 6B,50,2,4062,400000,0, 7 aug. 2024, Köpings kommun,Centrum,Lägenhet
+Sveavägen 6A,71,3,4 375,500000,0, 9 aug. 2024, Köpings kommun,Karlsdal,Lägenhet
+Prästgärdsgatan 22A,56,3,3 475,295000,0, 9 aug. 2024, Köpings kommun,Centralt,Lägenhet
+Viktoriagatan 6B,50,2,4 062,400000,0, 7 aug. 2024, Köpings kommun,Centrum,Lägenhet
 Svedelius väg 20,139+86,6,,1650000,0, 5 aug. 2024, Köpings kommun,Johannisdal,Villa
 Sörsylta 4,170+110,7,,6500000,0, 31 jul. 2024, Köpings kommun,Sörsylta,Gård/Skog
-Erlandsvägen 33C ,61.5,2,3527,850000,0, 30 jul. 2024, Köpings kommun,Johannisdal,Lägenhet
-Sankt Olovsgatan 58a,68.5,2,4344,800000,0, 30 jul. 2024, Köpings kommun,Köping,Lägenhet
-Hagavägen 8A,70.5,3,5017,635000,0, 26 jul. 2024, Köpings kommun,Östanås,Lägenhet
+Erlandsvägen 33C ,61.5,2,3 527,850000,0, 30 jul. 2024, Köpings kommun,Johannisdal,Lägenhet
+Sankt Olovsgatan 58a,68.5,2,4 344,800000,0, 30 jul. 2024, Köpings kommun,Köping,Lägenhet
+Hagavägen 8A,70.5,3,5 017,635000,0, 26 jul. 2024, Köpings kommun,Östanås,Lägenhet
 Trollsländegatan 48,126,5,,2650000,0, 25 jul. 2024, Köpings kommun,Köping Ullvibackar,Villa
 Bellevuevägen 22,86+106,3,,880000,0, 25 jul. 2024, Köpings kommun,Köping,Villa
-Tallebovägen 1A,109,4,6054,2005000,0, 25 jul. 2024, Köpings kommun,Arbmansberg,Lägenhet
+Tallebovägen 1A,109,4,6 054,2005000,0, 25 jul. 2024, Köpings kommun,Arbmansberg,Lägenhet
 Passgatan 4,129,4,,2240000,0, 25 jul. 2024, Köpings kommun,Köping,Villa
-Tallebovägen 7D,109,4,6054,2150000,0, 23 jul. 2024, Köpings kommun,Arbmansberg,Lägenhet
+Tallebovägen 7D,109,4,6 054,2150000,0, 23 jul. 2024, Köpings kommun,Arbmansberg,Lägenhet
 Guttstavägen 18,180+22,6,,3200000,0, 23 jul. 2024, Köpings kommun,Kolsva,Villa
 Laggby 4,182,7,,3000000,0, 23 jul. 2024, Köpings kommun,Köping,Villa
-Odensvi Barksta 32,190,6,Slutpris 5400000,5400000,0, 23 jul. 2024, Köpings kommun,Odensvi,Gård/Skog
-Bergslagsvägen 14A,71,3,4633,680000,0, 19 jul. 2024, Köpings kommun,Karlsdal,Lägenhet
+Odensvi Barksta 32,190,6,Slutpris 5 400 000,5400000,0, 23 jul. 2024, Köpings kommun,Odensvi,Gård/Skog
+Bergslagsvägen 14A,71,3,4 633,680000,0, 19 jul. 2024, Köpings kommun,Karlsdal,Lägenhet
 Björnstigen 27,150+44,5,,3350000,0, 19 jul. 2024, Köpings kommun,Stigarna,Villa
-Pungbovägen 26B,60.5,2,4430,465000,0, 19 jul. 2024, Köpings kommun,Östanås,Lägenhet
+Pungbovägen 26B,60.5,2,4 430,465000,0, 19 jul. 2024, Köpings kommun,Östanås,Lägenhet
 Hjortstigen 2,113+113,5,,2750000,0, 19 jul. 2024, Köpings kommun,Stigarna,Villa
 Rödhakestigen 6,80,4,,1395000,0, 18 jul. 2024, Köpings kommun,Sundänge,Fritidshus
-Bergslagsvägen 10B,71,3,3902,425000,0, 17 jul. 2024, Köpings kommun,Köping,Lägenhet
-Sandgatan 27,110,5,6983,2600000,0, 3 sep. 2024, Enköpings kommun,Centrum,Lägenhet
+Bergslagsvägen 10B,71,3,3 902,425000,0, 17 jul. 2024, Köpings kommun,Köping,Lägenhet
+Sandgatan 27,110,5,6 983,2600000,0, 3 sep. 2024, Enköpings kommun,Centrum,Lägenhet
 Kaprifolvägen 17,135+40,5,,6240000,0, 2 sep. 2024, Enköpings kommun,Örsundsbro,Villa
 Ängsgatan 7,153+12,7,,4130000,0, 31 aug. 2024, Enköpings kommun,Korsängen,Villa
 Skogsvägen 5,120+79,7,,5550000,0, 30 aug. 2024, Enköpings kommun,Fanna,Villa
 Korvettvägen 9,91+29,3,,4000000,0, 30 aug. 2024, Enköpings kommun,Bredsand,Radhus
-Kungsgatan 11,57,2,3199,1625000,0, 30 aug. 2024, Enköpings kommun,Centrum,Lägenhet
-Kattugglegränd 1,74,2,4514,730000,0, 29 aug. 2024, Enköpings kommun,Lillsidan,Lägenhet
+Kungsgatan 11,57,2,3 199,1625000,0, 30 aug. 2024, Enköpings kommun,Centrum,Lägenhet
+Kattugglegränd 1,74,2,4 514,730000,0, 29 aug. 2024, Enköpings kommun,Lillsidan,Lägenhet
 Astrakangatan 45,98,4,,2050000,0, 29 aug. 2024, Enköpings kommun,Lillsidan,Radhus
-Tullgatan 7B,73,3,3668,2400000,0, 28 aug. 2024, Enköpings kommun,Centrum,Lägenhet
+Tullgatan 7B,73,3,3 668,2400000,0, 28 aug. 2024, Enköpings kommun,Centrum,Lägenhet
 Fårticksgatan 50,126+20,5,,3250000,0, 28 aug. 2024, Enköpings kommun,Husberg,Radhus
-Hejaregatan 5,60,2,4105,1250000,0, 27 aug. 2024, Enköpings kommun,Fanna,Lägenhet
-Odlingsvägen 52,130,5,6424,1625000,0, 27 aug. 2024, Enköpings kommun,Lillkyrka,Radhus
-Eriksgatan 36,92.4,4,3389,2300000,0, 27 aug. 2024, Enköpings kommun,Centrum,Lägenhet
-Bergsgatan 10,70,3,5153,1430000,0, 27 aug. 2024, Enköpings kommun,Enköping,Lägenhet
+Hejaregatan 5,60,2,4 105,1250000,0, 27 aug. 2024, Enköpings kommun,Fanna,Lägenhet
+Odlingsvägen 52,130,5,6 424,1625000,0, 27 aug. 2024, Enköpings kommun,Lillkyrka,Radhus
+Eriksgatan 36,92.4,4,3 389,2300000,0, 27 aug. 2024, Enköpings kommun,Centrum,Lägenhet
+Bergsgatan 10,70,3,5 153,1430000,0, 27 aug. 2024, Enköpings kommun,Enköping,Lägenhet
 Mistelvägen 9,191,6,,5450000,0, 26 aug. 2024, Enköpings kommun,Örsundsbro,Villa
 Kungshusby 31,140+50,5,,5850000,0, 23 aug. 2024, Enköpings kommun,Enköping,Villa
-Kungsgatan 38,80.4,3,5390,1850000,0, 23 aug. 2024, Enköpings kommun,Centrum,Lägenhet
-Rombergsgatan 14,70.5,3,3796,1300000,0, 22 aug. 2024, Enköpings kommun,Romberga,Lägenhet
-Sankt Olofsgatan 4A,58,2,3199,1535000,0, 22 aug. 2024, Enköpings kommun,Sankt Ilian,Lägenhet
+Kungsgatan 38,80.4,3,5 390,1850000,0, 23 aug. 2024, Enköpings kommun,Centrum,Lägenhet
+Rombergsgatan 14,70.5,3,3 796,1300000,0, 22 aug. 2024, Enköpings kommun,Romberga,Lägenhet
+Sankt Olofsgatan 4A,58,2,3 199,1535000,0, 22 aug. 2024, Enköpings kommun,Sankt Ilian,Lägenhet
 Röksvampsgatan 2,125+175,8,,4900000,0, 22 aug. 2024, Enköpings kommun,Bergvreten,Villa
-Idrottsallén 2,42,2,2855,1400000,0, 21 aug. 2024, Enköpings kommun,Munksundet,Lägenhet
-Rådjursvägen 19,174+20,1046m²,Slutpris 2750000,2750000,0, 21 aug. 2024, Enköpings kommun,Enköping,Villa
-Kryddgårdsgatan 23,45,2,3608,1150000,0, 21 aug. 2024, Enköpings kommun,Centrum,Lägenhet
-Tallbacksvägen 20,38,1,2596,670000,0, 21 aug. 2024, Enköpings kommun,Fanna,Lägenhet
+Idrottsallén 2,42,2,2 855,1400000,0, 21 aug. 2024, Enköpings kommun,Munksundet,Lägenhet
+Rådjursvägen 19,174+20,?,Slutpris 2 750 000,2750000,0, 21 aug. 2024, Enköpings kommun,Enköping,Villa
+Kryddgårdsgatan 23,45,2,3 608,1150000,0, 21 aug. 2024, Enköpings kommun,Centrum,Lägenhet
+Tallbacksvägen 20,38,1,2 596,670000,0, 21 aug. 2024, Enköpings kommun,Fanna,Lägenhet
 Bred Edsberga 3,41,2,,1200000,0, 20 aug. 2024, Enköpings kommun,Enköping,Fritidshus
 Bred Ängesta 3,100+50,3,,3300000,0, 20 aug. 2024, Enköpings kommun,Enköping,Villa
-Fregattvägen 5A,96,4,5400,2965000,0, 19 aug. 2024, Enköpings kommun,Bredsand,Radhus
+Fregattvägen 5A,96,4,5 400,2965000,0, 19 aug. 2024, Enköpings kommun,Bredsand,Radhus
 Hejaregatan 3,109+109,5,,4040000,0, 19 aug. 2024, Enköpings kommun,Fanna,Villa
-Lilla vägen 5,115,4,7074,2650000,0, 18 aug. 2024, Enköpings kommun,Centrum,Lägenhet
-Fannagatan 28,71,2,5699,1275000,0, 17 aug. 2024, Enköpings kommun,Fanna,Lägenhet
-Pärlugglegränd 5,100,4,6667,1075000,0, 16 aug. 2024, Enköpings kommun,Lillsidan,Lägenhet
-Odlingsvägen 58,130,5,6352,1470000,0, 16 aug. 2024, Enköpings kommun,Lillkyrka,Radhus
+Lilla vägen 5,115,4,7 074,2650000,0, 18 aug. 2024, Enköpings kommun,Centrum,Lägenhet
+Fannagatan 28,71,2,5 699,1275000,0, 17 aug. 2024, Enköpings kommun,Fanna,Lägenhet
+Pärlugglegränd 5,100,4,6 667,1075000,0, 16 aug. 2024, Enköpings kommun,Lillsidan,Lägenhet
+Odlingsvägen 58,130,5,6 352,1470000,0, 16 aug. 2024, Enköpings kommun,Lillkyrka,Radhus
 Villberga-Hässelby 2,171,7,,3650000,0, 16 aug. 2024, Enköpings kommun,Grillby,Villa
 Veckholms-Väppeby 22,46,2,,1450000,0, 16 aug. 2024, Enköpings kommun,Veckholm,Fritidshus
-Kyrkogatan 17,63.2,2,3746,1775000,0, 14 aug. 2024, Enköpings kommun,Centrum,Lägenhet
-Verkmästaregatan 42,73.5,3,5926,1650000,0, 14 aug. 2024, Enköpings kommun,Enköping,Lägenhet
+Kyrkogatan 17,63.2,2,3 746,1775000,0, 14 aug. 2024, Enköpings kommun,Centrum,Lägenhet
+Verkmästaregatan 42,73.5,3,5 926,1650000,0, 14 aug. 2024, Enköpings kommun,Enköping,Lägenhet
 Långtora 57,78+10,5,,2850000,0, 14 aug. 2024, Enköpings kommun,Enköping,Villa
 Torstuna Myrsjö 4,125,5,,2025000,0, 13 aug. 2024, Enköpings kommun,Fjärdhundra,Villa
 Torstuna Vappeby 4,64,4,,2200000,0, 12 aug. 2024, Enköpings kommun,Torstuna,Villa
-Tallbacksvägen 16,51.5,2,3514,1375000,0, 12 aug. 2024, Enköpings kommun,Fanna,Lägenhet
+Tallbacksvägen 16,51.5,2,3 514,1375000,0, 12 aug. 2024, Enköpings kommun,Fanna,Lägenhet
 Plommongatan 8,113,5,,2650000,0, 10 aug. 2024, Enköpings kommun,Lillsidan,Villa
-Regalskeppsvägen 26C,72+5.2,3,6849,1400000,0, 7 aug. 2024, Enköpings kommun,Bredsand,Lägenhet
-Rådmansgatan 8a,92,4,4475,2650000,0, 7 aug. 2024, Enköpings kommun,Centrum,Lägenhet
-Fjärilsstigen 37,64.5,2,4982,1260000,0, 7 aug. 2024, Enköpings kommun,Gånsta,Lägenhet
-Hälke 1:34,1929,Slutpris 320000k,,320000,0, 4 aug. 2024, Enköpings kommun,Örsundsbro,Tomt
-Salagatan 10A,43.5,1.5,2386,1225000,0, 31 jul. 2024, Enköpings kommun,Centrum,Lägenhet
+Regalskeppsvägen 26C,72+5.2,3,6 849,1400000,0, 7 aug. 2024, Enköpings kommun,Bredsand,Lägenhet
+Rådmansgatan 8a,92,4,4 475,2650000,0, 7 aug. 2024, Enköpings kommun,Centrum,Lägenhet
+Fjärilsstigen 37,64.5,2,4 982,1260000,0, 7 aug. 2024, Enköpings kommun,Gånsta,Lägenhet
+Hälke 1:34,1 929,?,,320000,0, 4 aug. 2024, Enköpings kommun,Örsundsbro,Tomt
+Salagatan 10A,43.5,1.5,2 386,1225000,0, 31 jul. 2024, Enköpings kommun,Centrum,Lägenhet
 Gäddvägen 54,51,3,,1650000,0, 30 jul. 2024, Enköpings kommun,Märsön,Fritidshus
-Kesuddsvägen 7,1261,Slutpris 2475000k,,2475000,0, 29 jul. 2024, Enköpings kommun,Bredsand,Tomt
-Eknäs,2505,Slutpris 660000k,,660000,0, 29 jul. 2024, Enköpings kommun,Vallby,Tomt
-Hejaregatan 4,56.5,2,3539,1260000,0, 28 jul. 2024, Enköpings kommun,Fanna,Lägenhet
+Kesuddsvägen 7,1 261,?,,2475000,0, 29 jul. 2024, Enköpings kommun,Bredsand,Tomt
+Eknäs,2 505,?,,660000,0, 29 jul. 2024, Enköpings kommun,Vallby,Tomt
+Hejaregatan 4,56.5,2,3 539,1260000,0, 28 jul. 2024, Enköpings kommun,Fanna,Lägenhet
 Storgatan 30,90+14,4,,1425000,0, 3 sep. 2024, Kungsörs kommun,Haga,Villa
 Överby 112,105,6,,2250000,0, 28 aug. 2024, Kungsörs kommun,Överby,Villa
 Hästvägen 11,125+160,4,,1825000,0, 26 aug. 2024, Kungsörs kommun,Kungsör,Villa
@@ -257,19 +257,19 @@ Drottninggatan 44,120,4,,1550000,0, 1 aug. 2024, Kungsörs kommun,Centralt,Villa
 Ringvägen 12,132+52,5,,1900000,0, 30 jul. 2024, Kungsörs kommun,Centralt I Kungsör,Villa
 Björkvägen 12,114+20,5,,1550000,0, 22 jul. 2024, Kungsörs kommun,Skillinge,Villa
 Skottvägen 11,62+62,3,,1200000,0, 5 jul. 2024, Kungsörs kommun,Skottbacken,Villa
-Magasinsgatan 25,76,3,4513,1100000,0, 4 jul. 2024, Kungsörs kommun,Kungsör,Radhus
+Magasinsgatan 25,76,3,4 513,1100000,0, 4 jul. 2024, Kungsörs kommun,Kungsör,Radhus
 Skillingeuddsvägen 15,117+43,4,,4100000,0, 3 jul. 2024, Kungsörs kommun,Skillingeudd,Villa
 Södergatan 7,215+154,10,,3525000,0, 2 jul. 2024, Kungsörs kommun,Kungsör,Villa
 Magasinsgatan 8,125+40,4,,1000000,0, 28 jun. 2024, Kungsörs kommun,Kungsör,Villa
-Magasinsgatan 40,104.5,4,5602,1500000,0, 26 jun. 2024, Kungsörs kommun,Kungsör,Lägenhet
+Magasinsgatan 40,104.5,4,5 602,1500000,0, 26 jun. 2024, Kungsörs kommun,Kungsör,Lägenhet
 Ringvägen 16,124+60,4,,1495000,0, 25 jun. 2024, Kungsörs kommun,Centralt,Villa
 Ängsvägen 28,100+4,4,,1350000,0, 24 jun. 2024, Kungsörs kommun,Kungsör,Radhus
 Björkvägen 13,105+48,5,,1730000,0, 23 jun. 2024, Kungsörs kommun,Kungsör,Villa
 Parkgatan 3,115+70,3,,1600000,0, 17 jun. 2024, Kungsörs kommun,Skillinge,Villa
-Skolgatan 10B,76.2,3,4116,1300000,0, 15 jun. 2024, Kungsörs kommun,Valskog,Radhus
+Skolgatan 10B,76.2,3,4 116,1300000,0, 15 jun. 2024, Kungsörs kommun,Valskog,Radhus
 Klockarevägen 1,170,4,,3150000,0, 4 jun. 2024, Kungsörs kommun,Kungsör,Villa
 Solrosvägen 21,156,7,,1625000,0, 30 maj. 2024, Kungsörs kommun,Kungsör,Villa
-Magasinsgatan 50,104.5,4,5602,900000,0, 30 maj. 2024, Kungsörs kommun,Centralt,Lägenhet
+Magasinsgatan 50,104.5,4,5 602,900000,0, 30 maj. 2024, Kungsörs kommun,Centralt,Lägenhet
 Granhammar 312,120+84,5,,1750000,0, 27 maj. 2024, Kungsörs kommun,Granhammar,Villa
 Örberga 118,80,3,,1700000,0, 24 maj. 2024, Kungsörs kommun,Örberga,Villa
 Krusgatan 4,84+40,4,,1695000,0, 23 maj. 2024, Kungsörs kommun,Kungsör,Villa
@@ -277,7 +277,7 @@ Krusgatan 4,84+40,4,,1695000,0, 23 maj. 2024, Kungsörs kommun,Kungsör,Villa
 Klockarevägen 9,90+48,3,,2750000,0, 15 maj. 2024, Kungsörs kommun,Kungsör,Villa
 Sågvägen 45,158,6,,2600000,0, 11 maj. 2024, Kungsörs kommun,Sågen,Villa
 Linnévägen 6,132+15,5,,2000000,0, 8 maj. 2024, Kungsörs kommun,Kungsör,Radhus
-Holma 223,1357,Slutpris 335000k,,335000,0, 7 maj. 2024, Kungsörs kommun,Holma,Fritidshus
+Holma 223,1 357,?,,335000,0, 7 maj. 2024, Kungsörs kommun,Holma,Fritidshus
 Siktvägen 7,140,5,,1650000,0, 27 apr. 2024, Kungsörs kommun,Kungsör,Villa
 Tibblevägen 21,208+27,7,,2050000,0, 26 apr. 2024, Kungsörs kommun,Torpa,Villa
 Ladugårdsvägen 20,132,5,,2405000,0, 25 apr. 2024, Kungsörs kommun,Centralt,Villa
@@ -285,16 +285,16 @@ Skäftruna 141,200+40,5,,3200000,0, 22 apr. 2024, Kungsörs kommun,Skäftruna,Vi
 Gamla Köpingsvägen 32,107,4,,2000000,0, 19 apr. 2024, Kungsörs kommun,Kungsör,Villa
 Tornvägen 9,136+60,4,,1700000,0, 18 apr. 2024, Kungsörs kommun,Kungsör,Villa
 Fredsgatan 16C,175+28,6,,5100000,0, 12 apr. 2024, Kungsörs kommun,Kungsör,Villa
-Torsgatan 3 B,39.2,1,2096,400000,0, 10 apr. 2024, Kungsörs kommun,Centralt I Kungsör,Lägenhet
+Torsgatan 3 B,39.2,1,2 096,400000,0, 10 apr. 2024, Kungsörs kommun,Centralt I Kungsör,Lägenhet
 Skillingeuddsvägen 36B,154,4,,4900000,0, 8 apr. 2024, Kungsörs kommun,Skillinge,Villa
 Himmelsbergavägen 27,113+12,6,,2982400,0, 3 apr. 2024, Kungsörs kommun,Kungsör,Villa
 Domherregatan 7,98+10,3,,3300000,0, 27 mar. 2024, Kungsörs kommun,Runnaområdet,Villa
 Ängsvägen 25,100+4,5,,1100000,0, 22 mar. 2024, Kungsörs kommun,Kungsör,Radhus
 Dammenvägen 19,130+55,4,,2500000,0, 22 mar. 2024, Kungsörs kommun,Lockmora,Villa
 Rönnstigen 12,189+6,6,,2175000,0, 14 mar. 2024, Kungsörs kommun,Valskog,Villa
-Magasinsgatan 11,76,3,4513,790000,0, 10 mar. 2024, Kungsörs kommun,Kungsör,Radhus
+Magasinsgatan 11,76,3,4 513,790000,0, 10 mar. 2024, Kungsörs kommun,Kungsör,Radhus
 Ekoxgatan 28,162,6,,2775000,0, 6 mar. 2024, Kungsörs kommun,Kungsör,Villa
-Mästaregatan 18A,56,2,3012,795000,0, 3 mar. 2024, Kungsörs kommun,Kungsör,Lägenhet
+Mästaregatan 18A,56,2,3 012,795000,0, 3 mar. 2024, Kungsörs kommun,Kungsör,Lägenhet
 Sågvägen 39,85,3,,1400000,0, 29 feb. 2024, Kungsörs kommun,Kungsör,Villa
 Vallgatan 3,71+71,2,,1200000,0, 27 feb. 2024, Kungsörs kommun,Kungsör,Villa
 Birkagatan 9B,80,4,,1525000,0, 27 feb. 2024, Kungsörs kommun,Kungsör,Villa

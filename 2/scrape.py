@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
+import csv
 locations = ['17821', '17925', '18037', '17975', '17898', '17972']
 
 
@@ -25,12 +26,14 @@ for location in locations:
         District = ''
         #print(card.prettify())
         if name:
-            name = name.text
+            name = name.text.replace(",","")
             if Saledate:
                 Saledate = Saledate.text.split("åld")[-1]
             if SizeData:
                 Size = SizeData[0].text.strip(' m²').replace(",",".")
                 Room = SizeData[1].text.strip(' rum').replace(",",".")
+                if "utpris" in Room or "m²" in Room:
+                    Room = "?"
                 FeeOrLawn = SizeData[2].text
                 if 'kr' in FeeOrLawn:
                     Fee = FeeOrLawn.strip(' kr/mån')
@@ -48,8 +51,8 @@ for location in locations:
                 TypeOfProperty = TypeOfProperty.text
             data.append([name, Size, Room, Fee, Endprice, 0, Saledate, City, District, TypeOfProperty])
 
-with open("housedata2022.csv", "w") as f:
-    f.write("name, Size, Room, Fee, Endprice, KvMPrice, Saledate, City, District, TypeOfProperty\n")
+with open("housedata2022.csv", "w", newline='') as f:
+    writer = csv.writer(f)
+    writer.writerow(["name", "Size", "Room", "Fee", "Endprice", "KvMPrice", "Saledate", "City", "District", "TypeOfProperty"])
     for row in data:
-        stringdata = f"{row[0]},{row[1]},{row[2]},{row[3]},{row[4]},{row[5]},{row[6]},{row[7]},{row[8]},{row[9]}\n".replace(" ", "")
-        f.write(stringdata)
+        writer.writerow(row)

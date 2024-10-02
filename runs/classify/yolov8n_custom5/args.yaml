@@ -1,0 +1,323 @@
+task: classify
+mode: train
+model: yolov8n-cls.pt
+data:
+  train:
+  - - /home/m/dev/ai/10/data/images/training/pexels-luis-zambrano-17570081.jpg
+    - '2'
+  - - /home/m/dev/ai/10/data/images/training/pexels-carrie-kin-2989700.jpg
+    - '1'
+  - - /home/m/dev/ai/10/data/images/training/pexels-polina-tankilevitch-4110156.jpg
+    - '3'
+  - - /home/m/dev/ai/10/data/images/training/pexels-bhargava-marripati-3250510.jpg
+    - '1'
+  - - /home/m/dev/ai/10/data/images/training/pexels-marlon-schmeiski-2883378.jpg
+    - '1'
+  - - /home/m/dev/ai/10/data/images/training/pexels-marlene-leppänen-2066896.jpg
+    - '3'
+  - - /home/m/dev/ai/10/data/images/training/pexels-david-kretschmann-8974252.jpg
+    - '0'
+  - - /home/m/dev/ai/10/data/images/training/pexels-alican-helik-18052763.jpg
+    - '1'
+  - - /home/m/dev/ai/10/data/images/training/pexels-garvin-st-villier-14277545.jpg
+    - '0'
+  - - /home/m/dev/ai/10/data/images/training/pexels-philip-lindvall-1120275.jpg
+    - '4'
+  - - /home/m/dev/ai/10/data/images/training/pexels-moy-caro-_-photographer-17218292.jpg
+    - '2'
+  - - /home/m/dev/ai/10/data/images/training/pexels-m-u-h-t-e-l-i-f-13920353 (1).jpg
+    - '5'
+  - - /home/m/dev/ai/10/data/images/training/pexels-nikolett-emmert-14440675.jpg
+    - '5'
+  - - /home/m/dev/ai/10/data/images/training/pexels-brett-jordan-2643698.jpg
+    - '3'
+  - - /home/m/dev/ai/10/data/images/training/pexels-files-1050327.jpg
+    - '1'
+  - - /home/m/dev/ai/10/data/images/training/pexels-fabian-rubilar-17995012.jpg
+    - '2'
+  - - /home/m/dev/ai/10/data/images/training/pexels-natan-16463229.jpg
+    - '2'
+  - - /home/m/dev/ai/10/data/images/training/pexels-ali-pazani-3061814.jpg
+    - '1'
+  - - /home/m/dev/ai/10/data/images/training/pexels-karolina-grabowska-4195325.jpg
+    - '3'
+  - - /home/m/dev/ai/10/data/images/training/pexels-matheus-natan-2869262.jpg
+    - '1'
+  - - /home/m/dev/ai/10/data/images/training/pexels-hemanth-k-m-11638635.jpg
+    - '4'
+  - - /home/m/dev/ai/10/data/images/training/pexels-irina-iriser-1647976.jpg
+    - '3'
+  - - /home/m/dev/ai/10/data/images/training/pexels-miriam-alonso-7622520.jpg
+    - '3'
+  - - /home/m/dev/ai/10/data/images/training/pexels-nothing-ahead-3049394.jpg
+    - '1'
+  - - /home/m/dev/ai/10/data/images/training/pexels-radwan-menzer-17747031.jpg
+    - '2'
+  - - /home/m/dev/ai/10/data/images/training/pexels-mohammad-sattar-18339484.jpg
+    - '1'
+  - - /home/m/dev/ai/10/data/images/training/pexels-cottonbro-studio-5081418.jpg
+    - '3'
+  - - /home/m/dev/ai/10/data/images/training/pexels-alimurat-üral-16896947.jpg
+    - '1'
+  - - /home/m/dev/ai/10/data/images/training/pexels-natalya-rostun-13002023 (1).jpg
+    - '4'
+  - - /home/m/dev/ai/10/data/images/training/pexels-aleks-magnusson-2907762.jpg
+    - '1'
+  - - /home/m/dev/ai/10/data/images/training/pexels-hemanth-k-m-11638635 (1).jpg
+    - '4'
+  - - /home/m/dev/ai/10/data/images/training/pexels-deane-bayas-11960291.jpg
+    - '0'
+  - - /home/m/dev/ai/10/data/images/training/pexels-luis-leon-2908870.jpg
+    - '1'
+  - - /home/m/dev/ai/10/data/images/training/pexels-erik-mclean-4674344.jpg
+    - '0'
+  - - /home/m/dev/ai/10/data/images/training/pexels-ann-bugaichuk-16647799.jpg
+    - '1'
+  - - /home/m/dev/ai/10/data/images/training/pexels-pawan-sable-12544682 (1).jpg
+    - '5'
+  - - /home/m/dev/ai/10/data/images/training/pexels-mick-latter-12582201.jpg
+    - '4'
+  - - /home/m/dev/ai/10/data/images/training/pexels-gantas-vaičiulėnas-3999536.jpg
+    - '3'
+  - - /home/m/dev/ai/10/data/images/training/pexels-ksenia-chernaya-7299850.jpg
+    - '1'
+  - - /home/m/dev/ai/10/data/images/training/pexels-frame-ofe-16619122.jpg
+    - '5'
+  - - /home/m/dev/ai/10/data/images/training/pexels-lê-minh-3062594.jpg
+    - '2'
+  - - /home/m/dev/ai/10/data/images/training/pexels-antony-trivet-9878657.jpg
+    - '4'
+  - - /home/m/dev/ai/10/data/images/training/pexels-ngân-phạm-17135719.jpg
+    - '2'
+  - - /home/m/dev/ai/10/data/images/training/pexels-matheus-natan-1890032.jpg
+    - '1'
+  - - /home/m/dev/ai/10/data/images/training/pexels-matheus-natan-2869261.jpg
+    - '1'
+  - - /home/m/dev/ai/10/data/images/training/pexels-antony-trivet-9981692 (1).jpg
+    - '4'
+  - - /home/m/dev/ai/10/data/images/training/pexels-andrea-piacquadio-920382.jpg
+    - '1'
+  - - /home/m/dev/ai/10/data/images/training/pexels-alexander-hamilton-9443581.jpg
+    - '0'
+  - - /home/m/dev/ai/10/data/images/training/pexels-himesh-mehta-3250348.jpg
+    - '1'
+  - - /home/m/dev/ai/10/data/images/training/pexels-quang-viet-nguyen-9561292.jpg
+    - '4'
+  - - /home/m/dev/ai/10/data/images/training/pexels-edward-eyer-2883067.jpg
+    - '1'
+  - - /home/m/dev/ai/10/data/images/training/pexels-bruno-cervera-15488686.jpg
+    - '0'
+  - - /home/m/dev/ai/10/data/images/training/pexels-marc-mueller-238541.jpg
+    - '3'
+  - - /home/m/dev/ai/10/data/images/training/pexels-deepa-gopinath-6306534.jpg
+    - '5'
+  - - /home/m/dev/ai/10/data/images/training/pexels-cottonbro-studio-4065906.jpg
+    - '3'
+  - - /home/m/dev/ai/10/data/images/training/pexels-joe-caltiere-10996872.jpg
+    - '4'
+  - - /home/m/dev/ai/10/data/images/training/pexels-erik-mclean-4674339.jpg
+    - '0'
+  - - /home/m/dev/ai/10/data/images/training/pexels-fatih-güney-16859810.jpg
+    - '5'
+  - - /home/m/dev/ai/10/data/images/training/pexels-jhonata-senna-2361663.jpg
+    - '2'
+  - - /home/m/dev/ai/10/data/images/training/pexels-arina-shilyaeva-3048710.jpg
+    - '1'
+  - - /home/m/dev/ai/10/data/images/training/pexels-quang-viet-nguyen-9561299.jpg
+    - '4'
+  - - /home/m/dev/ai/10/data/images/training/pexels-husnu-karalar-16658649.jpg
+    - '1'
+  - - /home/m/dev/ai/10/data/images/training/pexels-natalya-rostun-13002023.jpg
+    - '4'
+  - - /home/m/dev/ai/10/data/images/training/pexels-alina-komarevska-15793245.jpg
+    - '3'
+  - - /home/m/dev/ai/10/data/images/training/pexels-m-u-h-t-e-l-i-f-13920353.jpg
+    - '5'
+  - - /home/m/dev/ai/10/data/images/training/pexels-edgar-santana-12831258.jpg
+    - '5'
+  - - /home/m/dev/ai/10/data/images/training/pexels-andrea-piacquadio-920381.jpg
+    - '1'
+  - - /home/m/dev/ai/10/data/images/training/pexels-lisa-fotios-1092644.jpg
+    - '3'
+  - - /home/m/dev/ai/10/data/images/training/pexels-ion-ceban-ionelceban-2929835.jpg
+    - '1'
+  - - /home/m/dev/ai/10/data/images/training/pexels-antony-trivet-9878597.jpg
+    - '4'
+  - - /home/m/dev/ai/10/data/images/training/pexels-nothing-ahead-17988058.jpg
+    - '6'
+  - - /home/m/dev/ai/10/data/images/training/pexels-ali-pazani-2975612.jpg
+    - '1'
+  - - /home/m/dev/ai/10/data/images/training/pexels-kaushal-moradiya-9417523.jpg
+    - '2'
+  - - /home/m/dev/ai/10/data/images/training/pexels-pawan-sable-12544682.jpg
+    - '5'
+  - - /home/m/dev/ai/10/data/images/training/pexels-milad-heran-4082552.jpg
+    - '2'
+  - - /home/m/dev/ai/10/data/images/training/pexels-pratik-prasad-14778525.jpg
+    - '3'
+  - - /home/m/dev/ai/10/data/images/training/pexels-antony-trivet-9898246.jpg
+    - '4'
+  - - /home/m/dev/ai/10/data/images/training/pexels-ali-dashti-16924358.jpg
+    - '2'
+  - - /home/m/dev/ai/10/data/images/training/pexels-antony-trivet-9878632.jpg
+    - '4'
+  - - /home/m/dev/ai/10/data/images/training/pexels-plann-4549416.jpg
+    - '3'
+  - - /home/m/dev/ai/10/data/images/training/pexels-engin-akyurt-3275945.jpg
+    - '1'
+  - - /home/m/dev/ai/10/data/images/training/pexels-marlene-leppänen-13879526.jpg
+    - '5'
+  - - /home/m/dev/ai/10/data/images/training/pexels-natan-16463245.jpg
+    - '2'
+  - - /home/m/dev/ai/10/data/images/training/pexels-ana-ferreira-1895976.jpg
+    - '2'
+  - - /home/m/dev/ai/10/data/images/training/pexels-jacob-moore-11913339.jpg
+    - '0'
+  - - /home/m/dev/ai/10/data/images/training/pexels-antony-trivet-9981692.jpg
+    - '4'
+  - - /home/m/dev/ai/10/data/images/training/pexels-photomix-company-887751.jpg
+    - '3'
+  - - /home/m/dev/ai/10/data/images/training/pexels-akshay-mehra-10568782.jpg
+    - '0'
+  - - /home/m/dev/ai/10/data/images/training/pexels-krivec-ales-552774.jpg
+    - '4'
+  - - /home/m/dev/ai/10/data/images/training/pexels-mudassir-ali-1657299.jpg
+    - '1'
+  test:
+  - - /home/m/dev/ai/10/data/images/val/pexels-teona-swift-6913714.jpg
+    - '3'
+  - - /home/m/dev/ai/10/data/images/val/pexels-shazard-r-10594822.jpg
+    - '1'
+  - - /home/m/dev/ai/10/data/images/val/pexels-rolando-brando-2703907.jpg
+    - '1'
+  - - /home/m/dev/ai/10/data/images/val/pexels-sama-bairamova-18193622.jpg
+    - '1'
+  - - /home/m/dev/ai/10/data/images/val/pexels-tyler-lastovich-699122.jpg
+    - '3'
+  - - /home/m/dev/ai/10/data/images/val/pexels-yahn-cv-17389793.jpg
+    - '2'
+  - - /home/m/dev/ai/10/data/images/val/pexels-xiaoming-tian-2884434.jpg
+    - '1'
+  - - /home/m/dev/ai/10/data/images/val/pexels-yahn-cv-17389792.jpg
+    - '2'
+  - - /home/m/dev/ai/10/data/images/val/pexels-teguh-sugi-16269009.jpg
+    - '1'
+  - - /home/m/dev/ai/10/data/images/val/pexels-xiaoming-tian-2884434 (1).jpg
+    - '1'
+  - - /home/m/dev/ai/10/data/images/val/pexels-screen-post-4526469.jpg
+    - '1'
+  - - /home/m/dev/ai/10/data/images/val/pexels-vitali-adutskevich-13793729.jpg
+    - '0'
+  - - /home/m/dev/ai/10/data/images/val/pexels-rdne-stock-project-4921398.jpg
+    - '3'
+  - - /home/m/dev/ai/10/data/images/val/pexels-vlad-chețan-3121979.jpg
+    - '3'
+  - - /home/m/dev/ai/10/data/images/val/pexels-ultra-2907810.jpg
+    - '1'
+  - - /home/m/dev/ai/10/data/images/val/pexels-sairam-rasa-3419331.jpg
+    - '4'
+  - - /home/m/dev/ai/10/data/images/val/pexels-roman-odintsov-4870844.jpg
+    - '1'
+epochs: 50
+time: null
+patience: 100
+batch: 16
+imgsz: 640
+save: true
+save_period: -1
+cache: false
+device: null
+workers: 8
+project: null
+name: yolov8n_custom5
+exist_ok: false
+pretrained: true
+optimizer: auto
+verbose: true
+seed: 0
+deterministic: true
+single_cls: false
+rect: false
+cos_lr: false
+close_mosaic: 10
+resume: false
+amp: true
+fraction: 1.0
+profile: false
+freeze: null
+multi_scale: false
+overlap_mask: true
+mask_ratio: 4
+dropout: 0.0
+val: true
+split: val
+save_json: false
+save_hybrid: false
+conf: null
+iou: 0.7
+max_det: 300
+half: false
+dnn: false
+plots: true
+source: null
+vid_stride: 1
+stream_buffer: false
+visualize: false
+augment: false
+agnostic_nms: false
+classes: null
+retina_masks: false
+embed: null
+show: false
+save_frames: false
+save_txt: false
+save_conf: false
+save_crop: false
+show_labels: true
+show_conf: true
+show_boxes: true
+line_width: null
+format: torchscript
+keras: false
+optimize: false
+int8: false
+dynamic: false
+simplify: true
+opset: null
+workspace: 4
+nms: false
+lr0: 0.01
+lrf: 0.01
+momentum: 0.937
+weight_decay: 0.0005
+warmup_epochs: 3.0
+warmup_momentum: 0.8
+warmup_bias_lr: 0.1
+box: 7.5
+cls: 0.5
+dfl: 1.5
+pose: 12.0
+kobj: 1.0
+label_smoothing: 0.0
+nbs: 64
+hsv_h: 0.015
+hsv_s: 0.7
+hsv_v: 0.4
+degrees: 0.0
+translate: 0.1
+scale: 0.5
+shear: 0.0
+perspective: 0.0
+flipud: 0.0
+fliplr: 0.5
+bgr: 0.0
+mosaic: 1.0
+mixup: 0.0
+copy_paste: 0.0
+copy_paste_mode: flip
+auto_augment: randaugment
+erasing: 0.4
+crop_fraction: 1.0
+cfg: null
+tracker: botsort.yaml
+save_dir: /home/m/dev/ai/runs/classify/yolov8n_custom5

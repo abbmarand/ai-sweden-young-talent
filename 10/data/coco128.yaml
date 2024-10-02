@@ -1,0 +1,13 @@
+path: /content/data_deshi_name/images
+train: /content/data_deshi_name/images/training
+val: /content/data_deshi_name/images/val
+
+# Classes
+names:
+  0: gadi
+  1: piyari
+  2: hamrah
+  3: mobile
+  4: watch
+  5: bili
+  6: khuto

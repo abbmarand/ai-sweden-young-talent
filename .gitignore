@@ -13,3 +13,5 @@ pip-selfcheck.json
 wiki_en
 *.pth
 *.zip
+model
+mistral-pytorch-7b-instruct-v0.1-hf-v1.tar.gz

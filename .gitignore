@@ -13,3 +13,4 @@ pip-selfcheck.json
 wiki_en
 *.pth
 *.zip
+processed_data

@@ -16,3 +16,6 @@ wiki_en
 processed_data
 etc
 share
+*.mp4
+*.wav
+*.mp3
